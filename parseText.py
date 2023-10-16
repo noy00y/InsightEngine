@@ -7,7 +7,9 @@ from unidecode import unidecode
 import os
 
 # Regex Patterns:
+# NOTE: Regex Patterns Explained in ReadME
 NUMBERS = r'^\s*(\([-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?\)|[-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?)$'
+
 # few examples what this regex expression returns
 # EG.
 # 100,000
