@@ -17,7 +17,11 @@ class Converter:
         self.text = None # Dataframe
 
     # Extract Text and Gather Stats
-    def create_text(self):
+    def extract_text(self):
+        """
+        - Extracts Text
+        - Generates Log
+        """
         # Open PDF for reading and log for tracking stats
         pdf = fitz.open(self.pdf)
         statsLog = open("statsLog.txt", "w", encoding="utf-8")
@@ -63,14 +67,36 @@ class Converter:
                                     statsLog.write(log_output + "\n")
                                     rows.append((xmin, ymin, xmax, ymax, text, is_upper, is_bold, span_font, font_size))
 
-        # Close files and create text dataframe:
+        # Create text dataframe and close files:
+        self.text = pd.DataFrame(rows, columns=['xmin','ymin','xmax','ymax', 'text', 'is_upper','is_bold','span_font', 'font_size'])
         statsLog.close()
         pdf.close()
-        self.text = pd.DataFrame(rows, columns=['xmin','ymin','xmax','ymax', 'text', 'is_upper','is_bold','span_font', 'font_size'])
         return
     
-    # Generate Scores from text for formatting
     def generate_format(self):
+        """
+        - Generate font frequencies for formatting text
+        """
+        span_scores = [] # collect font sizes as scores
+        special = '[(_:/,#%\=@)]'
+        for _, row in self.text.iterrows():
+            score = round(row.font_size) # round font size
+            text = row.text
+            if not re.search(special, text): # if text is not special chars
+                if row.is_bold: score += 1  # if bold or uppercase --> increase score
+                if row.is_upper: score += 1
+            # print(f"Score: {score}")
+            span_scores.append(score)
+
+        # Gather scores (font) and score freq (counts) --> store in score dict
+        values, counts = np.unique(span_scores, return_counts = True)
+        style_dict = {} # holds frequency for each font size
+
+        for value, count in zip(values, counts):
+            style_dict[value] = count
+        sorted(style_dict.items(), key=lambda x: x[1])
+
+        # 
 
         return
 
@@ -81,3 +107,4 @@ class Converter:
     def generate_markdown(self):
 
         return
+
