@@ -127,7 +127,6 @@ class Converter:
         self.text["tag"] = span_tags
 
         # Create Header and Text 
-
         for index, row in self.text.iterrows():
             text = row.text
             tag = row.tag
@@ -147,6 +146,14 @@ class Converter:
         return
     
     def generate_markdown(self):
+    
+        file = open("output.md", "w", encoding="utf-8")
 
+        for line in self.output:
+            file.write(f"{line}\n")
+        
+        file.close()
         return
+    
+
 
