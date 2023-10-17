@@ -1,0 +1,1267 @@
+Page: 1, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 1, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 1
+Page: 1, Font Size: 18.0, Upper: True, Bold: False, block number: 16, Text: TD
+Page: 1, Font Size: 18.0, Upper: False, Bold: False, block number: 16, Text: Bank Group Reports Third
+Page: 1, Font Size: 18.0, Upper: False, Bold: False, block number: 16, Text: Quarter 2023 Results
+Page: 1, Font Size: 10.979999542236328, Upper: False, Bold: True, block number: 17, Text: Earnings News Release
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 17, Text:  *
+Page: 1, Font Size: 10.020000457763672, Upper: False, Bold: False, block number: 17, Text: Three and nine months ended July 31, 2023
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: This quarterly Earnings News Release should be read in conjunction with the Bank's unaudited third quarter 2023 Report to Shareholders for the three and nine
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 19, Text: months ended July 31, 2023, prepared in accordance with International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: Board (IASB), which is available on our website at
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text:  http://www.td.com/investor/
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: .
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: This analysis is dated August 23, 2023. Unless otherwise indicated, all amounts are
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: expressed in Canadian dollars, and have been primarily derived from the Bank's Annual or Interim Consolidated Financial Statements prepared in accordance with
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: IFRS. Certain comparative amounts have been revised to conform to the presentation adopted in the current period. Additional information relating to the Bank is
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: available on the Bank's website at
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text:  http://www.td.com
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: ,
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: as well as on SEDAR at
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: http://www.sedar.com
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: and on the U.S. Securities and Exchange Commission's
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: (SEC) website at
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: http://www.sec.gov
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: (EDGAR filers section).
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 25, Text: Reported results conform to generally accepted accounting principles (GAAP), in accordance with IFRS. Adjusted results are non-GAAP financial measures.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: For additional information about the Bank's use of non-GAAP financial measures, refer to "Non-GAAP and Other Financial Measures" in the "How We Performed"
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: section of this document.
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 28, Text: THIRD QUARTER FINANCIAL HIGHLIGHTS, compared with the third quarter last year:
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 29, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 29, Text:  Reported diluted earnings per share were $1.57, compared with $1.75.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 30, Text:  Adjusted diluted earnings per share were $1.99, compared with $2.09.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 31, Text:  Reported net income was $2,963 million, compared with $3,214 million.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 32, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 32, Text:  Adjusted net income was $3,731 million, compared with $3,813 million.
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 33, Text: YEAR-TO-DATE FINANCIAL HIGHLIGHTS, nine months ended July 31, 2023, compared with the corresponding period last year:
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 34, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 34, Text:  Reported diluted earnings per share were $4.11, compared with $5.85.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 35, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 35, Text:  Adjusted diluted earnings per share were $6.16, compared with $6.18.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 36, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 36, Text:  Reported net income was $7,896 million, compared with $10,758 million.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 37, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 37, Text:  Adjusted net income was $11,638 million, compared with $11,360 million.
+Page: 1, Font Size: 7.5, Upper: True, Bold: True, block number: 38, Text: THIRD QUARTER ADJUSTMENTS (ITEMS OF NOTE)
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 39, Text: The third quarter reported earnings figures included the following items of note:
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 40, Text:  Amortization of acquired intangibles of $88 million ($75 million after-tax or 4 cents per share), compared with $58 million ($52 million after-tax or
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 40, Text: 3 cents per share) in the third quarter last year.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 41, Text:  Acquisition and integration charges related to the Schwab transaction of $54 million ($44 million after-tax or 2 cents per share), compared with
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 42, Text:  Acquisition and integration-related charges for acquisitions, including current period winddown costs of the terminated First Horizon transaction, of
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 42, Text: year.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 43, Text:  Payment related to the termination of the First Horizon transaction of $306 million ($306 million after-tax or 17 cents per share).
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 44, Text:  Impact of strategy to mitigate interest rate volatility to closing capital related to the terminated First Horizon transaction:
+Page: 1, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 45, Text: -
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 45, Text:  Net loss of $114 million ($86 million after-tax or 5 cents per share), compared with $678 million ($505 million after-tax or 28 cents per share) in the
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 45, Text: third quarter last year.
+Page: 1, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 46, Text: -
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 46, Text:  After termination of the merger agreement, net loss of $63 million ($48 million after-tax or 3 cents per share).
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: *
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 47, Text:  Impact of retroactive tax legislation on payment card clearing services of $57 million ($41 million after-tax or 2 cents per share).
+Page: 1, Font Size: 7.5, Upper: True, Bold: True, block number: 48, Text: TORONTO
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: , August 24, 2023 - TD Bank Group ("TD" or the "Bank") today announced its financial results for the third quarter ended July 31, 2023. Reported
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: earnings were $3.0 billion, down 8% compared with the third quarter last year, and adjusted earnings were $3.7 billion, down 2%.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 49, Text: "TD delivered strong revenue growth in the quarter and demonstrated the value of its diversified business mix in a challenging economic environment," said Bharat
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 49, Text: Masrani, Group President and Chief Executive Officer, TD Bank Group. "Investments across our business further strengthened the Bank's ability to deliver
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 49, Text: legendary experiences to more than 27 million customers."
+Page: 1, Font Size: 7.5, Upper: False, Bold: True, block number: 50, Text: Canadian Personal and Commercial Banking delivered strong results on continued loan and deposit growth
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: Canadian Personal and Commercial Banking net income was $1,655 million, a decline of 1% compared to the third quarter last year. The decrease primarily
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: reflects higher provisions for credit losses (PCL), partially offset by revenue growth. Revenue was $4,570 million, an increase of 7%, reflecting volume growth and
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: higher margins. The segment delivered its eighth consecutive quarter of positive operating leverage.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: Canadian Personal and Commercial Banking maintained its position as a leading core deposit franchise, driven in part by strong account openings, including a
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: record quarter for New to Canada account openings. Strong credit card customer acquisition and continued loan growth in personal and business banking also
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: contributed to the segment's momentum. This quarter, TD further enhanced its collaboration with global brands including its sponsorship of the Toronto Blue Jays.
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: The Toronto Blue Jays added the TD shield to their iconic jersey and the Bank is developing exclusive in-game benefits for TD credit cardholders. In addition, TD's
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: Canadian mobile banking app was ranked "Highest in Customer Satisfaction" by J.D. Power in recognition of overall customer satisfaction for navigation, speed,
+Page: 1, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: visual appeal, and content.
+Page: 1, Font Size: 6.0, Upper: False, Bold: False, block number: 53, Text: J.D. Power 2023 Canada Banking Mobile App Satisfaction Study; 2023 CIBC and TD Canada Trust rank highest in a tie in banking mobile app satisfaction, each with a score of 641. Visit
+Page: 1, Font Size: 6.0, Upper: False, Bold: False, block number: 54, Text: jdpower.com/business/awards
+Page: 1, Font Size: 6.0, Upper: False, Bold: False, block number: 54, Text: for more details
+Page: 2, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 2, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 2
+Page: 2, Font Size: 7.5, Upper: False, Bold: True, block number: 5, Text: The U.S. Retail Bank delivered strong loan growth and resilient personal and business deposits
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: U.S. Retail reported net income of $1,314 million, a decrease of 9% (12% in U.S. dollars) compared with the third quarter last year. On an adjusted basis, net
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: income was $1,377 million, a decline of 6% (9% in U.S. dollars). Reported net income included acquisition and integration-related charges for the terminated First
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: Horizon Corporation ("First Horizon") transaction of $84 million or US$63 million ($63 million or US$48 million after-tax). TD Bank's investment in The Charles
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: Schwab Corporation ("Schwab") contributed $191 million in earnings, a decrease of 34% (37% in U.S. dollars) compared with the third quarter last year.
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: The U.S. Retail Bank, which excludes the Bank's investment in Schwab, reported net income of $1,123 million (US$842 million), a decrease of 3% (a decrease of
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: 6% in U.S. dollars) from the third quarter last year, primarily reflecting higher non-interest expenses and higher PCL, partially offset by higher revenue. On an
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: adjusted basis, net income was $1,186 million (US$890 million), an increase of 1% (a decrease of 3% in U.S. dollars) from the third quarter last year, due to higher
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: revenue which was partially offset by higher expenses, and higher PCL as credit conditions continue to normalize.
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: The U.S. Retail Bank delivered another strong quarter, with personal loan growth of 11%, and business loan growth of 9%, reflecting new customer acquisition and
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: deepening relationships in core franchise businesses. Total personal and business deposit balances remained resilient in a challenging environment, further
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: strengthened by strong account acquisition in chequing and term deposits.
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: TD Bank, America's Most Convenient Bank(r) (TD AMCB) now serves over 10 million customers, including those being served by three new stores in low- and
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: moderate-income areas in Charlotte, North Carolina and Tampa, Florida, reflective of TD's commitment to reinvesting in communities. This quarter TD AMCB
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: continued to execute on its wealth strategy, renovating existing stores to better facilitate advice conversations with customers. TD AMCB was also recognized with
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: the top score of 100 in the 2023 Disability Equality Index for the ninth consecutive year and TD Auto Finance was proud to be ranked "Highest in Dealer
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: Satisfaction among Non-Captive Lenders with Prime Credit" for the fourth consecutive year in the J.D. Power 2023 U.S. Dealer Financing Satisfaction Study.
+Page: 2, Font Size: 6.0, Upper: False, Bold: False, block number: 10, Text: J.D. Power 2023 U.S. Dealer Financing Satisfaction Study. Visit
+Page: 2, Font Size: 6.0, Upper: False, Bold: False, block number: 10, Text: jdpower.com/business/awards
+Page: 2, Font Size: 6.0, Upper: False, Bold: False, block number: 10, Text: for more details
+Page: 2, Font Size: 7.5, Upper: False, Bold: True, block number: 11, Text: Wealth Management and Insurance delivered strong operating momentum
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: Wealth Management and Insurance net income was $504 million, a decrease of 12% compared with the third quarter last year, reflecting the impact of more
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: severe weather-related events and lower transaction revenue in Wealth Management. Revenue increased 1% in the quarter, demonstrating the strength of the
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: segment's diversified business model, as higher insurance revenue and net interest income helped offset the impact of trading normalization.
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: This quarter, the Wealth Management business continued to gain market share, with TD Financial Planning expanding the fastest among the Big 5 Banks,
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: and
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: TD Asset Management extending its position as the leading Canadian Institutional asset manager.
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: TD Direct Investing maintained its #1 position across key
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: categories, including Total Accounts, Revenue, Trades, and Assets Under Administration, with record growth in share of gross new accounts.
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: TD Insurance
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: opened its 25
+Page: 2, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 13, Text: th
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text:  Auto Centre location, further extending its competitive advantage through legendary customer experiences in a market impacted by supply chain
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: and inflationary pressures.
+Page: 2, Font Size: 6.0, Upper: False, Bold: False, block number: 14, Text: Big 5 Banks defined as The Toronto-Dominion Bank, Royal Bank of Canada, Bank of Montreal, Bank of Nova Scotia and Canadian Imperial Bank of Commerce. Investor Economics | A division of ISS
+Page: 2, Font Size: 6.0, Upper: False, Bold: False, block number: 14, Text: Market Intelligence. Mass Affluent Service Models, December 2022
+Page: 2, Font Size: 6.0, Upper: False, Bold: False, block number: 15, Text: Investor Economics | A division of ISS Market Intelligence. Money Manager Advisory Service Spring 2023
+Page: 2, Font Size: 6.0, Upper: False, Bold: False, block number: 16, Text: Investor Economics | A division of ISS Market Intelligence. Retail Brokerage and Distribution Quarterly Update, Spring 2023
+Page: 2, Font Size: 7.5, Upper: False, Bold: True, block number: 17, Text: Strong performance and growth across Wholesale Banking including TD Cowen
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: Wholesale Banking reported net income for the quarter was $272 million, relatively flat compared to the third quarter last year. This reflects record revenue and
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: higher non-interest expenses, which include acquisition and integration costs, and reflects the first full quarter of revenues from TD Cowen. On an adjusted basis,
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: net income was $377 million, an increase of $106 million, or 39%. Revenue increased 46%, reflecting the benefits of the Cowen Inc. acquisition as well as growth
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: in Global Markets and Corporate and Investment Banking.
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 19, Text: The integration of the Cowen Inc. acquisition, which closed on March 1, 2023, remains on track and will accelerate Wholesale Banking's U.S. dollar growth
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 19, Text: strategy. The combined organization delivers an expanded product and service offering, increased depth in key business lines, greater scale and high-quality
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 19, Text: talent.
+Page: 2, Font Size: 7.5, Upper: False, Bold: True, block number: 20, Text: Capital
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: TD's Common Equity Tier 1 Capital ratio was 15.2%.
+Page: 2, Font Size: 7.5, Upper: False, Bold: True, block number: 22, Text: Conclusion
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: "As we look ahead, TD is in a position of strength, with a growing franchise and a strong capital position," added Masrani. "I'd like to thank our more than 95,000
+Page: 2, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: TD bankers across our global footprint for continuing to deliver on our purpose to enrich the lives of our customers, colleagues and communities every day."
+Page: 2, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 24, Text: The foregoing contains forward-looking statements. Please refer to the "Caution Regarding Forward-Looking Statements" on page 3.
+Page: 3, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 3
+Page: 3, Font Size: 6.0, Upper: False, Bold: True, block number: 38, Text: Caution Regarding Forward-Looking Statements
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 39, Text: From time to time, the Bank (as defined in this document) makes written and/or oral forward-looking statements, including in this document, in other filings with Canadian regulators or the United States
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 40, Text: (U.S.) Securities and Exchange Commission (SEC), and in other communications. In addition, representatives of the Bank may make forward-looking statements orally to analysts, investors, the media
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 41, Text: and others. All such statements are made pursuant to the "safe harbour" provisions of, and are intended to be forward-looking statements under, applicable Canadian and U.S. securities legislation,
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 42, Text: including the 
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 42, Text: U.S. Private Securities Litigation Reform Act of 1995
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 42, Text: . Forward-looking statements include, but are not limited to, statements made in this document, the Management's Discussion and
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 43, Text: Analysis ("2022 MD&A") in the Bank's 2022 Annual Report under the heading "Economic Summary and Outlook", under the headings "Key Priorities for 2023" and "Operating Environment and Outlook" for
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 44, Text: the Canadian Personal and Commercial Banking, U.S. Retail, Wealth Management and Insurance, and Wholesale Banking segments, and under the heading "2022 Accomplishments and Focus for 2023"
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 45, Text: for the Corporate segment, and in other statements regarding the Bank's objectives and priorities for 2023 and beyond and strategies to achieve them, the regulatory environment in which the Bank
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 46, Text: operates, and the Bank's anticipated financial performance. Forward-looking statements are typically identified by words such as "will", "would", "should", "believe", "expect", "anticipate", "intend",
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 47, Text: "estimate", "plan", "goal", "target", "may", and "could".
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 48, Text: By their very nature, these forward-looking statements require the Bank to make assumptions and are subject to inherent risks and uncertainties, general and specific. Especially in light of the uncertainty
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 49, Text: related to the physical, financial, economic, political, and regulatory environments, such risks and uncertainties - many of which are beyond the Bank's control and the effects of which can be difficult to
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 50, Text: predict - may cause actual results to differ materially from the expectations expressed in the forward-looking statements. Risk factors that could cause, individually or in the aggregate, such differences
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 51, Text: include: strategic, credit, market (including equity, commodity, foreign exchange, interest rate, and credit spreads), operational (including technology, cyber security, and infrastructure), model, insurance,
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 52, Text: liquidity, capital adequacy, legal, regulatory compliance and conduct, reputational, environmental and social, and other risks. Examples of such risk factors include general business and economic
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 53, Text: conditions in the regions in which the Bank operates; geopolitical risk; inflation, rising rates and recession; the economic, financial, and other impacts of pandemics, including the COVID-19 pandemic; the
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 54, Text: ability of the Bank to execute on long-term strategies and shorter-term key strategic priorities, including the successful completion and integration of acquisitions and dispositions, business retention plans,
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 55, Text: and strategic plans; technology and cyber security risk (including cyber-attacks, data security breaches or technology failures) on the Bank's information technology, internet, network access or other voice
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 56, Text: or data communications systems or services; model risk; fraud activity; the failure of third parties to comply with their obligations to the Bank or its affiliates, including relating to the care and control of
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 57, Text: information, and other risks arising from the Bank's use of third-party service providers; the impact of new and changes to, or application of, current laws and regulations, including without limitation tax
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 58, Text: laws, capital guidelines and liquidity regulatory guidance; regulatory oversight and compliance risk; increased competition from incumbents and new entrants (including Fintechs and big technology
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 59, Text: competitors); shifts in consumer attitudes and disruptive technology; exposure related to significant litigation and regulatory matters; ability of the Bank to attract, develop, and retain key talent; changes to
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 60, Text: the Bank's credit ratings; changes in foreign exchange rates, interest rates, credit spreads and equity prices; increased funding costs and market volatility due to market illiquidity and competition for
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 61, Text: funding; Interbank Offered Rate (IBOR) transition risk; critical accounting estimates and changes to accounting standards, policies, and methods used by the Bank; existing and potential international debt
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 62, Text: crises; environmental and social risk (including climate change); and the occurrence of natural and unnatural catastrophic events and claims resulting from such events. The Bank cautions that the
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 63, Text: preceding list is not exhaustive of all possible risk factors and other factors could also adversely affect the Bank's results. For more detailed information, please refer to the "Risk Factors and Management"
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 64, Text: section of the 2022 MD&A, as may be updated in subsequently filed quarterly reports to shareholders and news releases (as applicable) related to any events or transactions discussed under the heading
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 65, Text: "Significant Acquisitions", "Significant and Subsequent Events, and Pending Acquisitions", "Significant and Subsequent Events" or "Significant Events" in the relevant MD&A, which applicable releases may
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 66, Text: be found on www.td.com
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 66, Text: . All such factors, as well as other uncertainties and potential events, and the inherent uncertainty of forward-looking statements, should be considered carefully when making
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 67, Text: decisions with respect to the Bank. The Bank cautions readers not to place undue reliance on the Bank's forward-looking statements.
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 68, Text: Material economic assumptions underlying the forward-looking statements contained in this document are set out in the 2022 MD&A under the heading "Economic Summary and Outlook", under the
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 69, Text: headings "Key Priorities for 2023" and "Operating Environment and Outlook" for the Canadian Personal and Commercial Banking, U.S. Retail, Wealth Management and Insurance, and Wholesale Banking
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 70, Text: segments, and under the heading "2022 Accomplishments and Focus for 2023" for the Corporate segment, each as may be updated in subsequently filed quarterly reports to shareholders.
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 71, Text: Any forward-looking statements contained in this document represent the views of management only as of the date hereof and are presented for the purpose of assisting the Bank's shareholders and
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 72, Text: analysts in understanding the Bank's financial position, objectives and priorities and anticipated financial performance as at and for the periods ended on the dates presented, and may not be appropriate
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 73, Text: for other purposes. The Bank does not undertake to update any forward-looking statements, whether written or oral, that may be made from time to time by or on its behalf, except as required under
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 74, Text: applicable securities legislation.
+Page: 3, Font Size: 6.0, Upper: False, Bold: False, block number: 75, Text: This document was reviewed by the Bank's Audit Committee and was approved by the Bank's Board of Directors, on the Audit Committee's recommendation, prior to its release.
+Page: 4, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 4, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 4
+Page: 4, Font Size: 7.5, Upper: True, Bold: True, block number: 2, Text: TABLE 1: FINANCIAL HIGHLIGHTS
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: (millions of Canadian dollars, except as noted)
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: For the three months ended
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: For the nine months ended
+Page: 4, Font Size: 7.5, Upper: False, Bold: True, block number: 4, Text: July 31
+Page: 4, Font Size: 7.5, Upper: False, Bold: True, block number: 5, Text: 2023
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: April 30
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: 2023
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: July 31
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: 2022
+Page: 4, Font Size: 7.5, Upper: False, Bold: True, block number: 9, Text: July 31
+Page: 4, Font Size: 7.5, Upper: False, Bold: True, block number: 9, Text: 2023
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: July 31
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: 2022
+Page: 4, Font Size: 7.5, Upper: False, Bold: True, block number: 11, Text: Results of operations
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: Total revenue - reported
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: Total revenue - adjusted
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: Provision for (recovery of) credit losses
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 15, Text: Insurance claims and related expenses
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: Non-interest expenses - reported
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: Non-interest expenses - adjusted
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: Net income - reported
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 19, Text: Net income - adjusted
+Page: 4, Font Size: 7.5, Upper: False, Bold: True, block number: 20, Text: Financial position 
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: (billions of Canadian dollars)
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: Total loans net of allowance for loan losses
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: Total assets
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: Total deposits
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: Total equity
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 25, Text: Total risk-weighted assets
+Page: 4, Font Size: 7.5, Upper: False, Bold: True, block number: 26, Text: Financial ratios
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: Return on common equity (ROE) - reported
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 28, Text: Return on common equity - adjusted
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 29, Text: Return on tangible common equity (ROTCE)
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: Return on tangible common equity - adjusted
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: Efficiency ratio - reported
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 32, Text: Efficiency ratio - adjusted
+Page: 4, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 32, Text: , 
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 33, Text: Provision for (recovery of) credit losses as a % of net
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 33, Text: average loans and acceptances
+Page: 4, Font Size: 7.5, Upper: False, Bold: True, block number: 34, Text: Common share information - reported 
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 34, Text: (Canadian dollars)
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 35, Text: Per share earnings
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 36, Text: Basic
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 37, Text: Diluted
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 38, Text: Dividends per share
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: Book value per share
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: Closing share price
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: Shares outstanding (millions)
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: Average basic
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: Average diluted
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: End of period
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 45, Text: Market capitalization (billions of Canadian dollars)
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: Dividend yield
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: Dividend payout ratio
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: Price-earnings ratio
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 49, Text: Total shareholder return (1 year)
+Page: 4, Font Size: 7.5, Upper: False, Bold: True, block number: 50, Text: Common share information - adjusted 
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: (Canadian dollars)
+Page: 4, Font Size: 4.980000019073486, Upper: False, Bold: True, block number: 50, Text: ,
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: Per share earnings
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: Basic
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 53, Text: Diluted
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 54, Text: Dividend payout ratio
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 55, Text: Price-earnings ratio
+Page: 4, Font Size: 7.5, Upper: False, Bold: True, block number: 56, Text: Capital ratios
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 57, Text: Common Equity Tier 1 Capital ratio
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 58, Text: Tier 1 Capital ratio
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 59, Text: Total Capital ratio
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 60, Text: Leverage ratio
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 61, Text: TLAC ratio
+Page: 4, Font Size: 7.5, Upper: False, Bold: False, block number: 62, Text: TLAC Leverage ratio
+Page: 4, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 63, Text: The Toronto-Dominion Bank ("TD" or the "Bank") prepares its Interim Consolidated Financial Statements in accordance with IFRS, the current GAAP, and refers to results prepared in
+Page: 4, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 63, Text: accordance with IFRS as the "reported" results. The Bank also utilizes non-GAAP financial measures such as "adjusted" results and non-GAAP ratios to assess each of its businesses
+Page: 4, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 63, Text: and to measure overall Bank performance. To arrive at adjusted results, the Bank adjusts reported results for "items of note". Refer to the "How We Performed" section of this document
+Page: 4, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 63, Text: for further explanation, a list of the items of note, and a reconciliation of adjusted to reported results. Non-GAAP financial measures and ratios used in this document are not defined terms
+Page: 4, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 63, Text: under IFRS and, therefore, may not be comparable to similar terms used by other issuers.
+Page: 4, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 64, Text: These measures have been included in this document in accordance with the Office of the Superintendent of Financial Institutions Canada's (OSFI's) Capital Adequacy Requirements,
+Page: 4, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 64, Text: Leverage Requirements, and Total Loss Absorbing Capacity (TLAC) guidelines. Refer to the "Capital Position" section in the third quarter of 2023 MD&A for further details.
+Page: 4, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 65, Text: For additional information about this metric, refer to the Glossary in the third quarter of 2023 MD&A, which is incorporated by reference.
+Page: 4, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 66, Text: Toronto Stock Exchange closing market price.
+Page: 5, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 5, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 5
+Page: 5, Font Size: 10.020000457763672, Upper: True, Bold: True, block number: 3, Text: SIGNIFICANT EVENTS
+Page: 5, Font Size: 7.5, Upper: False, Bold: True, block number: 4, Text: a) 
+Page: 5, Font Size: 7.5, Upper: False, Bold: True, block number: 4, Text: Acquisition of Cowen Inc.
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: On March 1, 2023, the Bank completed the acquisition of Cowen Inc. ("Cowen"). The acquisition advances the Wholesale Banking segment's long-term growth
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: strategy in the U.S. and adds complementary products and services to the Bank's existing businesses. The results of the acquired business have been
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: consolidated by the Bank from the closing date and primarily reported in the Wholesale Banking segment. Consideration included $1,500 million
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: (US$1,100 million) in cash for 100% of Cowen's common shares outstanding, $253 million (US$186 million) for the settlement of Cowen's Series A Preferred
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: Stock, and $205 million (US$151 million) related to the replacement of share-based payment awards.
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: The acquisition was accounted for as a business combination under the purchase method. The purchase price allocation can be adjusted during the
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: measurement period, which shall not exceed one year from the acquisition date, to reflect new information obtained about facts and circumstances. The
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: acquisition contributed $10,800 million (US$7,933 million) of assets and $9,884 million (US$7,261 million) of liabilities. The excess of accounting consideration
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: over the fair value of the tangible net assets acquired is allocated to other intangible assets of $298 million (US$219 million) net of taxes, and goodwill of
+Page: 5, Font Size: 7.5, Upper: False, Bold: True, block number: 7, Text: b)
+Page: 5, Font Size: 7.5, Upper: False, Bold: True, block number: 7, Text:  Termination of the Merger Agreement with First Horizon Corporation
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: On May 4, 2023, the Bank and First Horizon Corporation ("First Horizon") announced their mutual decision to terminate the previously announced merger
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: agreement for the Bank to acquire First Horizon. Under the terms of the termination agreement, the Bank made a $306 million (US$225 million) cash payment to
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: First Horizon on May 5, 2023. The termination payment is recognized in non-interest expenses in the current quarter and is reported in the Corporate segment.
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: In connection with the transaction, the Bank had invested US$494 million in non-voting First Horizon preferred stock. During the prior quarter, the Bank
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: recognized a valuation adjustment loss of $199 million (US$147 million) on this investment, recorded in other comprehensive income. On June 26, 2023, in
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: accordance with the terms of the preferred share purchase agreement, the preferred stock converted into approximately 19.7 million common shares of First
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: Horizon, resulting in the Bank recognizing a loss of $166 million (US$126 million) in other comprehensive income based on First Horizon's common share price at
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: the time of conversion.
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: The Bank had also implemented a strategy to mitigate the impact of interest rate volatility to capital on closing of the acquisition. The Bank determined that the
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: fair value of First Horizon's fixed rate financial assets and liabilities and certain intangible assets would have been sensitive to interest rate changes. The fair value
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: of net assets would have determined the amount of goodwill to be recognized on closing of the acquisition. Increases in goodwill and intangibles would have
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: negatively impacted capital ratios because they are deducted from capital under OSFI Basel III rules. In order to mitigate this volatility to closing capital, the Bank
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: de-designated certain interest rate swaps hedging fixed income investments in fair value hedge accounting relationships.
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: As a result of the de-designation, mark-to-market gains (losses) on these swaps were recognized in earnings, without any corresponding offset from the
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: previously hedged investments. Such gains (losses) would have mitigated the capital impact from changes in the amount of goodwill recognized on closing of the
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: acquisition. The de-designation also triggered the amortization of the investments' basis adjustment to net interest income over the remaining expected life of the
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: investments.
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: Prior to the termination of the merger agreement on May 4, 2023, for the three months and nine months ended July 31, 2023, the Bank reported ($125) million
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: and ($1,386) million, respectively, in non-interest income related to the mark-to-market on the swaps, and $11 million and $262 million, respectively, in net interest
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: income related to the basis adjustment amortization. In addition, for the three months and nine months ended July 31, 2023, the Bank reported $23 million and
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: Following the announcement to terminate the merger agreement, the Bank discontinued this strategy and reinstated hedge accounting on the portfolio of fixed
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: income investments using new swaps entered into at higher market rates. Income recognized from this strategy will reverse over time causing a decrease to net
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: interest income. During the period, the decrease to net interest income was $63 million recorded in the Corporate segment.
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: The Bank had also implemented a strategy to mitigate FX risk on the expected USD cash consideration. Following the announcement to terminate the merger
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: agreement, the Bank discontinued this strategy. Given the appreciation of the U.S. dollar during the life of the strategy, the Bank was in a net gain position on the
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: date of hedge termination and cumulative net gains were recognized in accumulated other comprehensive income.
+Page: 5, Font Size: 7.5, Upper: False, Bold: True, block number: 15, Text: c)
+Page: 5, Font Size: 7.5, Upper: False, Bold: True, block number: 15, Text:  Implementation of the Canada Recovery Dividend and Change in Corporate Tax Rate
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: On December 15, 2022, Bill C-32, 
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: Fall Economic Statement Implementation Act
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: , 
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: 2022
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: , received Royal Assent. This bill enacted the Canada Recovery Dividend
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: (CRD) and increased the Canadian federal tax rate for bank and life insurer groups by 1.5%.
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: The implementation of the CRD resulted in a provision for income taxes of $553 million and a charge to other comprehensive income of $239 million,
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: recognized in the first quarter of 2023.
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: The increase in the Canadian federal tax rate of 1.5%, prorated for the first taxation year that ends after April 7, 2022, resulted in a provision for income taxes of
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: certain Canadian deferred tax assets and liabilities for the increase in tax rate, which resulted in an increase in net deferred tax assets of $50 million, which is
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: recorded in provision for income taxes.
+Page: 5, Font Size: 7.5, Upper: False, Bold: True, block number: 19, Text: d)
+Page: 5, Font Size: 7.5, Upper: False, Bold: True, block number: 19, Text:  Stanford Litigation Settlement
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: In the US 
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: Rotstain v. Trustmark National Bank, et al. 
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: action, on February 24, 2023, the Bank reached a settlement in principle (the "settlement" or "agreement")
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: relating to litigation involving the Stanford Financial Group (the "Stanford litigation"), pursuant to which the Bank will pay US$1.205 billion to the court-appointed
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: receiver for the Stanford Receivership Estate. Under the terms of the agreement, TD has settled with the receiver, the Official Stanford Investors Committee, and
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: other plaintiffs in the litigation and these parties have agreed to release and dismiss all current or future claims arising from or related to the Stanford matter. As a
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: result of this agreement, the Bank recorded a provision of approximately $1.6 billion pre-tax ($1.2 billion after-tax) in the first quarter of 2023. The Bank recognized
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: a foreign exchange loss of $39 million ($28 million after-tax) in the second quarter of 2023, reflecting the impact of the difference between the foreign exchange
+Page: 5, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: rate used for recording the provision (effective January 31, 2023) and the foreign exchange rate at the time the settlement was reached.
+Page: 6, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 6, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 6
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 2, Text: -
+Page: 6, Font Size: 10.020000457763672, Upper: True, Bold: True, block number: 3, Text: HOW WE PERFORMED
+Page: 6, Font Size: 7.5, Upper: True, Bold: True, block number: 4, Text: HOW THE BANK REPORTS
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: The Bank prepares its Interim Consolidated Financial Statements in accordance with IFRS and refers to results prepared in accordance with IFRS as "reported"
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: results.
+Page: 6, Font Size: 7.5, Upper: False, Bold: True, block number: 6, Text: Non-GAAP and Other Financial Measures
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: In addition to reported results, the Bank also presents certain financial measures, including non-GAAP financial measures that are historical, non-GAAP ratios,
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: supplementary financial measures and capital management measures, to assess its results. Non-GAAP financial measures, such as "adjusted" results, are utilized
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: to assess the Bank's businesses and to measure the Bank's overall performance. To arrive at adjusted results, the Bank adjusts for "items of note" from reported
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: results. Items of note are items which management does not believe are indicative of underlying business performance and are disclosed in Table 3. Non-GAAP
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: ratios include a non-GAAP financial measure as one or more of its components. Examples of non-GAAP ratios include adjusted basic and diluted earnings per
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: share (EPS), adjusted dividend payout ratio, adjusted efficiency ratio, and adjusted effective income tax rate. The Bank believes that non-GAAP financial
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: measures and non-GAAP ratios provide the reader with a better understanding of how management views the Bank's performance. Non-GAAP financial measures
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: and non-GAAP ratios used in this document are not defined terms under IFRS and, therefore, may not be comparable to similar terms used by other issuers.
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: Supplementary financial measures depict the Bank's financial performance and position, and capital management measures depict the Bank's capital position, and
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: both are explained in this document where they first appear.
+Page: 6, Font Size: 7.5, Upper: False, Bold: True, block number: 8, Text: U.S. Strategic Cards
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: The Bank's U.S. strategic cards portfolio is comprised of agreements with certain U.S. retailers pursuant to which TD is the U.S. issuer of private label and co
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: branded consumer credit cards to their U.S. customers. Under the terms of the individual agreements, the Bank and the retailers share in the profits generated by
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: the relevant portfolios after credit losses. Under IFRS, TD is required to present the gross amount of revenue and provisions for credit losses (PCL) related to
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: these portfolios in the Bank's Interim Consolidated Statement of Income. At the segment level, the retailer program partners' share of revenues and credit losses is
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: presented in the Corporate segment, with an offsetting amount (representing the partners' net share) recorded in Non-interest expenses, resulting in no impact to
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: Corporate's reported Net income (loss). The Net income (loss) included in the U.S. Retail segment includes only the portion of revenue and credit losses
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: attributable to TD under the agreements.
+Page: 6, Font Size: 7.5, Upper: False, Bold: True, block number: 10, Text: Investment in The Charles Schwab Corporation and IDA Agreement
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: On October 6, 2020, the Bank acquired an approximately 13.5% stake in The Charles Schwab Corporation ("Schwab") following the completion of Schwab's
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: acquisition of TD Ameritrade Holding Corporation ("TD Ameritrade") of which the Bank was a major shareholder (the "Schwab transaction"). On August 1, 2022,
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: the Bank sold 28.4 million non-voting common shares of Schwab, which reduced the Bank's ownership interest in Schwab to approximately 12.0%. The Bank
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: accounts for its investment in Schwab using the equity method. The U.S. Retail segment reflects the Bank's share of net income from its investment in Schwab.
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: The Corporate segment net income (loss) includes amounts for amortization of acquired intangibles and the acquisition and integration charges related to the
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: Schwab transaction. The Bank's share of Schwab's earnings available to common shareholders is reported with a one-month lag. For further details, refer to
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: Note 7 of the Bank's third quarter 2023 Interim Consolidated Financial Statements.
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: On November 25, 2019, the Bank and Schwab signed an insured deposit account agreement ("2019 Schwab IDA Agreement"), with an initial expiration date of
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: July 1, 2031. Pursuant to the 2019 Schwab IDA Agreement, the Bank made sweep deposit accounts available to clients of Schwab. Starting July 1, 2021, Schwab
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: had the option to reduce the deposits by up to US$10 billion per year (subject to certain limitations and adjustments), with a floor of US$50 billion. In addition,
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: Schwab requested some further operational flexibility to allow for the sweep deposit balances to fluctuate over time, under certain conditions and subject to certain
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: limitations. Refer to the "Related Party Transactions" section in the 2022 MD&A for further details.
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: On May 4, 2023, the Bank and Schwab entered into an amended insured deposit account agreement (the "2023 Schwab IDA Agreement"), which replaced the
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: 2019 Schwab IDA Agreement. In comparison to the 2019 Schwab IDA Agreement, the 2023 Schwab IDA Agreement extends the initial expiration date by three
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: years to July 1, 2034 and provides for lower deposit balances in its first six years, followed by higher balances in the later years. Specifically, until
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: September 2025, the aggregate amount of fixed rate obligations will serve as the floor. Thereafter, the floor will be set at US$60 billion. In addition, Schwab has
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: the option to buy down up to US$5 billion of fixed rate obligations by paying the Bank certain fees in accordance with the 2023 Schwab IDA Agreement, subject to
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: certain limits.
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: During the third quarter of 2023, Schwab exercised its option to buy down $3.3 billion (US$2.4 billion) of fixed rate obligations and paid $151 million
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: (US$112 million) in termination fees to the Bank in accordance with the 2023 Schwab IDA Agreement, which is intended to compensate the Bank for losses
+Page: 6, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: incurred this quarter from discontinuing certain hedging relationships, and lost revenues. The net impact is recorded in net interest income.
+Page: 7, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 7, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 7
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: The following table provides the operating results on a reported basis for the Bank.
+Page: 7, Font Size: 7.5, Upper: False, Bold: True, block number: 10, Text: TABLE 2: OPERATING RESULTS - Reported
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: (millions of Canadian dollars)
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: For the three months ended
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: For the nine months ended
+Page: 7, Font Size: 7.5, Upper: False, Bold: True, block number: 12, Text: July 31
+Page: 7, Font Size: 7.5, Upper: False, Bold: True, block number: 13, Text: 2023
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: April 30
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 15, Text: 2023
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: July 31
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: 2022
+Page: 7, Font Size: 7.5, Upper: False, Bold: True, block number: 18, Text: July 31
+Page: 7, Font Size: 7.5, Upper: False, Bold: True, block number: 19, Text: 2023
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: July 31
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: 2022
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: Net interest income
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: Non-interest income
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: Total revenue
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 25, Text: Provision for (recovery of) credit losses
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: Insurance claims and related expenses
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: Non-interest expenses
+Page: 7, Font Size: 7.5, Upper: False, Bold: True, block number: 28, Text: Income before income taxes and share of net income from
+Page: 7, Font Size: 7.5, Upper: False, Bold: True, block number: 28, Text: investment in Schwab
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 29, Text: Provision for (recovery of) income taxes
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: Share of net income from investment in Schwab
+Page: 7, Font Size: 7.5, Upper: False, Bold: True, block number: 31, Text: Net income - reported
+Page: 7, Font Size: 7.5, Upper: False, Bold: False, block number: 32, Text: Preferred dividends and distributions on other equity instruments
+Page: 7, Font Size: 7.5, Upper: False, Bold: True, block number: 33, Text: Net income available to common shareholders
+Page: 8, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 8, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 8
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 4, Text: iv.Payment related to the termination of the First Horizon transaction - Q3 2023: $306 million, reported in the Corporate segment; and 
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 4, Text: v.Stanford litigation settlement - Q1 2023: $1,603 million, reported in the Corporate segment. 
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: The following table provides a reconciliation between the Bank's adjusted and reported results. For further details refer to the "Significant Events" or "Financial
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: Results Overview" sections.
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 11, Text: TABLE 3: NON-GAAP FINANCIAL MEASURES - Reconciliation of Adjusted to Reported Net Income
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: (millions of Canadian dollars)
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: For the three months ended
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: For the nine months ended
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 13, Text: July 31
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 14, Text: 2023
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 15, Text: April 30
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: 2023
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: July 31
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: 2022
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 19, Text: July 31
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 20, Text: 2023
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: July 31
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: 2022
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 23, Text: Operating results - adjusted
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: Net interest income
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 25, Text: Non-interest income
+Page: 8, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 25, Text: , 
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: Total revenue
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: Provision for (recovery of) credit losses
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 28, Text: Insurance claims and related expenses
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 29, Text: Non-interest expenses
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: Income before income taxes and share of net income
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: from investment in Schwab
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: Provision for (recovery of) income taxes
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 32, Text: Share of net income from investment in Schwab
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 33, Text: Net income - adjusted
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 34, Text: Preferred dividends and distributions on other equity instruments
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 35, Text: Net income available to common shareholders - adjusted
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 36, Text: Pre-tax adjustments for items of note
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 37, Text: Amortization of acquired intangibles
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 38, Text: Acquisition and integration charges related to the Schwab transaction
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: Acquisition and integration-related charges for acquisitions, including
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: current period winddown costs of the terminated First Horizon transaction
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: Payment related to the termination of the First Horizon transaction
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: Impact of strategy to mitigate interest rate volatility to closing capital
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: related to the First Horizon transaction
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: - before termination
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: - After termination of the merger agreement
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: Impact of retroactive tax legislation on payment card clearing services
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: Litigation (settlement)/recovery
+Page: 8, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 44, Text: , 
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 44, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 45, Text: Less: Impact of income taxes
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: Amortization of acquired intangibles
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: Acquisition and integration charges related to the Schwab transaction
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: Acquisition and integration-related charges for acquisitions, including
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: current period winddown costs of the terminated First Horizon transaction
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 49, Text: Impact of strategy to mitigate interest rate volatility to closing capital
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 49, Text: related to the First Horizon transaction - before termination
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: - After termination of the merger agreement
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: Impact of retroactive tax legislation on payment card clearing services
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: Litigation (settlement)/recovery
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 52, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 53, Text: CRD and federal tax rate increase for fiscal 2022
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 53, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 53, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 53, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: False, block number: 53, Text: -
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 54, Text: Total adjustments for items of note
+Page: 8, Font Size: 7.5, Upper: False, Bold: True, block number: 55, Text: Net income available to common shareholders - reported
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 56, Text: Adjusted non-interest income excludes the following items of note:
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 57, Text: i.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 57, Text: Stanford litigation settlement - Q2 2023: $39 million. This reflects the foreign exchange loss and is reported in the Corporate segment;
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 58, Text: ii.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 58, Text: Settlement of TD Bank, N.A. v. Lloyd's Underwriter et al., in Canada pursuant to which the Bank recovered losses resulting from the previous resolution of proceedings in the U.S.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 58, Text: related to an alleged Ponzi scheme perpetrated by Scott Rothstein - Q2 2022: $224 million, reported in the U.S. Retail segment; and
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 59, Text: iii.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 59, Text: Impact of retroactive tax legislation on payment card clearing services - Q3 2023: $57 million, reported in the Corporate segment.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 60, Text: Adjusted non-interest expenses exclude the following items of note related to the Bank's asset acquisitions and business combinations:
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 61, Text: i.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 61, Text: Amortization of acquired intangibles - Q3 2023: $58 million, Q2 2023: $49 million, Q1 2023: $24 million, Q3 2022: $23 million, Q2 2022: $26 million, Q1 2022: $33 million, reported in
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 61, Text: the Corporate segment;
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 62, Text: ii.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 62, Text: The Bank's own integration and acquisition costs related to the Schwab transaction - Q3 2023: $38 million, Q2 2023: $18 million, Q1 2023: $21 million, Q3 2022: $11 million,
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 62, Text: Q2 2022: $8 million, Q1 2022: $37 million, reported in the Corporate segment;
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 63, Text: iii.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 63, Text: Acquisition and integration-related charges for acquisitions, including current period winddown costs of the terminated First Horizon transaction - Q3 2023: $227 million, Q2 2023:
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 65, Text: Adjusted share of net income from investment in Schwab excludes the following items of note on an after-tax basis. The earnings impact of both items is reported in the Corporate
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 65, Text: segment:
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 66, Text: i.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 66, Text: Amortization of Schwab-related acquired intangibles - Q3 2023: $30 million, Q2 2023: $30 million, Q1 2023: $30 million, Q3 2022: $35 million, Q2 2022: $34 million, Q1 2022:
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 68, Text: ii.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 68, Text: The Bank's share of acquisition and integration charges associated with Schwab's acquisition of TD Ameritrade - Q3 2023: $16 million, Q2 2023: $12 million, Q1 2023: $13 million,
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 68, Text: Q3 2022: $12 million, Q2 2022: $12 million, Q1 2022: $13 million.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 69, Text: Amortization of acquired intangibles relates to intangibles acquired as a result of asset acquisitions and business combinations, including the after-tax amounts for amortization of
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 69, Text: acquired intangibles relating to the Share of net income from investment in Schwab, reported in the Corporate segment. Refer to footnotes 2 and 3 for amounts.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 70, Text: Acquisition and integration charges related to the Schwab transaction include the Bank's own integration and acquisition costs, as well as the Bank's share of acquisition and integration
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 70, Text: charges associated with Schwab's acquisition of TD Ameritrade on an after-tax basis, both reported in the Corporate segment. Refer to footnotes 2 and 3 for amounts.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 71, Text: Before the termination of the merger agreement, the impact of the strategy to mitigate interest rate volatility to closing capital related to the First Horizon transaction included the following
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 71, Text: components, reported in the Corporate segment: i) mark-to-market gains (losses) on interest rate swaps recorded in non-interest income - Q3 2023: ($125) million, Q2 2023:
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 71, Text: ($263) million, Q1 2023: ($998) million, Q3 2022: ($721) million, ii) basis adjustment amortization related to de-designated fair value hedge accounting relationships, recorded in net
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 71, Text: interest income - Q3 2023: $11 million, Q2 2023: $129 million, Q1 2023: $122 million, Q3 2022: $43 million, and iii) interest income (expense) recognized on the interest rate swaps,
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 71, Text: reclassified from non-interest income to net interest income with no impact to total adjusted net income - Q3 2023: $23 million, Q2 2023: $311 million, Q1 2023: $251 million.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 71, Text: After the
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 71, Text: termination of the merger agreement, the impact of the strategy is reversed through net interest income - Q3 2023: ($63) million.
+Page: 8, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 72, Text: CRD and impact from increase in the Canadian federal tax rate for fiscal 2022 recognized in the first quarter of 2023, reported in the Corporate segment.
+Page: 9, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 9, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 9
+Page: 9, Font Size: 7.5, Upper: True, Bold: True, block number: 2, Text: TABLE 4: RECONCILIATION OF REPORTED TO ADJUSTED EARNINGS PER SHARE
+Page: 9, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 3, Text: EPS is computed by dividing net income available to common shareholders by the weighted-average number of shares outstanding during the period. Numbers may not add due to
+Page: 9, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 4, Text: rounding.
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: (Canadian dollars)
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: For the three months ended
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: For the nine months ended
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 6, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 7, Text: 2023
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: April 30
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: 2023
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: 2022
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 12, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 13, Text: 2023
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 15, Text: 2022
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 16, Text: Basic earnings per share - reported
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: Adjustments for items of note
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 18, Text: Basic earnings per share - adjusted
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 19, Text: Diluted earnings per share - reported
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: Adjustments for items of note
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 21, Text: Diluted earnings per share - adjusted
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 22, Text: Return on Common Equity
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: The consolidated Bank ROE is calculated as reported net income available to common shareholders as a percentage of average common equity. The
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: consolidated Bank adjusted ROE is calculated as adjusted net income available to common shareholders as a percentage of average common equity. Adjusted
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: ROE is a non-GAAP financial ratio and can be utilized in assessing the Bank's use of equity.
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: ROE for the business segments is calculated as the segment net income attributable to common shareholders as a percentage of average allocated capital. The
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: Bank's methodology for allocating capital to its business segments is largely aligned with the common equity capital requirements under Basel III. Capital allocated
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: to the business segments was increased to 11% Common Equity Tier 1 (CET1) Capital effective the first quarter of 2023, compared with 10.5% in fiscal 2022.
+Page: 9, Font Size: 7.5, Upper: True, Bold: True, block number: 25, Text: TABLE 5: RETURN ON COMMON EQUITY
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: (millions of Canadian dollars, except as noted)
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: For the three months ended
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: For the nine months ended
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 27, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 28, Text: 2023
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 29, Text: April 30
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: 2023
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: 2022
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 32, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 33, Text: 2023
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 34, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 34, Text: 2022
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 35, Text: Average common equity
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 36, Text: Net income available to common shareholders - reported
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 37, Text: Items of note, net of income taxes
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 38, Text: Net income available to common shareholders - adjusted
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 39, Text: Return on common equity - reported
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 40, Text: Return on common equity - adjusted
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 41, Text: Return on Tangible Common Equity
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: Tangible common equity (TCE) is calculated as common shareholders' equity less goodwill, imputed goodwill and intangibles on the investments in Schwab and
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: other acquired intangible assets, net of related deferred tax liabilities. ROTCE is calculated as reported net income available to common shareholders after
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: adjusting for the after-tax amortization of acquired intangibles, which are treated as an item of note, as a percentage of average TCE. Adjusted ROTCE is
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: calculated using reported net income available to common shareholders, adjusted for all items of note, as a percentage of average TCE. TCE, ROTCE, and
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: adjusted ROTCE can be utilized in assessing the Bank's use of equity. TCE is a non-GAAP financial measure, and ROTCE and adjusted ROTCE are non-GAAP
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: ratios.
+Page: 9, Font Size: 7.5, Upper: True, Bold: True, block number: 43, Text: TABLE 6: RETURN ON TANGIBLE COMMON EQUITY
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: (millions of Canadian dollars, except as noted)
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: For the three months ended
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: For the nine months ended
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 45, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 46, Text: 2023
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: April 30
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: 2023
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 49, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 49, Text: 2022
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 50, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 50, Text: 2023
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: July 31
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: 2022
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: Average common equity
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 53, Text: Average goodwill
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 54, Text: Average imputed goodwill and intangibles on investments in Schwab
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 55, Text: Average other acquired intangibles
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 56, Text: Average related deferred tax liabilities
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 57, Text: Average tangible common equity
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 58, Text: Net income available to common shareholders - reported
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 59, Text: Amortization of acquired intangibles, net of income taxes
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 60, Text: Net income available to common shareholders adjusted for
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 60, Text: amortization of acquired intangibles, net of income taxes
+Page: 9, Font Size: 7.5, Upper: False, Bold: False, block number: 61, Text: Other items of note, net of income taxes
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 62, Text: Net income available to common shareholders - adjusted
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 63, Text: Return on tangible common equity
+Page: 9, Font Size: 7.5, Upper: False, Bold: True, block number: 64, Text: Return on tangible common equity - adjusted
+Page: 9, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 65, Text: Excludes intangibles relating to software and asset servicing rights.
+Page: 10, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 10, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 10
+Page: 10, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 1, Text: -
+Page: 10, Font Size: 10.020000457763672, Upper: True, Bold: True, block number: 7, Text: HOW OUR BUSINESSES PERFORMED
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: For management reporting purposes, the Bank's business operations and activities are organized around the following four key business segments: Canadian
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: Personal and Commercial Banking, U.S. Retail, Wealth Management and Insurance, and Wholesale Banking. The Bank's other activities are grouped into the
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: Corporate segment.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: Results of each business segment reflect revenue, expenses, assets, and liabilities generated by the businesses in that segment. Where applicable, the Bank
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: measures and evaluates the performance of each segment based on adjusted results and ROE, and for those segments, the Bank indicates that the measure is
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: adjusted. For further details, refer to the "How We Performed" section of this document, the "Business Focus" section in the Bank's 2022 MD&A, and Note 29 of
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: the Bank's Consolidated Financial Statements for the year ended October 31, 2022.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: PCL related to performing (Stage 1 and Stage 2) and impaired (Stage 3) financial assets, loan commitments, and financial guarantees is recorded within the
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: respective segment.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: Net interest income within Wholesale Banking is calculated on a taxable equivalent basis (TEB), which means that the value of non-taxable or tax-exempt
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: income, including certain dividends, is adjusted to its equivalent pre-tax value. Using TEB allows the Bank to measure income from all securities and loans
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: consistently and makes for a more meaningful comparison of net interest income with similar institutions. The TEB increase to net interest income and provision for
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: income taxes reflected in Wholesale Banking results is reversed in the Corporate segment. The TEB adjustment for the quarter was $40 million, compared with
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: Share of net income from investment in Schwab is reported in the U.S. Retail segment. Amounts for amortization of acquired intangibles and the acquisition and
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: integration charges related to the Schwab transaction are recorded in the Corporate segment.
+Page: 10, Font Size: 7.5, Upper: True, Bold: True, block number: 13, Text: TABLE 7: CANADIAN PERSONAL AND COMMERCIAL BANKING
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: (millions of Canadian dollars, except as noted)
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: For the three m
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: onths ended
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: For the nine m
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: onths ended
+Page: 10, Font Size: 7.5, Upper: False, Bold: True, block number: 15, Text: July 31
+Page: 10, Font Size: 7.5, Upper: False, Bold: True, block number: 16, Text: 2023
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: April 30
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: 2023
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: July 31
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: 2022
+Page: 10, Font Size: 7.5, Upper: False, Bold: True, block number: 19, Text: July 31
+Page: 10, Font Size: 7.5, Upper: False, Bold: True, block number: 19, Text: 2023
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: July 31
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: 2022
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: Net interest income
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: Non-interest income
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: Total revenue
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: Provision for (recovery of) credit losses - impaired
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 25, Text: Provision for (recovery of) credit losses - performing
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: Total provision for (recovery of) credit losses
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: Non-interest expenses
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 28, Text: Provision for (recovery of) income taxes
+Page: 10, Font Size: 7.5, Upper: False, Bold: True, block number: 29, Text: Net income
+Page: 10, Font Size: 7.5, Upper: False, Bold: True, block number: 30, Text: Selected volumes and ratios
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: Return on common equity
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 32, Text: Net interest margin (including on securitized assets)
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 33, Text: Efficiency ratio
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 34, Text: Number of Canadian retail branches
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 35, Text: Average number of full-time equivalent staff
+Page: 10, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 36, Text: Capital allocated to the business segment was increased to 11% CET1 Capital effective the first quarter of fiscal 2023 compared with 10.5% in the prior year.
+Page: 10, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 37, Text: Net interest margin is calculated by dividing net interest income by average interest-earning assets. Average interest-earning assets used in the calculation of net interest margin is a non
+Page: 10, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 37, Text: GAAP financial measure. Refer to "Non-GAAP and Other Financial Measures" in the "How We Performed" section of this document and the Glossary in the Bank's third quarter 2023
+Page: 10, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 37, Text: MD&A for additional information about these metrics.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 38, Text: Quarterly comparison - Q3 2023 vs. Q3 2022
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: Canadian Personal and Commercial Banking net income for the quarter was $1,655 million, a decrease of $23 million, or 1%, compared with the third quarter last
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: year, reflecting higher PCL and non-interest expenses, partially offset by revenue growth. The annualized ROE for the quarter was 35.4%, compared with 42.3% in
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: the third quarter last year.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: Revenue for the quarter was $4,570 million, an increase of $310 million, or 7%, compared with the third quarter last year.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: Net interest income was $3,571 million, an increase of $372 million, or 12%, compared with the third quarter last year, reflecting volume growth and higher
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: margins. Average loan volumes increased $29 billion, or 6%, reflecting 5% growth in personal loans and 9% growth in business loans. Average deposit volumes
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: increased $6 billion, or 1%, reflecting 6% growth in personal deposits, partially offset by 6% decline in business deposits. Net interest margin was 2.74%, an
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: increase of 15 basis points (bps), primarily due to higher margins on deposits reflecting rising interest rates, partially offset by lower margins on loans.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: Non-interest income was $999 million, a decrease of $62 million, or 6%, compared with the third quarter last year, primarily reflecting a prior years' adjustment. 
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: PCL was $379 million, an increase of $209 million, compared with the third quarter last year. PCL - impaired for the quarter was $285 million, an increase of
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: - performing was $94 million, an increase of $66 million. The provisions this quarter were largely recorded in the consumer lending portfolios, reflecting current
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: credit conditions and volume growth. Total PCL as an annualized percentage of credit volume was 0.28%, an increase of 15 bps compared with the third quarter
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: last year.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: Non-interest expenses for the quarter were $1,895 million, an increase of $88 million, or 5%, compared with the third quarter last year, reflecting higher spend
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: supporting business growth, including technology and higher employee-related expenses.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: The efficiency ratio for the quarter was 41.5%, compared with 42.4% in the third quarter last year. 
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 45, Text: Quarterly comparison - Q3 2023 vs. Q2 2023
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: Canadian Personal and Commercial Banking net income for the quarter was $1,655 million, an increase of $30 million, or 2%, compared with the prior quarter,
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: reflecting higher revenue, partially offset by higher PCL. The annualized ROE for the quarter was 35.4%, compared with 37.4%, in the prior quarter.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: Revenue increased $166 million, or 4%, compared with the prior quarter. Net interest income increased $194 million, or 6%, largely reflecting the effect of more
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: days in the third quarter and volume growth. Average loan volumes increased $12 billion, or 2%, reflecting 2% growth in both personal loans and business loans.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: Average deposit volumes increased $2 billion, or 1%, reflecting 1% growth in both personal deposits and business deposits. Net interest margin was 2.74%, flat to
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: the prior quarter.
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: Non-interest income decreased $28 million, or 3%, compared with the prior quarter, primarily reflecting a prior years' adjustment. 
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: PCL increased by $132 million compared with the prior quarter. PCL - impaired increased by $51 million, or 22%, largely recorded in the commercial lending
+Page: 10, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: portfolios, primarily reflecting a few impairments across various industries. PCL - performing was $94 million, an increase of $81 million. The provisions this
+Page: 11, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 11, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 11
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 2, Text: quarter were largely recorded in the consumer lending portfolios, reflecting current credit conditions and volume growth. Total PCL as an annualized percentage of
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 2, Text: credit volume was 0.28%, an increase of 9 bps.
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: Non-interest expenses decreased $8 million, relatively flat compared with the prior quarter.
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: The efficiency ratio was 41.5%, compared with 43.2%, in the prior quarter.
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: Year-to-date comparison - Q3 2023 vs. Q3 2022
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: Canadian Personal and Commercial Banking net income for the nine months ended July 31, 2023, was $5,009 million, an increase of $145 million, or 3%,
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: compared with the same period last year, reflecting higher revenue, partially offset by higher PCL and higher non-interest expenses. The annualized ROE for the
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: period was 37.5%, compared with 42.4%, in the same period last year.
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: Revenue for the period was $13,563 million, an increase of $1,431 million, or 12%, compared with the same period last year. Net interest income was
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: volumes increased $32 billion, or 7%, reflecting 5% growth in personal loans and 11% growth in business loans. Average deposit volumes increased $10 billion, or
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: 2%, reflecting 7% growth in personal deposits, partially offset by 6% decline in business deposits. Net interest margin was 2.76%, an increase of 24 bps, primarily
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: due to higher margins on deposits reflecting rising interest rates, partially offset by lower margins on loans.
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: Non-interest income was $3,076 million, a decrease of $48 million, or 2%, compared with the same period last year, primarily reflecting a prior years'
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: adjustment.
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: PCL was $953 million, an increase of $691 million, compared with the same period last year. PCL - impaired was $739 million, an increase of $284 million, or
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: 62%, reflecting some normalization of credit performance in the consumer lending portfolios and credit migration in the commercial lending portfolios.
+Page: 11, Font Size: 7.5, Upper: True, Bold: False, block number: 9, Text: PCL -
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: performing was $214 million, compared with a recovery of $193 million in the prior year. This year's provisions were largely recorded in the consumer lending
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: portfolios, reflecting current credit conditions and volume growth.
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: Total PCL as an annualized percentage of credit volume was 0.24%, an increase of 17 bps.
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: Non-interest expenses were $5,661 million, an increase of $406 million, or 8%, compared with the same period last year, reflecting higher spend supporting
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: business growth, including technology and higher employee-related expenses, and higher non-credit provisions.
+Page: 11, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: The efficiency ratio was 41.7%, compared with 43.3%, for the same period last year.
+Page: 12, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 12, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 12
+Page: 12, Font Size: 7.5, Upper: True, Bold: True, block number: 3, Text: TABLE 8: U.S. RETAIL
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: (millions of dollars, except as noted)
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: For the three months ended
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: For the nine months ended
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 5, Text: Canadian Dollars
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 6, Text: July 31
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 7, Text: 2023
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: April 30
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: 2023
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: July 31
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: 2022
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 10, Text: July 31
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 10, Text: 2023
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: July 31
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: 2022
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: Net interest income
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: Non-interest income - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: Non-interest income - adjusted
+Page: 12, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 14, Text: , 
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 15, Text: Total revenue - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: Total revenue - adjusted
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: Provision for (recovery of) credit losses - impaired
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: Provision for (recovery of) credit losses - performing
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 19, Text: Total provision for (recovery of) credit losses
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: Non-interest expenses - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: Non-interest expenses - adjusted
+Page: 12, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 21, Text: , 
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: Provision for (recovery of) income taxes - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: Provision for (recovery of) income taxes - adjusted
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 24, Text: U.S. Retail Bank net income - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 25, Text: U.S. Retail Bank net income - adjusted
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: Share of net income from investment in Schwab
+Page: 12, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 26, Text: ,  
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 27, Text: Net income - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 28, Text: Net income - adjusted
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 29, Text: U.S. Dollars
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: Net interest income
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: Non-interest income - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 32, Text: Non-interest income - adjusted
+Page: 12, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 32, Text: , 
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 33, Text: Total revenue - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 34, Text: Total revenue - adjusted
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 35, Text: Provision for (recovery of) credit losses - impaired
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 36, Text: Provision for (recovery of) credit losses - performing
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 37, Text: Total provision for (recovery of) credit losses
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 38, Text: Non-interest expenses - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: Non-interest expenses - adjusted
+Page: 12, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 39, Text: , 
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: Provision for (recovery of) income taxes - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: Provision for (recovery of) income taxes - adjusted
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 42, Text: U.S. Retail Bank net income - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 43, Text: U.S. Retail Bank net income - adjusted
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: Share of net income from investment in Schwab
+Page: 12, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 44, Text: ,  
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 45, Text: Net income - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 46, Text: Net income - adjusted
+Page: 12, Font Size: 7.5, Upper: False, Bold: True, block number: 47, Text: Selected volumes and ratios
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: Return on common equity - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 49, Text: Return on common equity - adjusted
+Page: 12, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 49, Text: , 
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: Net interest margin
+Page: 12, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 50, Text: , 
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: Efficiency ratio - reported
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: Efficiency ratio - adjusted
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 53, Text: Assets under administration (billions of U.S. dollars)
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 54, Text: Assets under management (billions of U.S. dollars)
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 55, Text: Number of U.S. retail stores
+Page: 12, Font Size: 7.5, Upper: False, Bold: False, block number: 56, Text: Average number of full-time equivalent staff
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 57, Text: For additional information about the Bank's use of non-GAAP financial measures, refer to "Non-GAAP and Other Financial Measures" in the "How We Performed" section of this
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 58, Text: document.
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 59, Text: Adjusted non-interest income excludes an insurance recovery related to litigation - Q2 2022: $224 million (US$177 million) or $169 million (US$133 million) after-tax.
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 60, Text: Adjusted non-interest expenses exclude the acquisition and integration-related charges for the terminated First Horizon transaction including winddown costs - Q3 2023: $84 million or
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 60, Text: US$63 million ($63 million or US$48 million after-tax); Q2 2023: $154 million or US$113 million ($116 million or US$85 million after-tax); Q1 2023: $106 million or US$78 million
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 60, Text: ($80 million or US$59 million after-tax); Q3 2022: $29 million or US$22 million ($22 million or US$17 million after-tax).
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 61, Text: The Bank's share of Schwab's earnings is reported with a one-month lag. Refer to Note 7 of the Bank's third quarter 2023 Interim Consolidated Financial Statements for further details.
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 62, Text: The after-tax amounts for amortization of acquired intangibles and the Bank's share of acquisition and integration charges associated with Schwab's acquisition of TD Ameritrade are
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 62, Text: recorded in the Corporate segment.
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 63, Text: Capital allocated to the business segment was increased to 11% CET1 Capital effective the first quarter of 2023, compared with 10.5% in the prior year.
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 64, Text: Net interest margin is calculated by dividing net interest income by average interest-earning assets. For the U.S. Retail segment, this calculation excludes the impact related to sweep
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 64, Text: deposits arrangements and intercompany deposits and cash collateral. The value of tax-exempt interest income is adjusted to its equivalent before-tax value. For investment securities,
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 64, Text: the adjustment to fair value is included in the calculation of average interest-earning assets. Management believes this calculation better reflects segment performance. Net interest
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 64, Text: income and average interest-earning assets used in the calculation are non-GAAP financial measures.
+Page: 12, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 65, Text: For additional information about this metric, refer to the Glossary in the Bank's third quarter 2023 MD&A.
+Page: 13, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 13, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 13
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: Quarterly comparison - Q3 2023 vs. Q3 2022
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: U.S. Retail reported net income for the quarter was $1,314 million (US$984 million), a decrease of $128 million (US$138 million), or 9% (12% in U.S. dollars),
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: compared with the third quarter last year. On an adjusted basis, net income for the quarter was $1,377 million (US$1,032 million), a decrease of $87 million
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: (US$107 million), or 6% (9% in
+Page: 13, Font Size: 7.5, Upper: True, Bold: False, block number: 4, Text: U.S.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: dollars
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: ).  
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: The
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: reported
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: and adjusted annualized ROE for the quarter were 12.7% and 13.3%, respectively, compared with
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: 14.8%
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: and
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: 15.0%,
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: respectively,
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: in 
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: the
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: third
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: quarter
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: last
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: year.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: U.S. Retail net income includes contributions from the U.S. Retail Bank and the Bank's investment in Schwab. Reported net income for the quarter from the
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: Bank's investment in Schwab was $191 million (US$142 million), a decrease of $98 million (US$84 million), or 34% (37% in U.S. dollars), reflecting lower net
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: interest income, lower bank deposit fees and trading revenue, and higher expenses, partially offset by an increase in asset management fees.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: U.S. Retail Bank reported net income was $1,123 million (US$842 million), a decrease of $30 million (US$54 million), or 3% (6% in U.S. dollars), compared with
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: the third quarter last year, primarily reflecting higher non-interest expenses including acquisition and integration-related charges for the terminated First Horizon
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: transaction and higher PCL, partially offset by higher revenue. U.S. Retail Bank adjusted net income was $1,186 million (US$890 million), an increase of
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: expenses and higher PCL.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: Revenue for the quarter was US$2,642 million, an increase of US$233 million, or 10%, compared with the third quarter last year. Net interest income of
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: US$2,157 million, increased US$252 million, or 13%, driven by the benefit of higher deposit margins from the rising rate environment and higher loan volumes,
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: partially offset by lower deposit volumes and lower margins on loans. Net interest margin of 3.00%, increased 38 bps, as higher margins on deposits reflecting the
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: rising rate environment was partially offset by lower margins on loans. Non-interest income of US$485 million decreased US$19 million, or 4%, compared with the
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: third quarter last year, primarily reflecting lower overdraft fees, partially offset by fee income growth from increased customer activity.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: Average loan volumes increased US$17 billion, or 10%, compared with the third quarter last year. Personal loans increased 11%, reflecting good originations
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: and slower payment rates across portfolios. Business loans increased 9%, reflecting good originations from new customer growth and slower payment rates,
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: partially offset by a decline in Paycheck Protection Program (PPP) loan volumes. Average deposit volumes decreased US$54 billion, or 14%, reflecting a 5%
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: decrease in personal deposit volumes, a 6% decrease in business deposits, and a 28% decrease in sweep deposits.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: Assets under administration (AUA) were US$36 billion as at July 31, 2023, an increase of US$4 billion, or 13%, compared with the third quarter last year,
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: reflecting net asset growth. Assets under Management (AUM) were US$37 billion as at July 31, 2023, an increase of US$1 billion, or 3%, compared with the third
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: quarter last year, reflecting market appreciation, partially offset by net asset outflows.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: PCL for the quarter was US$185 million, an increase of US$102 million compared with the third quarter last year. PCL - impaired was US$193 million, an
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: increase of US$88 million, or 84%, reflecting some normalization of credit performance. PCL - performing was a recovery of US$8 million, compared with a
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: recovery of US$22 million in the third quarter last year. U.S. Retail PCL including only the Bank's share of PCL in the U.S. strategic cards portfolio, as an
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: annualized percentage of credit volume was 0.41%, an increase of 21 bps, compared with the third quarter last year.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: Reported non-interest expenses for the quarter were US$1,502 million, an increase of US$170 million, or 13%, compared with the third quarter last year,
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: reflecting higher employee-related expenses, acquisition and integration-related charges for the terminated First Horizon transaction, and higher investments in the
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: business. On an adjusted basis, non-interest expenses increased US$129 million, or 10%.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: The reported and adjusted efficiency ratios for the quarter were 56.9% and 54.5%, respectively, compared with 55.3% and 54.4%, respectively, in the third
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: quarter last year.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: Quarterly comparison - Q3 2023 vs. Q2 2023
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: U.S. Retail reported net income of $1,314 million (US$984 million), decreased $98 million (US$60 million), or 7% (6% in U.S. dollars), compared with the prior
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: quarter. On an adjusted basis, net income for the quarter was $1,377 million (US$1,032 million), a decrease of $151 million (US$97 million), or 10% (9% in U.S.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: dollars). The reported and adjusted annualized ROE for the quarter were 12.7% and 13.3%, respectively, compared with 14.1% and 15.3%, respectively, in the
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: prior quarter.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 15, Text: The contribution from Schwab of $191 million (US$142 million) decreased $59 million (US$43 million), or 24% (23% in U.S. dollars), reflecting lower net interest
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 15, Text: income and lower trading revenue, partially offset by an increase in asset management and bank deposit account fees and lower expenses.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: U.S. Retail Bank reported net income was $1,123 million (US$842 million), a decrease of $39 million (US$17 million), or 3% (2% in U.S. dollars), compared with
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: the prior quarter, reflecting lower revenue and higher PCL, partially offset by lower non-interest expenses including acquisition and integration-related charges for
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: the terminated First Horizon transaction. U.S. Retail Bank adjusted net income was $1,186 million (US$890 million), a decrease of $92 million (US$54 million), or
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: 7% (6% in U.S. dollars), reflecting lower revenue, higher PCL, and higher non-interest expenses.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: Revenue decreased US$12 million, relatively flat compared with the prior quarter. Net interest income of US$2,157 million decreased US$84 million, or 4%,
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: primarily reflecting lower deposit margins as a result of higher deposit costs and lower deposit volumes. Net interest margin of 3.00% decreased 25 bps quarter
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: over quarter due to lower margins on deposits reflecting higher deposit costs and deposit mix shift. Non-interest income of US$485 million increased
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: US$72 million, or 17%, primarily reflecting fee income growth from increased customer activity and losses from the disposition of certain investments in the prior
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: quarter.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: Average loan volumes increased US$4 billion, or 2%, compared with the prior quarter. Personal loans increased 3%, reflecting good originations and slower
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: payment rates across portfolios. Business loans increased 2%, reflecting good originations from new customer growth and slower payment rates. Average deposit
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: volumes decreased US$11 billion, or 3%, compared with the prior quarter, reflecting a 2% decrease in personal deposit volumes, a 1% decrease in business
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: deposits, and a 6% decrease in sweep deposits.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 19, Text: AUA were US$36 billion, flat compared with the prior quarter. AUM were US$37 billion, an increase of US$2 billion, or 6%, compared with the prior quarter,
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 19, Text: reflecting market appreciation, partially offset by net asset outflows.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: PCL increased by US$45 million compared with the prior quarter. PCL - impaired increased US$56 million, or 41%, primarily reflecting a few impairments across
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: various industries. PCL - performing was a recovery of US$8 million, compared with a build of US$3 million in the prior quarter. U.S. Retail PCL including only the
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: Bank's share of PCL in the U.S. strategic cards portfolio, as an annualized percentage of credit volume was 0.41%, an increase of 8 bps.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: Reported non-interest expenses for the quarter were US$1,502 million, a decrease of US$12 million, or 1%, compared to the prior quarter, reflecting lower
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: acquisition and integration-related charges for the terminated First Horizon transaction, partially offset by higher employee-related expenses and investments in
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: the business. On an adjusted basis, non-interest expenses increased US$38 million, or 3%.
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: The reported and adjusted efficiency ratios for the quarter were 56.9% and 54.5%, respectively, compared with 57.0% and 52.8%, respectively, in the prior
+Page: 13, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: quarter.
+Page: 14, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 14, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 14
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 1, Text: -
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 2, Text: Year-to-date comparison - Q3 2023 vs. Q3 2022
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: U.S. Retail reported net income for the nine months ended July 31, 2023 was $4,315 million (US$3,205 million), an increase of $234 million, or 6% (a decrease of
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: US$2 million, relatively flat), compared with the same period last year. On an adjusted basis, net income for the period was $4,574 million (US$3,397 million), an
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: increase
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: of 
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: million (US$306
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: million),
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: or
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: 16%
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: (10%
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: in 
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: U.S. dollars).
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: The
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: reported
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: and adjusted annualized ROE for the period were 14.1% and 15.0%,
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: respectively,
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: compared with
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: 13.9%
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: and
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: 13.4%,
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: respectively,
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: in the
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: same
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: period
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: last
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: year.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: The contribution from Schwab of $742 million (US$549 million), decreased $23 million (US$54 million), or 3% (9% in U.S. dollars), reflecting lower trading
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: revenue and bank deposit account fees as well as higher expenses, partially offset by higher net interest income and asset management fees.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: U.S. Retail Bank reported net income for the period was US$2,656 million, an increase of US$52 million, or 2%, compared with the same period last year,
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: reflecting higher revenue, largely offset by non-interest expenses including acquisition and integration-related charges for the terminated First Horizon transaction
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: and higher PCL. U.S. Retail Bank adjusted net income was US$2,848 million, an increase of US$360 million, or 14%.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: Reported revenue for the period was US$8,087 million, an increase of US$1,154 million, or 17%, compared with the same period last year. On an adjusted
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: basis, revenue increased US$1,331 million, or 20%. Net interest income increased US$1,530 million, or 29%, largely driven by the benefit of higher deposit
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: margins from the rising rate environment and higher loan volumes, partially offset by lower deposit volumes and lower margins on loans. Net interest margin was
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: 3.18%, an increase of 83 bps, as higher margins on deposits reflecting the rising rate environment was partially offset by lower margins on loans. Reported non
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: interest income decreased US$376 million, or 22%, primarily reflecting lower overdraft fees and an insurance recovery related to litigation in the prior period. On an
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: adjusted basis, non-interest income decreased US$199 million, or 13%, primarily due to lower overdraft fees.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: Average loan volumes increased US$16 billion, or 10%, compared with the same period last year. Personal loans increased 11%, reflecting good originations
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: and slower payment rates across portfolios. Business loans increased 8%, reflecting good originations from new customer growth and slower payment rates,
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: partially offset by PPP loan forgiveness. Excluding PPP loans, business loans increased 10%. Average deposit volumes decreased US$41 billion, or 11%,
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: reflecting a 3% decrease in personal deposit volumes, a 5% decrease in business deposits, and a 22% decrease in sweep deposits.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: PCL was US$474 million, an increase of US$389 million compared with the same period last year. PCL - impaired was US$488 million, an increase of
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: US$209 million, or 75%, reflecting some normalization of credit performance. PCL - performing was a recovery of US$14 million, compared with a recovery of
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: US$194 million in the prior year. U.S. Retail PCL including only the Bank's share of PCL in the U.S. strategic cards portfolio, as an annualized percentage of credit
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: volume was 0.36%, an increase of 29 bps.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: Reported non-interest expenses for the period were US$4,551 million, an increase of US$669 million, or 17%, compared with the same period last year,
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: reflecting higher employee-related expenses, acquisition and integration-related charges for the terminated First Horizon transaction, and higher investments in the
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: business. On an adjusted basis, non-interest expenses increased US$437 million, or 11%.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: The reported and adjusted efficiency ratios for the quarter were 56.3% and 53.1%, respectively, compared with 56.0% and 57.1%, respectively, for the same
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: period last year.
+Page: 14, Font Size: 7.5, Upper: True, Bold: True, block number: 11, Text: TABLE 9: WEALTH MANAGEMENT AND INSURANCE
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: (millions of Canadian dollars, except as noted)
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: For the three months ended
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: For the nine months ended
+Page: 14, Font Size: 7.5, Upper: False, Bold: True, block number: 13, Text: July 31
+Page: 14, Font Size: 7.5, Upper: False, Bold: True, block number: 14, Text: 2023
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 15, Text: April 30
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 15, Text: 2023
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: July 31
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: 2022
+Page: 14, Font Size: 7.5, Upper: False, Bold: True, block number: 17, Text: July 31
+Page: 14, Font Size: 7.5, Upper: False, Bold: True, block number: 17, Text: 2023
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: July 31
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 19, Text: 2022
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: Net interest income
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: Non-interest income
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: Total revenue
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: Provision for (recovery of) credit losses - impaired
+Page: 14, Font Size: 7.5, Upper: False, Bold: True, block number: 23, Text: -
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: -
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: -
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: Provision for (recovery of) credit losses - performing
+Page: 14, Font Size: 7.5, Upper: False, Bold: True, block number: 24, Text: -
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: -
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: -
+Page: 14, Font Size: 7.5, Upper: False, Bold: True, block number: 24, Text: -
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 25, Text: Total provision for (recovery of) credit losses
+Page: 14, Font Size: 7.5, Upper: False, Bold: True, block number: 25, Text: -
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 25, Text: -
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: Insurance claims and related expenses
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: Non-interest expenses
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 28, Text: Provision for (recovery of) income taxes
+Page: 14, Font Size: 7.5, Upper: False, Bold: True, block number: 29, Text: Net income
+Page: 14, Font Size: 7.5, Upper: False, Bold: True, block number: 30, Text: Selected volumes and ratios
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: Return on common equity
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 32, Text: Efficiency ratio
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 33, Text: Assets under administration (billions of Canadian dollars)
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 34, Text: Assets under management (billions of Canadian dollars)
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 35, Text: Average number of full-time equivalent staff
+Page: 14, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 36, Text: Capital allocated to the business segment was increased to 11% CET1 Capital effective the first quarter of fiscal 2023, compared with 10.5% in the prior year.
+Page: 14, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 37, Text: Includes AUA administered by TD Investor Services, which is part of the Canadian Personal and Commercial Banking segment.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 38, Text: Quarterly comparison - Q3 2023 vs. Q3 2022
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: Wealth Management and Insurance net income for the quarter was $504 million, a decrease of $71 million, or 12%, compared with the third quarter last year,
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: reflecting higher insurance claims and related expenses. The annualized ROE for the quarter was 35.3%, compared with 44.6% in the third quarter last year.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: Revenue for the quarter was $2,779 million, an increase of $19 million, or 1%, compared with the third quarter last year. Non-interest income was
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: management business, offset by a decrease in the fair value of investments supporting claims liabilities which resulted in a similar decrease in insurance claims,
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: and lower transaction revenue in the wealth management business. Net interest income was $256 million, an increase of $7 million, or 3%, compared with the third
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: quarter last year, reflecting higher investment income in the insurance business.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: AUA were $559 billion as at July 31, 2023, an increase of $33 billion, or 6%, compared with the third quarter last year, reflecting market appreciation and net
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: asset growth. AUM were $421 billion as at July 31, 2023, an increase of $13 billion, or 3%, compared with the third quarter last year, reflecting market
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: appreciation, partially offset by mutual fund redemptions.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: Insurance claims and related expenses for the quarter were $923 million, an increase of $94 million, or 11%, compared with the third quarter last year, reflecting
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: more severe weather-related events, increased driving activity and claims severity, partially offset by the impact of changes in the discount rate which resulted in a
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: similar decrease in the fair value of investments supporting claims liabilities reported in non-interest income.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: Non-interest expenses for the quarter were $1,170 million, an increase of $20 million, or 2%, compared with the third quarter last year, reflecting higher spend
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: supporting business growth including technology costs and employee-related expenses.
+Page: 14, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: The efficiency ratio for the quarter was 42.1%, compared with 41.7% in the third quarter last year.
+Page: 15, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 15, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 15
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: Quarterly comparison - Q3 2023 vs. Q2 2023
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: Wealth Management and Insurance net income for the quarter was $504 million, a decrease of $59 million, or 10%, compared with the prior quarter, reflecting
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: higher insurance claims and related expenses. The annualized ROE for the quarter was 35.3%, compared with 42.6%, in the prior quarter.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: Revenue increased $44 million, or 2%, compared with the prior quarter. Non-interest income increased $46 million, or 2%, reflecting higher volumes in the
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: insurance business, and higher fee-based and transaction revenue in the wealth management business, partially offset by a decrease in the fair value of
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: investments supporting claims liabilities which resulted in a similar decrease in insurance claims. Net interest income decreased $2 million, or 1%.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: AUA increased $10 billion, or 2%, compared with the prior quarter, reflecting market appreciation and net asset growth. AUM decreased $1 billion, relatively flat
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: compared with the prior quarter.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: Insurance claims and related expenses for the quarter increased $119 million, or 15%, compared with the prior quarter, reflecting more severe weather-related
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: events, increased driving activity and claims severity, partially offset by the impact of changes in the discount rate which resulted in a similar decrease in fair value
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: of investments supporting claims liabilities reported in non-interest income.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: Non-interest expenses increased $4 million, relatively flat compared with the prior quarter.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: The efficiency ratio for the quarter was 42.1%, compared with 42.6% in the prior quarter.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: Year-to-date comparison - Q3 2023 vs. Q3 2022
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: Wealth Management and Insurance net income for the nine months ended July 31, 2023, was $1,617 million, a decrease of $262 million, or 14%, compared with
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: same period last year, primarily reflecting lower earnings in the wealth management business. The annualized ROE for the period was 39.6%, compared with
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: 49.2%, in the same period last year.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: Revenue for the period was $8,416 million, an increase of $187 million, or 2%, compared with same period last year. Net interest income increased
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: increase in the fair value of investments supporting claims liabilities which resulted in a similar increase in insurance claims, and higher volumes in the insurance
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: business, partially offset by lower transaction and fee-based revenue in the wealth management business.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: Insurance claims and related expenses were $2,703 million, an increase of $526 million, or 24%, compared with the same period last year, reflecting the impact
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: of changes in the discount rate which resulted in a similar increase in the fair value of investments supporting claims liabilities reported in non-interest income,
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: more severe weather-related events, increased driving activity and claims severity.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: Non-interest expenses were $3,518 million, an increase of $15 million, relatively flat compared with the same period last year.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 15, Text: The efficiency ratio for the period was 41.8%, compared with 42.6% for the same period last year.
+Page: 15, Font Size: 7.5, Upper: True, Bold: True, block number: 16, Text: TABLE 10: WHOLESALE BANKING
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: (millions of Canadian dollars, except as noted)
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: For the three months ended
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: For the nine months ended
+Page: 15, Font Size: 7.5, Upper: False, Bold: True, block number: 18, Text: July 31
+Page: 15, Font Size: 7.5, Upper: False, Bold: True, block number: 19, Text: 2023
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: April 30
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: 2023
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: July 31
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: 2022
+Page: 15, Font Size: 7.5, Upper: False, Bold: True, block number: 23, Text: July 31
+Page: 15, Font Size: 7.5, Upper: False, Bold: True, block number: 23, Text: 2023
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: July 31
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: 2022
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 25, Text: Net interest income (TEB)
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: Non-interest income
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: Total revenue
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 28, Text: Provision for (recovery of) credit losses - impaired
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 28, Text: -
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 29, Text: Provision for (recovery of) credit losses - performing
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: Total provision for (recovery of) credit losses
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: Non-interest expenses - reported
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 32, Text: Non-interest expenses - adjusted
+Page: 15, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 32, Text: ,  
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 33, Text: Provision for (recovery of) income taxes (TEB) - reported
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 34, Text: Provision for (recovery of) income taxes (TEB) - adjusted
+Page: 15, Font Size: 7.5, Upper: False, Bold: True, block number: 35, Text: Net income - reported
+Page: 15, Font Size: 7.5, Upper: False, Bold: True, block number: 36, Text: Net income - adjusted
+Page: 15, Font Size: 7.5, Upper: False, Bold: True, block number: 37, Text: Selected volumes and ratios
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 38, Text: Trading-related revenue (TEB)
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: Average gross lending portfolio (billions of Canadian dollars)
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: Return on common equity - reported
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: Return on common equity - adjusted
+Page: 15, Font Size: 4.980000019073486, Upper: False, Bold: False, block number: 41, Text: ,  
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: Efficiency ratio - reported
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: Efficiency ratio - adjusted
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: Average number of full-time equivalent staff
+Page: 15, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 45, Text: For additional information about the Bank's use of non-GAAP financial measures, refer to "Non-GAAP and Other Financial Measures" in the "How We Performed" section of this
+Page: 15, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 45, Text: document.
+Page: 15, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 46, Text: Adjusted non-interest expenses exclude the acquisition and integration-related charges primarily for the Cowen acquisition - Q3 2023: $143 million ($105 million after-tax), Q2 2023:
+Page: 15, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 48, Text: Includes net interest income TEB of $8 million (Q2 2023: $285 million, Q1 2023: $261 million, Q3 2022: $567 million, Q2 2022: $581 million, Q1 2022: $525 million), and trading income
+Page: 15, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 48, Text: (loss) of $618 million (Q2 2023: $197 million, Q1 2023: $401 million, Q3 2022: ($20) million, Q2 2022: $99 million, Q1 2022: $201 million). Trading-related revenue (TEB) is a non-GAAP
+Page: 15, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 48, Text: financial measure. Refer to "Non-GAAP and Other Financial Measures" in the "How We Performed" section of this document and the Glossary in the Bank's third quarter of 2023 MD&A
+Page: 15, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 48, Text: for additional information about this metric.
+Page: 15, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 49, Text: Includes gross loans and bankers' acceptances relating to Wholesale Banking, excluding letters of credit, cash collateral, credit default swaps, and allowance for credit losses.
+Page: 15, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 50, Text: Capital allocated to the business segment was increased to 11% CET1 Capital effective the first quarter of fiscal 2023 compared with 10.5% in the prior year.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 51, Text: Quarterly comparison - Q3 2023 vs. Q3 2022
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: Wholesale Banking reported net income for the quarter was $272 million, relatively flat compared with the third quarter last year, reflecting higher non-interest
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: expenses largely offset by higher revenues. On an adjusted basis, net income was $377 million, an increase of $106 million or 39%.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 53, Text: Revenue for the quarter, including TD Cowen, was $1,568 million, an increase of $492 million, or 46%, compared with the third quarter last year. Higher
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 53, Text: revenue primarily reflects higher equity commissions, underwriting fees, trading-related revenue, global transaction banking revenue, and markdowns in certain
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 53, Text: loan underwriting commitments in the prior year.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 54, Text: PCL for the quarter was $25 million, flat compared with the third quarter last year. PCL - impaired was $10 million, an increase of $10 million. PCL - performing
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 54, Text: was $15 million, a decrease of $10 million.
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 55, Text: Reported non-interest expenses for the quarter, including TD Cowen, were $1,247 million, an increase of $556 million, or 80%, compared with the third quarter
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 55, Text: last year, primarily reflecting acquisition and integration-related costs. Higher expenses also reflected continued investments in Wholesale Banking's U.S. dollar
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 55, Text: strategy, including the hiring of banking, sales and trading, and technology professionals, and the impact of foreign exchange translation. On an adjusted basis,
+Page: 15, Font Size: 7.5, Upper: False, Bold: False, block number: 55, Text: non-interest expenses were $1,104 million, an increase of $413 million, or 60%.
+Page: 16, Font Size: 6.0, Upper: True, Bold: False, block number: 0, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
+Page: 16, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 16
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 1, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 3, Text: Quarterly comparison - Q3 2023 vs. Q2 2023
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: Wholesale Banking reported net income for the quarter was $272 million, an increase of $122 million, or 81%, compared with the prior quarter, reflecting higher
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 4, Text: revenues, partially offset by higher non-interest expenses. On an adjusted basis, net income was $377 million, an increase of $164 million, or 77%.
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: Revenue for the quarter, including TD Cowen, increased $151 million, or 11%, compared with the prior quarter. Higher revenue primarily reflects higher trading
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 5, Text: related revenue, underwriting fees, and equity commissions, partially offset by lower advisory fees.  
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 6, Text: PCL increased by $13 million compared with the prior quarter. PCL - impaired increased by $5 million. PCL - performing increased by $8 million.
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: Reported non-interest expenses for the quarter, including TD Cowen, increased $58 million, or 5%, compared with the prior quarter, primarily reflecting
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 7, Text: acquisition and integration-related costs. On an adjusted basis, non-interest expenses decreased $12 million or 1%.
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 8, Text: Year-to-date comparison - Q3 2023 vs. Q3 2022
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: Wholesale Banking reported net income for the nine months ended July 31, 2023 was $753 million, a decrease of $311 million, or 29%, compared with the same
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 9, Text: period last year, reflecting higher non-interest expenses, partially offset by higher revenues. On an adjusted basis, net income was $937 million, a decrease of
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: Revenue for the period, including TD Cowen, was $4,330 million, an increase of $658 million, or 18%, compared with the same period last year. Higher revenue
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: primarily reflects higher global transaction banking revenue, equity commissions, advisory fees, lending revenue, and markdowns in certain loan underwriting
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 10, Text: commitments in the same period last year, partially offset by lower trading-related revenue.
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: PCL was $69 million, an increase of $58 million compared with the same period last year. PCL - impaired was $16 million, compared with a recovery of
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 11, Text: updates to our economic forecasts, and credit migration.
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: Reported non-interest expenses, including TD Cowen, were $3,319 million, an increase of $1,088 million, or 49%, compared with the same period last year,
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: primarily reflecting acquisition and integration-related costs. Higher expenses also reflected continued investments in Wholesale Banking's U.S. dollar strategy,
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: including the hiring of banking, sales and trading, and technology professionals, and the impact of foreign exchange translation. On an adjusted basis, non-interest
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: expenses were $3,082 million, an increase of $851 million or 38%.
+Page: 16, Font Size: 7.5, Upper: True, Bold: True, block number: 13, Text: TABLE 11: CORPORATE
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: (millions of Canadian dollars)
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: For the three months ended
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: For the nine months ended
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 15, Text: July 31
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 16, Text: 2023
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: April 30
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: 2023
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: July 31
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 19, Text: 2022
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 20, Text: July 31
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 20, Text: 2023
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: July 31
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: 2022
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 23, Text: Net income (loss) - reported
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 24, Text: Adjustments for items of note
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 25, Text: Amortization of acquired intangibles
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: Acquisition and integration charges related to the Schwab transaction
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: Payment related to the termination of the First Horizon transaction
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 28, Text: Impact of strategy to mitigate interest rate volatility to closing capital related to
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 28, Text: the First Horizon transaction - before termination
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 29, Text: - After termination of the merger agreement
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 29, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 29, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 29, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: Impact of retroactive tax legislation on payment card clearing services
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: Litigation settlement
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 31, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 32, Text: Less: impact of income taxes
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 33, Text: CRD and federal tax rate increase for fiscal 2022
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 33, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 33, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 33, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 33, Text: -
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 34, Text: Other items of note
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 35, Text: Net income (loss) - adjusted
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 36, Text: Decomposition of items included in net income (loss) - adjusted
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 37, Text: Net corporate expenses
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 38, Text: Other
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 39, Text: Net income (loss) - adjusted
+Page: 16, Font Size: 7.5, Upper: False, Bold: True, block number: 40, Text: Selected volumes
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: Average number of full-time equivalent staff
+Page: 16, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 42, Text: For additional information about the Bank's use of non-GAAP financial measures, refer to "Non-GAAP and Other Financial Measures" in the "How We Performed" section of this
+Page: 16, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 43, Text: document.
+Page: 16, Font Size: 6.480000019073486, Upper: False, Bold: False, block number: 44, Text: For additional information about this metric, refer to the Glossary in the third quarter of 2023 MD&A, which is incorporated by reference.
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 45, Text: Quarterly comparison - Q3 2023 vs. Q3 2022
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: Corporate segment's reported net loss for the quarter was $782 million, compared with a reported net loss of $752 million in the third quarter last year. The
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: increase primarily reflects higher net corporate expenses reflecting litigation expenses during the quarter, partially offset by higher revenue from treasury and
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: balance sheet management activities. The adjusted net loss for the quarter was $182 million, compared with an adjusted net loss of $175 million in the third
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: quarter last year.
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: Quarterly comparison - Q3 2023 vs. Q2 2023
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: Corporate segment's reported net loss for the quarter was $782 million, compared with a reported net loss of $399 million in the prior quarter. The increase
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: primarily reflects the payment related to the termination of the First Horizon transaction and higher net corporate expenses reflecting litigation expenses during the
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: quarter. Other items increased by $137 million, primarily reflecting higher revenue from treasury and balance sheet management activities. The adjusted net loss
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 48, Text: for the quarter was $182 million, compared with an adjusted net loss of $177 million in the prior quarter.
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 49, Text: Year-to-date comparison - Q3 2023 vs. Q3 2022
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: Corporate segment's reported net loss for the nine months ended July 31, 2023 was $3,798 million, compared with a reported net loss of $1,130 million in the
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: same period last year. The increase primarily reflects the Stanford litigation settlement, the recognition of a provision for income taxes in connection with the
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: Canada Recovery Dividend and increase in the Canadian federal tax rate for fiscal 2022, a higher net loss from mitigation of impact from interest rate volatility to
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: closing capital on the First Horizon transaction in the current period and the payment related to the termination of the First Horizon transaction. The adjusted net
+Page: 16, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: loss for the nine months ended July 31, 2023 was $499 million compared with an adjusted net loss of $381 million in the same period last year.
+Page: 17, Font Size: 6.0, Upper: False, Bold: False, block number: 0, Text: Page 17
+Page: 17, Font Size: 10.020000457763672, Upper: True, Bold: True, block number: 10, Text: SHAREHOLDER AND INVESTOR INFORMATION
+Page: 17, Font Size: 7.5, Upper: False, Bold: True, block number: 11, Text: Shareholder Services
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: If you:
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: And your inquiry relates to:
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 12, Text: Please contact:
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: Are a registered shareholder (your name appears
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 13, Text: on your TD share certificate)
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: Missing dividends, lost share certificates, estate
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: questions, address changes to the share register,
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: dividend bank account changes, the dividend
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: reinvestment plan, eliminating duplicate mailings of
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: shareholder materials or stopping (or resuming)
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 14, Text: receiving annual and quarterly reports
+Page: 17, Font Size: 7.5, Upper: False, Bold: True, block number: 15, Text: Transfer Agent:
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 16, Text: TSX Trust Company
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 17, Text: 301-100 Adelaide Street West
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 18, Text: Toronto, ON M5H 4H1
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 19, Text: 1-800-387-0825 (Canada and U.S. only)
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 20, Text: or 416-682-3860
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 21, Text: Facsimile: 1-888-249-6189
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: shareholderinquiries@tmx.com
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: or
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 22, Text: www.tsxtrust.com
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: Hold your TD shares through the
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: Direct Registration System
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 23, Text: in the United States
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: Missing dividends, lost share certificates, estate
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: questions, address changes to the share register,
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: eliminating duplicate mailings of shareholder
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: materials or stopping (or resuming) receiving annual
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 24, Text: and quarterly reports
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 25, Text: Co-Transfer Agent and Registrar:
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 26, Text: Computershare Trust Company, N.A.
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 27, Text: P.O. Box 43006
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 28, Text: Providence, RI 02940-3006
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 29, Text: or
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 30, Text: Computershare Trust Company, N.A.
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 31, Text: 150 Royall Street
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 32, Text: Canton, MA 02021
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 33, Text: 1-866-233-4836
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 34, Text: TDD for hearing impaired: 1-800-231-5469
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 35, Text: Shareholders outside of U.S.: 201-680-6578
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 36, Text: TDD shareholders outside of U.S.: 201-680-6610
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 37, Text: Email inquiries:
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 37, Text: web.queries@computershare.com
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 38, Text: www.computershare.com/investor
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: Beneficially own TD shares that are held in the
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: name of an intermediary, such as a bank, a trust
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 39, Text: company, a securities broker or other nominee
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: Your TD shares, including questions regarding the
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: dividend reinvestment plan and mailings of
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 40, Text: shareholder materials
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 41, Text: Your intermediary
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: For all other shareholder inquiries, please contact TD Shareholder Relations at 416-944-6367 or 1-866-756-8936 or email
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: tdshinfo@td.com
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: .
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: Please note that by
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 42, Text: leaving us an e-mail or voicemail message, you are providing your consent for us to forward your inquiry to the appropriate party for response.
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 43, Text: Access to Quarterly Results Materials
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: Interested investors, the media and others may view the third quarter earnings news release, results slides, supplementary financial information, and the Report to
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text: Shareholders on the TD Investor Relations website at
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 44, Text:  www.td.com/investor/.
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 45, Text: Quarterly Earnings Conference Call
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: TD Bank Group will host an earnings conference call in Toronto, Ontario on August 24, 2023. The call will be audio webcast live through TD's website at
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: 1:30 p.m. ET. The call will feature presentations by TD executives on the Bank's financial results for third quarter and discussions of related disclosures, followed
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: by a question-and-answer period with analysts. The presentation material referenced during the call will be available on the TD website at
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text:  www.td.com/investor
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: on
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 46, Text: August 24, 2023 in advance of the call. A listen-only telephone line is available at 416-641-6150 or 1-866-696-5894 (toll free) and the passcode is 2727354#.
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: The audio webcast and presentations will be archived at
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: www.td.com/investor
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: .
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: Replay of the teleconference will be available from 5:00 p.m. ET on
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 47, Text: August 24, 2023, until 11:59 p.m. ET on September 8, 2023 by calling 905-694-9451 or 1-800-408-3053 (toll free). The passcode is 7300743#.
+Page: 17, Font Size: 7.5, Upper: False, Bold: True, block number: 48, Text: Annual Meeting
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 49, Text: Thursday, April 18, 2024
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 50, Text: Toronto, Ontario
+Page: 17, Font Size: 7.5, Upper: False, Bold: True, block number: 51, Text: About TD Bank Group
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: The Toronto-Dominion Bank and its subsidiaries are collectively known as TD Bank Group ("TD" or the "Bank"). TD is the sixth largest bank in North America by
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: assets and serves over 27.5 million customers in four key businesses operating in a number of locations in financial centres around the globe: Canadian Personal
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: and Commercial Banking, including TD Canada Trust and TD Auto Finance Canada; U.S. Retail, including TD Bank, America's Most Convenient Bank(r), TD Auto
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: Finance U.S., TD Wealth (U.S.), and an investment in The Charles Schwab Corporation; Wealth Management and Insurance, including TD Wealth (Canada),
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: TD Direct Investing, and TD Insurance; and Wholesale Banking, including TD Securities and TD Cowen. TD also ranks among the world's leading online financial
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: services firms, with more than 16 million active online and mobile customers. TD had $1.9 trillion in assets on July 31, 2023. The Toronto-Dominion Bank trades
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 52, Text: under the symbol "TD" on the Toronto and New York Stock Exchanges.
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 53, Text: For further information contact:
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 54, Text: Brooke Hales, Vice President, Investor Relations, 416-307-8647,
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 54, Text: Brooke.hales@td.com
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 55, Text: Elizabeth Goldenshtein, Senior Manager, Corporate Communications, 416-994-4124,
+Page: 17, Font Size: 7.5, Upper: False, Bold: False, block number: 55, Text: Elizabeth.goldenshtein@td.com
+Page: 17, Font Size: 6.0, Upper: True, Bold: False, block number: 56, Text: TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE

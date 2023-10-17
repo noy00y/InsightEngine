@@ -19,3 +19,11 @@ Examples of matching numbers:
 - -1,234.56
 - (-789)
 - (-1,234.56)
+
+2. Expression for matching symbols found alongside accounting numbers 
+```python
+SYMBOLS = r'^\s*[$%]'
+```
+Examples of matching numbers:
+- $
+- %

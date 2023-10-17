@@ -7,8 +7,10 @@ import re
 import numpy as np
 from unidecode import unidecode
 
-# Regex Patterns:
+# Regex Patterns
+#NOTE Described in Readme:
 NUMBERS = r'^\s*(\([-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?\)|[-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?)$'
+SYMBOLS = r'^\s*[$%]'
 
 class Converter:
     def __init__(self, filePath: str):
@@ -62,7 +64,7 @@ class Converter:
 
                                 # Table Filteration Logic:
                                 # NOTE: All regex stuff goes here
-                                if re.search(NUMBERS, text) == None:
+                                if re.search(NUMBERS, text) == None and re.search(SYMBOLS, text) == None:
                                     log_output = f"Page: {page}, Font Size: {font_size}, Upper: {is_upper}, Bold: {is_bold}, block number: {block_no}, Text: {text}"
                                     statsLog.write(log_output + "\n")
                                     rows.append((xmin, ymin, xmax, ymax, text, is_upper, is_bold, span_font, font_size))
@@ -96,7 +98,20 @@ class Converter:
             style_dict[value] = count
         sorted(style_dict.items(), key=lambda x: x[1])
 
-        # 
+        # Create Markdown font tags:
+        p_size = max(style_dict, key=style_dict.get) # get font_size with most occurance --> this will be general paragraph font
+        idx = 0 # used for creating specific header or paragraph font format
+        tag = {} 
+
+        for size in sorted(values, reverse=True):
+            # print(f"Size: {size}, idx: {idx}")
+            idx += 1 # 
+            if size == p_size:
+                idx = 0
+                tag[size] = "p" # regular font
+            if size > p_size: tag[size] = 'h{0}'.format(idx) # font size larger then avg --> header font
+            if size < p_size: tag[size] = 's{0}'.format(idx) # font size smaller then avg --> small font
+
 
         return
 
