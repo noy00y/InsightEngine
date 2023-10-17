@@ -7,16 +7,25 @@ import re
 import numpy as np
 from unidecode import unidecode
 
-# Regex Patterns
-#NOTE Described in Readme:
+# Constants:
+# NOTE: Regex Patterns described in readme:
 NUMBERS = r'^\s*(\([-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?\)|[-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?)$'
 SYMBOLS = r'^\s*[$%]'
+TAG_TO_HEADER = {
+    'h1': '# ',
+    'h2': "## ",
+    'h3': "### ",
+    'h4': "#### ",
+    'h5': '##### ',
+    'h6': '###### '
+}
 
 class Converter:
     def __init__(self, filePath: str):
         self.pdf = filePath
         self.tables = None
         self.text = None # Dataframe
+        self.output = []
 
     # Extract Text and Gather Stats
     def extract_text(self):
@@ -26,7 +35,7 @@ class Converter:
         """
         # Open PDF for reading and log for tracking stats
         pdf = fitz.open(self.pdf)
-        statsLog = open("statsLog.txt", "w", encoding="utf-8")
+        textLog = open("textLog.txt", "w", encoding="utf-8")
 
         # Iterate through pages and save as blocks
         block_dict = {}
@@ -66,12 +75,12 @@ class Converter:
                                 # NOTE: All regex stuff goes here
                                 if re.search(NUMBERS, text) == None and re.search(SYMBOLS, text) == None:
                                     log_output = f"Page: {page}, Font Size: {font_size}, Upper: {is_upper}, Bold: {is_bold}, block number: {block_no}, Text: {text}"
-                                    statsLog.write(log_output + "\n")
+                                    textLog.write(log_output + "\n")
                                     rows.append((xmin, ymin, xmax, ymax, text, is_upper, is_bold, span_font, font_size))
 
         # Create text dataframe and close files:
         self.text = pd.DataFrame(rows, columns=['xmin','ymin','xmax','ymax', 'text', 'is_upper','is_bold','span_font', 'font_size'])
-        statsLog.close()
+        textLog.close()
         pdf.close()
         return
     
@@ -79,8 +88,9 @@ class Converter:
         """
         - Generate font frequencies for formatting text
         """
+        formatLog = open("formatLog.txt", "w", encoding="utf-8")
         span_scores = [] # collect font sizes as scores
-        special = '[(_:/,#%\=@)]'
+        special = '[(_:/,#-%\=@)]'
         for _, row in self.text.iterrows():
             score = round(row.font_size) # round font size
             text = row.text
@@ -104,7 +114,6 @@ class Converter:
         tag = {} 
 
         for size in sorted(values, reverse=True):
-            # print(f"Size: {size}, idx: {idx}")
             idx += 1 # 
             if size == p_size:
                 idx = 0
@@ -113,9 +122,27 @@ class Converter:
             if size < p_size: tag[size] = 's{0}'.format(idx) # font size smaller then avg --> small font
 
 
+        # Assign Tags to original text dataframe:
+        span_tags = [tag[score] for score in span_scores]
+        self.text["tag"] = span_tags
+
+        # Create Header and Text 
+
+        for index, row in self.text.iterrows():
+            text = row.text
+            tag = row.tag
+            if 'h' in tag:
+                header = TAG_TO_HEADER.get(tag)
+                header_output = f"{header}{text}"
+                self.output.append(header_output)
+            self.output.append(text)
+
+        formatLog.close()
         return
 
     def extract_tables(self):
+
+        
 
         return
     
