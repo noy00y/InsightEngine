@@ -1,18 +1,18 @@
-| TABLE 7: CANADIAN PERSONAL AND COMMERCIAL BANKING      | Unnamed: 0   | Unnamed: 1   | Unnamed: 2                  | Unnamed: 3                 |
-|:-------------------------------------------------------|:-------------|:-------------|:----------------------------|:---------------------------|
-| (millions of Canadian dollars, except as noted)        | nan          | nan          | For the three mo nths ended | For the nine mo nths ended |
-| Net interest income                                    | $            | 3,571        | $ 3,377  $ 3,199  $         | 10,487  $ 9,008            |
-| Non-interest income                                    | nan          | 999          | 1,027 1,061                 | 3,076 3,124                |
-| Total revenue                                          | nan          | 4,570        | 4,404 4,260                 | 13,563 12,132              |
-| Provision for (recovery of) credit losses – impaired   | nan          | 285          | 234 142                     | 739 455                    |
-| Provision for (recovery of) credit losses – performing | nan          | 94           | 13 28                       | 214 (193)                  |
-| Total provision for (recovery of) credit losses        | nan          | 379          | 247 170                     | 953 262                    |
-| Non-interest expenses                                  | nan          | 1,895        | 1,903 1,807                 | 5,661 5,255                |
-| Provision for (recovery of) income taxes               | nan          | 641          | 629 605                     | 1,940 1,751                |
-| Net income                                             | $            | 1,655        | $ 1,625  $ 1,678  $         | 5,009  $ 4,864             |
-| Selected volumes and ratios                            | nan          | nan          | nan                         | nan                        |
-| Return on common equity1                               | nan          | 35.4         | % 37.4 % 42.3 %             | 37.5 % 42.4 %              |
-| Net interest margin (including on securitized assets)2 | nan          | 2.74         | 2.74 2.59                   | 2.76 2.52                  |
-| Efficiency ratio                                       | nan          | 41.5         | 43.2 42.4                   | 41.7 43.3                  |
-| Number of Canadian retail branches                     | nan          | 1,060        | 1,060 1,060                 | 1,060 1,060                |
-| Average number of full-time equivalent staff           | nan          | 29,172       | 28,797 28,944               | 28,925 28,324              |
+| SELECTED INCOME STATEMENT DATA ($MM)            |   Unnamed: 0 | Unnamed: 1   | FINANCIAL PERFORMANCE                                                       |
+|:------------------------------------------------|-------------:|:-------------|:----------------------------------------------------------------------------|
+| $ O/(U)                                         |          nan | nan          | ⚫ Net income of $3.1B, down 12% YoY; revenue of $11.7B, down 2%            |
+| 3Q23 2Q23                                       |          nan | 3Q22         | YoY                                                                         |
+| Revenue $11,730 ($789)                          |          nan | ($195)       | ⚫ Banking revenue                                                          |
+| Investment Banking revenue 1,613 119            |          nan | (100)        | ⚫ IB revenue of $1.6B, down 6% YoY                                         |
+| 2                                               |          nan | nan          | nan                                                                         |
+| Payments 2,094 (357)                            |          nan | 55           | – IB fees down 3% YoY, driven by lower advisory fees, largely offset by     |
+| Lending 291 (8)                                 |          nan | (32)         | higher debt underwriting fees                                               |
+| Total Banking 3,998 (246)                       |          nan | (77)         | ⚫ Payments revenue of $2.1B, up 3% YoY                                     |
+| Fixed Income Markets 4,514 (53)                 |          nan | 45           | – Excluding the net impact of equity investments, which reflected an        |
+| Equity Markets 2,067 (384)                      |          nan | (235)        | impairment in the current period, up 12%, driven by higher rates,           |
+| Securities Services 1,212 (9)                   |          nan | 102          | partially offset by lower deposit balances                                  |
+| Credit Adjustments & Other (61)  (97)           |          nan | (30)         | nan                                                                         |
+| Total Markets & Securities Services 7,732 (543) |          nan | (118)        | losses on hedges of retained loans, partially offset by higher net interest |
+| 2                                               |          nan | nan          | nan                                                                         |
+| Expense 7,443 549                               |          nan | 761          | income                                                                      |
+| Credit costs (185)  (223)                       |          nan | (698)        | nan                                                                         |

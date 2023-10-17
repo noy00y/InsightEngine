@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 # read PDF file and extract all the tables
-tables = tabula.read_pdf("Reports\TD\q323financials-en.pdf", pages="all")
+tables = tabula.read_pdf("Reports\JPMorgan\Q323financialresults.pdf", pages="all")
 
 # save them in a folder:
 folder_name = "tables_output"

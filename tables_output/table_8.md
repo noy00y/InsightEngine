@@ -1,23 +1,22 @@
-| TABLE 10: WHOLESALE BANKING                                     | Unnamed: 0   | Unnamed: 1   | Unnamed: 2   | Unnamed: 3   | Unnamed: 4                 |   Unnamed: 5 | Unnamed: 6                | Unnamed: 7   |
-|:----------------------------------------------------------------|:-------------|:-------------|:-------------|:-------------|:---------------------------|-------------:|:--------------------------|:-------------|
-| (millions of Canadian dollars, except as noted)                 | nan          | nan          | nan          | nan          | For the three months ended |          nan | For the nine months ended | nan          |
-| Net interest income (TEB)                                       | $            | 270          | nan          | $            | 498  $ 786  $              |          nan | 1,293  $ 2,254            | nan          |
-| Non-interest income                                             | nan          | 1,298        | nan          | nan          | 919  290                   |          nan | 3,037  1,418              | nan          |
-| Total revenue                                                   | nan          | 1,568        | nan          | nan          | 1,417  1,076               |          nan | 4,330  3,672              | nan          |
-| Provision for (recovery of) credit losses – impaired            | nan          | 10           | nan          | nan          | 5  –                       |          nan | 16  (5)                   | nan          |
-| Provision for (recovery of) credit losses – performing          | nan          | 15           | nan          | nan          | 7  25                      |          nan | 53  16                    | nan          |
-| Total provision for (recovery of) credit losses                 | nan          | 25           | nan          | nan          | 12  25                     |          nan | 69  11                    | nan          |
-| Non-interest expenses – reported                                | nan          | 1,247        | nan          | nan          | 1,189  691                 |          nan | 3,319  2,231              | nan          |
-| Non-interest expenses – adjusted1,2                             | nan          | 1,104        | nan          | nan          | 1,116  691                 |          nan | 3,082  2,231              | nan          |
-| Provision for (recovery of) income taxes (TEB) – reported       | nan          | 24           | nan          | nan          | 66  89                     |          nan | 189  366                  | nan          |
-| Provision for (recovery of) income taxes (TEB) – adjusted1      | nan          | 62           | nan          | nan          | 76  89                     |          nan | 242  366                  | nan          |
-| Net income – reported                                           | $            | 272          | nan          | $            | 150  $ 271  $              |          nan | 753  $ 1,064              | nan          |
-| Net income – adjusted1                                          | nan          | 377          | nan          | nan          | 213  271                   |          nan | 937  1,064                | nan          |
-| Selected volumes and ratios                                     | nan          | nan          | nan          | nan          | nan                        |          nan | nan                       | nan          |
-| Trading-related revenue (TEB)3                                  | $            | 626          | nan          | $            | 482  $ 547  $              |          nan | 1,770  $ 1,953            | nan          |
-| Average gross lending portfolio (billions of Canadian dollars)4 | nan          | 93.8         | nan          | nan          | 95.2  72.2                 |          nan | 95.3  65.1                | nan          |
-| Return on common equity – reported5                             | nan          | 7.4          | %            | nan          | 4.5 % 8.9 %                |          nan | 7.1 % 12.6                | %            |
-| Return on common equity – adjusted1,5                           | nan          | 10.3         | nan          | nan          | 6.4 8.9                    |          nan | 8.9 12.6                  | nan          |
-| Efficiency ratio – reported                                     | nan          | 79.5         | nan          | nan          | 83.9 64.2                  |          nan | 76.7 60.8                 | nan          |
-| Efficiency ratio – adjusted1                                    | nan          | 70.4         | nan          | nan          | 78.8 64.2                  |          nan | 71.2 60.8                 | nan          |
-| Average number of full-time equivalent staff                    | nan          | 7,233        | nan          | nan          | 6,510  5,163               |          nan | 7,081  5,016              | nan          |
+| Unnamed: 0                                      | Unnamed: 1     | CCB CIB                                                       |   CB |   AWM |   Corp. |
+|:------------------------------------------------|:---------------|:--------------------------------------------------------------|-----:|------:|--------:|
+| Asset & Wealth Management1                      | nan            | nan                                                           |  nan |   nan |     nan |
+| SELECTED INCOME STATEMENT DATA ($MM)            | nan            | FINANCIAL PERFORMANCE (ex. FR)                                |  nan |   nan |     nan |
+| 3Q23                                            | ex. FR $ O/(U) | ⚫ Net income of $1.1B, down 12% YoY                          |  nan |   nan |     nan |
+| Reported FR impact ex. FR                       | 2Q23 3Q22      | ⚫ Revenue of $4.6B, relatively flat YoY, driven by higher    |  nan |   nan |     nan |
+| Revenue $5,005 $436 $4,569                      | ($71) $30      | nan                                                           |  nan |   nan |     nan |
+| Asset Management 2,164 - 2,164                  | 36 (45)        | interest income                                               |  nan |   nan |     nan |
+| Global Private Bank 2,841 436 2,405             | (107) 75       | ⚫ Expense of $3.1B, up 3% YoY, driven by continued growth in |  nan |   nan |     nan |
+| Expense 3,138 17 3,121                          | (42) 93        | nan                                                           |  nan |   nan |     nan |
+| Credit costs (13) (31) 18                       | 19 120         | nan                                                           |  nan |   nan |     nan |
+| Net income $1,417 $342 $1,075                   | ($32) ($144)   | were up 21% YoY, driven by continued net inflows and higher   |  nan |   nan |     nan |
+| KEY DRIVERS / STATISTICS ($B)2                  | nan            | nan                                                           |  nan |   nan |     nan |
+| 3Q23                                            | ex. FR         | QoQ                                                           |  nan |   nan |     nan |
+| Reported FR impact ex. FR                       | 2Q23 3Q22      | nan                                                           |  nan |   nan |     nan |
+| Average equity $17.0 $1.0 $16.0                 | $16.0 $17.0    | nan                                                           |  nan |   nan |     nan |
+| ROE 32% 6% 26%                                  | 27% 28%        | nan                                                           |  nan |   nan |     nan |
+| Pretax margin 38 6 31                           | 32 36          | nan                                                           |  nan |   nan |     nan |
+| Assets under management ("AUM") $3,186 - $3,186 | $3,188 $2,616  | nan                                                           |  nan |   nan |     nan |
+| Client assets 4,644 - 4,644                     | 4,558 3,823    | nan                                                           |  nan |   nan |     nan |
+| Average loans 223.8 13.0 210.8                  | 209.8 216.7    | nan                                                           |  nan |   nan |     nan |
+| Average deposits 202.0 - 202.0                  | 211.9 253.0    | nan                                                           |  nan |   nan |     nan |
