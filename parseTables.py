@@ -3,10 +3,10 @@ import os
 import pandas as pd
 
 # read PDF file and extract all the tables
-tables = tabula.read_pdf("./PDFs/sample.pdf", pages="all")
+tables = tabula.read_pdf("Reports\TD\q323financials-en.pdf", pages="all")
 
 # save them in a folder:
-folder_name = "markdown"
+folder_name = "tables_output"
 if not os.path.isdir(folder_name):
     os.mkdir(folder_name)
 
