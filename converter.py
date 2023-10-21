@@ -134,7 +134,7 @@ class Converter:
                 header = TAG_TO_HEADER.get(tag)
                 header_output = f"{header}{text}"
                 self.output.append(header_output)
-            self.output.append(text)
+            else: self.output.append(text)
 
         formatLog.close()
         return
