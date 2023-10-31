@@ -1,21 +1,11 @@
 TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
 Page 1
-
 # TD
-
-
-# Bank Group Reports Third
-
-
-# Quarter 2023 Results
-
-
-## Earnings News Release
-
- *
-
-### Three and nine months ended July 31, 2023
-
+## Bank Group Reports Third
+## Quarter 2023 Results
+### Earnings News Release
+#####  *
+#### Three and nine months ended July 31, 2023
 This quarterly Earnings News Release should be read in conjunction with the Bank's unaudited third quarter 2023 Report to Shareholders for the three and nine
 months ended July 31, 2023, prepared in accordance with International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards
 Board (IASB), which is available on our website at
@@ -63,25 +53,25 @@ The third quarter reported earnings figures included the following items of note
  Acquisition and integration charges related to the Schwab transaction of $54 million ($44 million after-tax or 2 cents per share), compared with
 *
  Acquisition and integration-related charges for acquisitions, including current period winddown costs of the terminated First Horizon transaction, of
-year.
+##### year.
 *
  Payment related to the termination of the First Horizon transaction of $306 million ($306 million after-tax or 17 cents per share).
 *
  Impact of strategy to mitigate interest rate volatility to closing capital related to the terminated First Horizon transaction:
 -
  Net loss of $114 million ($86 million after-tax or 5 cents per share), compared with $678 million ($505 million after-tax or 28 cents per share) in the
-third quarter last year.
+##### third quarter last year.
 -
  After termination of the merger agreement, net loss of $63 million ($48 million after-tax or 3 cents per share).
 *
  Impact of retroactive tax legislation on payment card clearing services of $57 million ($41 million after-tax or 2 cents per share).
-TORONTO
+#### TORONTO
 , August 24, 2023 - TD Bank Group ("TD" or the "Bank") today announced its financial results for the third quarter ended July 31, 2023. Reported
 earnings were $3.0 billion, down 8% compared with the third quarter last year, and adjusted earnings were $3.7 billion, down 2%.
 "TD delivered strong revenue growth in the quarter and demonstrated the value of its diversified business mix in a challenging economic environment," said Bharat
 Masrani, Group President and Chief Executive Officer, TD Bank Group. "Investments across our business further strengthened the Bank's ability to deliver
 legendary experiences to more than 27 million customers."
-Canadian Personal and Commercial Banking delivered strong results on continued loan and deposit growth
+##### Canadian Personal and Commercial Banking delivered strong results on continued loan and deposit growth
 Canadian Personal and Commercial Banking net income was $1,655 million, a decline of 1% compared to the third quarter last year. The decrease primarily
 reflects higher provisions for credit losses (PCL), partially offset by revenue growth. Revenue was $4,570 million, an increase of 7%, reflecting volume growth and
 higher margins. The segment delivered its eighth consecutive quarter of positive operating leverage.
@@ -96,7 +86,7 @@ jdpower.com/business/awards
 for more details
 TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
 Page 2
-The U.S. Retail Bank delivered strong loan growth and resilient personal and business deposits
+##### The U.S. Retail Bank delivered strong loan growth and resilient personal and business deposits
 U.S. Retail reported net income of $1,314 million, a decrease of 9% (12% in U.S. dollars) compared with the third quarter last year. On an adjusted basis, net
 income was $1,377 million, a decline of 6% (9% in U.S. dollars). Reported net income included acquisition and integration-related charges for the terminated First
 Horizon Corporation ("First Horizon") transaction of $84 million or US$63 million ($63 million or US$48 million after-tax). TD Bank's investment in The Charles
@@ -116,7 +106,7 @@ Satisfaction among Non-Captive Lenders with Prime Credit" for the fourth consecu
 J.D. Power 2023 U.S. Dealer Financing Satisfaction Study. Visit
 jdpower.com/business/awards
 for more details
-Wealth Management and Insurance delivered strong operating momentum
+##### Wealth Management and Insurance delivered strong operating momentum
 Wealth Management and Insurance net income was $504 million, a decrease of 12% compared with the third quarter last year, reflecting the impact of more
 severe weather-related events and lower transaction revenue in Wealth Management. Revenue increased 1% in the quarter, demonstrating the strength of the
 segment's diversified business model, as higher insurance revenue and net interest income helped offset the impact of trading normalization.
@@ -134,7 +124,7 @@ Big 5 Banks defined as The Toronto-Dominion Bank, Royal Bank of Canada, Bank of 
 Market Intelligence. Mass Affluent Service Models, December 2022
 Investor Economics | A division of ISS Market Intelligence. Money Manager Advisory Service Spring 2023
 Investor Economics | A division of ISS Market Intelligence. Retail Brokerage and Distribution Quarterly Update, Spring 2023
-Strong performance and growth across Wholesale Banking including TD Cowen
+##### Strong performance and growth across Wholesale Banking including TD Cowen
 Wholesale Banking reported net income for the quarter was $272 million, relatively flat compared to the third quarter last year. This reflects record revenue and
 higher non-interest expenses, which include acquisition and integration costs, and reflects the first full quarter of revenues from TD Cowen. On an adjusted basis,
 net income was $377 million, an increase of $106 million, or 39%. Revenue increased 46%, reflecting the benefits of the Cowen Inc. acquisition as well as growth
@@ -142,9 +132,9 @@ in Global Markets and Corporate and Investment Banking.
 The integration of the Cowen Inc. acquisition, which closed on March 1, 2023, remains on track and will accelerate Wholesale Banking's U.S. dollar growth
 strategy. The combined organization delivers an expanded product and service offering, increased depth in key business lines, greater scale and high-quality
 talent.
-Capital
+##### Capital
 TD's Common Equity Tier 1 Capital ratio was 15.2%.
-Conclusion
+##### Conclusion
 "As we look ahead, TD is in a position of strength, with a growing franchise and a strong capital position," added Masrani. "I'd like to thank our more than 95,000
 TD bankers across our global footprint for continuing to deliver on our purpose to enrich the lives of our customers, colleagues and communities every day."
 The foregoing contains forward-looking statements. Please refer to the "Caution Regarding Forward-Looking Statements" on page 3.
@@ -197,17 +187,17 @@ TABLE 1: FINANCIAL HIGHLIGHTS
 (millions of Canadian dollars, except as noted)
 For the three months ended
 For the nine months ended
-July 31
-2023
+##### July 31
+##### 2023
 April 30
 2023
 July 31
 2022
-July 31
-2023
+##### July 31
+##### 2023
 July 31
 2022
-Results of operations
+##### Results of operations
 Total revenue - reported
 Total revenue - adjusted
 Provision for (recovery of) credit losses
@@ -216,14 +206,14 @@ Non-interest expenses - reported
 Non-interest expenses - adjusted
 Net income - reported
 Net income - adjusted
-Financial position 
+##### Financial position 
 (billions of Canadian dollars)
 Total loans net of allowance for loan losses
 Total assets
 Total deposits
 Total equity
 Total risk-weighted assets
-Financial ratios
+##### Financial ratios
 Return on common equity (ROE) - reported
 Return on common equity - adjusted
 Return on tangible common equity (ROTCE)
@@ -233,7 +223,7 @@ Efficiency ratio - adjusted
 , 
 Provision for (recovery of) credit losses as a % of net
 average loans and acceptances
-Common share information - reported 
+##### Common share information - reported 
 (Canadian dollars)
 Per share earnings
 Basic
@@ -250,7 +240,7 @@ Dividend yield
 Dividend payout ratio
 Price-earnings ratio
 Total shareholder return (1 year)
-Common share information - adjusted 
+##### Common share information - adjusted 
 (Canadian dollars)
 ,
 Per share earnings
@@ -258,7 +248,7 @@ Basic
 Diluted
 Dividend payout ratio
 Price-earnings ratio
-Capital ratios
+##### Capital ratios
 Common Equity Tier 1 Capital ratio
 Tier 1 Capital ratio
 Total Capital ratio
@@ -276,11 +266,9 @@ For additional information about this metric, refer to the Glossary in the third
 Toronto Stock Exchange closing market price.
 TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
 Page 5
-
 ### SIGNIFICANT EVENTS
-
 a) 
-Acquisition of Cowen Inc.
+##### Acquisition of Cowen Inc.
 On March 1, 2023, the Bank completed the acquisition of Cowen Inc. ("Cowen"). The acquisition advances the Wholesale Banking segment's long-term growth
 strategy in the U.S. and adds complementary products and services to the Bank's existing businesses. The results of the acquired business have been
 consolidated by the Bank from the closing date and primarily reported in the Wholesale Banking segment. Consideration included $1,500 million
@@ -291,7 +279,7 @@ measurement period, which shall not exceed one year from the acquisition date, t
 acquisition contributed $10,800 million (US$7,933 million) of assets and $9,884 million (US$7,261 million) of liabilities. The excess of accounting consideration
 over the fair value of the tangible net assets acquired is allocated to other intangible assets of $298 million (US$219 million) net of taxes, and goodwill of
 b)
- Termination of the Merger Agreement with First Horizon Corporation
+#####  Termination of the Merger Agreement with First Horizon Corporation
 On May 4, 2023, the Bank and First Horizon Corporation ("First Horizon") announced their mutual decision to terminate the previously announced merger
 agreement for the Bank to acquire First Horizon. Under the terms of the termination agreement, the Bank made a $306 million (US$225 million) cash payment to
 First Horizon on May 5, 2023. The termination payment is recognized in non-interest expenses in the current quarter and is reported in the Corporate segment.
@@ -319,7 +307,7 @@ The Bank had also implemented a strategy to mitigate FX risk on the expected USD
 agreement, the Bank discontinued this strategy. Given the appreciation of the U.S. dollar during the life of the strategy, the Bank was in a net gain position on the
 date of hedge termination and cumulative net gains were recognized in accumulated other comprehensive income.
 c)
- Implementation of the Canada Recovery Dividend and Change in Corporate Tax Rate
+#####  Implementation of the Canada Recovery Dividend and Change in Corporate Tax Rate
 On December 15, 2022, Bill C-32, 
 Fall Economic Statement Implementation Act
 , 
@@ -332,7 +320,7 @@ The increase in the Canadian federal tax rate of 1.5%, prorated for the first ta
 certain Canadian deferred tax assets and liabilities for the increase in tax rate, which resulted in an increase in net deferred tax assets of $50 million, which is
 recorded in provision for income taxes.
 d)
- Stanford Litigation Settlement
+#####  Stanford Litigation Settlement
 In the US 
 Rotstain v. Trustmark National Bank, et al. 
 action, on February 24, 2023, the Bank reached a settlement in principle (the "settlement" or "agreement")
@@ -345,13 +333,11 @@ rate used for recording the provision (effective January 31, 2023) and the forei
 TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
 Page 6
 -
-
 ### HOW WE PERFORMED
-
-HOW THE BANK REPORTS
+#### HOW THE BANK REPORTS
 The Bank prepares its Interim Consolidated Financial Statements in accordance with IFRS and refers to results prepared in accordance with IFRS as "reported"
 results.
-Non-GAAP and Other Financial Measures
+##### Non-GAAP and Other Financial Measures
 In addition to reported results, the Bank also presents certain financial measures, including non-GAAP financial measures that are historical, non-GAAP ratios,
 supplementary financial measures and capital management measures, to assess its results. Non-GAAP financial measures, such as "adjusted" results, are utilized
 to assess the Bank's businesses and to measure the Bank's overall performance. To arrive at adjusted results, the Bank adjusts for "items of note" from reported
@@ -362,7 +348,7 @@ measures and non-GAAP ratios provide the reader with a better understanding of h
 and non-GAAP ratios used in this document are not defined terms under IFRS and, therefore, may not be comparable to similar terms used by other issuers.
 Supplementary financial measures depict the Bank's financial performance and position, and capital management measures depict the Bank's capital position, and
 both are explained in this document where they first appear.
-U.S. Strategic Cards
+##### U.S. Strategic Cards
 The Bank's U.S. strategic cards portfolio is comprised of agreements with certain U.S. retailers pursuant to which TD is the U.S. issuer of private label and co
 branded consumer credit cards to their U.S. customers. Under the terms of the individual agreements, the Bank and the retailers share in the profits generated by
 the relevant portfolios after credit losses. Under IFRS, TD is required to present the gross amount of revenue and provisions for credit losses (PCL) related to
@@ -370,7 +356,7 @@ these portfolios in the Bank's Interim Consolidated Statement of Income. At the 
 presented in the Corporate segment, with an offsetting amount (representing the partners' net share) recorded in Non-interest expenses, resulting in no impact to
 Corporate's reported Net income (loss). The Net income (loss) included in the U.S. Retail segment includes only the portion of revenue and credit losses
 attributable to TD under the agreements.
-Investment in The Charles Schwab Corporation and IDA Agreement
+##### Investment in The Charles Schwab Corporation and IDA Agreement
 On October 6, 2020, the Bank acquired an approximately 13.5% stake in The Charles Schwab Corporation ("Schwab") following the completion of Schwab's
 acquisition of TD Ameritrade Holding Corporation ("TD Ameritrade") of which the Bank was a major shareholder (the "Schwab transaction"). On August 1, 2022,
 the Bank sold 28.4 million non-voting common shares of Schwab, which reduced the Bank's ownership interest in Schwab to approximately 12.0%. The Bank
@@ -399,14 +385,14 @@ TABLE 2: OPERATING RESULTS - Reported
 (millions of Canadian dollars)
 For the three months ended
 For the nine months ended
-July 31
-2023
+##### July 31
+##### 2023
 April 30
 2023
 July 31
 2022
-July 31
-2023
+##### July 31
+##### 2023
 July 31
 2022
 Net interest income
@@ -415,13 +401,13 @@ Total revenue
 Provision for (recovery of) credit losses
 Insurance claims and related expenses
 Non-interest expenses
-Income before income taxes and share of net income from
-investment in Schwab
+##### Income before income taxes and share of net income from
+##### investment in Schwab
 Provision for (recovery of) income taxes
 Share of net income from investment in Schwab
-Net income - reported
+##### Net income - reported
 Preferred dividends and distributions on other equity instruments
-Net income available to common shareholders
+##### Net income available to common shareholders
 TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
 Page 8
 iv.Payment related to the termination of the First Horizon transaction - Q3 2023: $306 million, reported in the Corporate segment; and 
@@ -432,17 +418,17 @@ TABLE 3: NON-GAAP FINANCIAL MEASURES - Reconciliation of Adjusted to Reported Ne
 (millions of Canadian dollars)
 For the three months ended
 For the nine months ended
-July 31
-2023
+##### July 31
+##### 2023
 April 30
 2023
 July 31
 2022
-July 31
-2023
+##### July 31
+##### 2023
 July 31
 2022
-Operating results - adjusted
+##### Operating results - adjusted
 Net interest income
 Non-interest income
 , 
@@ -454,10 +440,10 @@ Income before income taxes and share of net income
 from investment in Schwab
 Provision for (recovery of) income taxes
 Share of net income from investment in Schwab
-Net income - adjusted
+##### Net income - adjusted
 Preferred dividends and distributions on other equity instruments
-Net income available to common shareholders - adjusted
-Pre-tax adjustments for items of note
+##### Net income available to common shareholders - adjusted
+##### Pre-tax adjustments for items of note
 Amortization of acquired intangibles
 Acquisition and integration charges related to the Schwab transaction
 Acquisition and integration-related charges for acquisitions, including
@@ -479,7 +465,7 @@ Impact of retroactive tax legislation on payment card clearing services
 -
 Litigation (settlement)/recovery
 , 
--
+##### -
 -
 Less: Impact of income taxes
 Amortization of acquired intangibles
@@ -497,15 +483,15 @@ Impact of retroactive tax legislation on payment card clearing services
 -
 -
 Litigation (settlement)/recovery
--
+##### -
 -
 CRD and federal tax rate increase for fiscal 2022
+##### -
 -
 -
 -
--
-Total adjustments for items of note
-Net income available to common shareholders - reported
+##### Total adjustments for items of note
+##### Net income available to common shareholders - reported
 Adjusted non-interest income excludes the following items of note:
 i.
 Stanford litigation settlement - Q2 2023: $39 million. This reflects the foreign exchange loss and is reported in the Corporate segment;
@@ -550,23 +536,23 @@ rounding.
 (Canadian dollars)
 For the three months ended
 For the nine months ended
-July 31
-2023
+##### July 31
+##### 2023
 April 30
 2023
 July 31
 2022
-July 31
-2023
+##### July 31
+##### 2023
 July 31
 2022
-Basic earnings per share - reported
+##### Basic earnings per share - reported
 Adjustments for items of note
-Basic earnings per share - adjusted
-Diluted earnings per share - reported
+##### Basic earnings per share - adjusted
+##### Diluted earnings per share - reported
 Adjustments for items of note
-Diluted earnings per share - adjusted
-Return on Common Equity
+##### Diluted earnings per share - adjusted
+##### Return on Common Equity
 The consolidated Bank ROE is calculated as reported net income available to common shareholders as a percentage of average common equity. The
 consolidated Bank adjusted ROE is calculated as adjusted net income available to common shareholders as a percentage of average common equity. Adjusted
 ROE is a non-GAAP financial ratio and can be utilized in assessing the Bank's use of equity.
@@ -577,23 +563,23 @@ TABLE 5: RETURN ON COMMON EQUITY
 (millions of Canadian dollars, except as noted)
 For the three months ended
 For the nine months ended
-July 31
-2023
+##### July 31
+##### 2023
 April 30
 2023
 July 31
 2022
-July 31
-2023
+##### July 31
+##### 2023
 July 31
 2022
 Average common equity
-Net income available to common shareholders - reported
+##### Net income available to common shareholders - reported
 Items of note, net of income taxes
-Net income available to common shareholders - adjusted
-Return on common equity - reported
-Return on common equity - adjusted
-Return on Tangible Common Equity
+##### Net income available to common shareholders - adjusted
+##### Return on common equity - reported
+##### Return on common equity - adjusted
+##### Return on Tangible Common Equity
 Tangible common equity (TCE) is calculated as common shareholders' equity less goodwill, imputed goodwill and intangibles on the investments in Schwab and
 other acquired intangible assets, net of related deferred tax liabilities. ROTCE is calculated as reported net income available to common shareholders after
 adjusting for the after-tax amortization of acquired intangibles, which are treated as an item of note, as a percentage of average TCE. Adjusted ROTCE is
@@ -604,14 +590,14 @@ TABLE 6: RETURN ON TANGIBLE COMMON EQUITY
 (millions of Canadian dollars, except as noted)
 For the three months ended
 For the nine months ended
-July 31
-2023
+##### July 31
+##### 2023
 April 30
 2023
 July 31
 2022
-July 31
-2023
+##### July 31
+##### 2023
 July 31
 2022
 Average common equity
@@ -619,22 +605,20 @@ Average goodwill
 Average imputed goodwill and intangibles on investments in Schwab
 Average other acquired intangibles
 Average related deferred tax liabilities
-Average tangible common equity
-Net income available to common shareholders - reported
+##### Average tangible common equity
+##### Net income available to common shareholders - reported
 Amortization of acquired intangibles, net of income taxes
-Net income available to common shareholders adjusted for
+##### Net income available to common shareholders adjusted for
 amortization of acquired intangibles, net of income taxes
 Other items of note, net of income taxes
-Net income available to common shareholders - adjusted
-Return on tangible common equity
-Return on tangible common equity - adjusted
+##### Net income available to common shareholders - adjusted
+##### Return on tangible common equity
+##### Return on tangible common equity - adjusted
 Excludes intangibles relating to software and asset servicing rights.
 TD BANK GROUP * THIRD QUARTER 2023 * EARNINGS NEWS RELEASE  
 Page 10
 -
-
 ### HOW OUR BUSINESSES PERFORMED
-
 For management reporting purposes, the Bank's business operations and activities are organized around the following four key business segments: Canadian
 Personal and Commercial Banking, U.S. Retail, Wealth Management and Insurance, and Wholesale Banking. The Bank's other activities are grouped into the
 Corporate segment.
@@ -656,14 +640,14 @@ For the three m
 onths ended
 For the nine m
 onths ended
-July 31
-2023
+##### July 31
+##### 2023
 April 30
 2023
 July 31
 2022
-July 31
-2023
+##### July 31
+##### 2023
 July 31
 2022
 Net interest income
@@ -674,8 +658,8 @@ Provision for (recovery of) credit losses - performing
 Total provision for (recovery of) credit losses
 Non-interest expenses
 Provision for (recovery of) income taxes
-Net income
-Selected volumes and ratios
+##### Net income
+##### Selected volumes and ratios
 Return on common equity
 Net interest margin (including on securitized assets)
 Efficiency ratio
@@ -730,7 +714,7 @@ Non-interest income was $3,076 million, a decrease of $48 million, or 2%, compar
 adjustment.
 PCL was $953 million, an increase of $691 million, compared with the same period last year. PCL - impaired was $739 million, an increase of $284 million, or
 62%, reflecting some normalization of credit performance in the consumer lending portfolios and credit migration in the commercial lending portfolios.
-PCL -
+##### PCL -
 performing was $214 million, compared with a recovery of $193 million in the prior year. This year's provisions were largely recorded in the consumer lending
 portfolios, reflecting current credit conditions and volume growth.
 Total PCL as an annualized percentage of credit volume was 0.24%, an increase of 17 bps.
@@ -743,15 +727,15 @@ TABLE 8: U.S. RETAIL
 (millions of dollars, except as noted)
 For the three months ended
 For the nine months ended
-Canadian Dollars
-July 31
-2023
+##### Canadian Dollars
+##### July 31
+##### 2023
 April 30
 2023
 July 31
 2022
-July 31
-2023
+##### July 31
+##### 2023
 July 31
 2022
 Net interest income
@@ -768,13 +752,13 @@ Non-interest expenses - adjusted
 , 
 Provision for (recovery of) income taxes - reported
 Provision for (recovery of) income taxes - adjusted
-U.S. Retail Bank net income - reported
-U.S. Retail Bank net income - adjusted
+##### U.S. Retail Bank net income - reported
+##### U.S. Retail Bank net income - adjusted
 Share of net income from investment in Schwab
 ,  
-Net income - reported
-Net income - adjusted
-U.S. Dollars
+##### Net income - reported
+##### Net income - adjusted
+##### U.S. Dollars
 Net interest income
 Non-interest income - reported
 Non-interest income - adjusted
@@ -789,13 +773,13 @@ Non-interest expenses - adjusted
 , 
 Provision for (recovery of) income taxes - reported
 Provision for (recovery of) income taxes - adjusted
-U.S. Retail Bank net income - reported
-U.S. Retail Bank net income - adjusted
+##### U.S. Retail Bank net income - reported
+##### U.S. Retail Bank net income - adjusted
 Share of net income from investment in Schwab
 ,  
-Net income - reported
-Net income - adjusted
-Selected volumes and ratios
+##### Net income - reported
+##### Net income - adjusted
+##### Selected volumes and ratios
 Return on common equity - reported
 Return on common equity - adjusted
 , 
@@ -828,7 +812,7 @@ Quarterly comparison - Q3 2023 vs. Q3 2022
 U.S. Retail reported net income for the quarter was $1,314 million (US$984 million), a decrease of $128 million (US$138 million), or 9% (12% in U.S. dollars),
 compared with the third quarter last year. On an adjusted basis, net income for the quarter was $1,377 million (US$1,032 million), a decrease of $87 million
 (US$107 million), or 6% (9% in
-U.S.
+##### U.S.
 dollars
 ).  
 The
@@ -959,36 +943,36 @@ TABLE 9: WEALTH MANAGEMENT AND INSURANCE
 (millions of Canadian dollars, except as noted)
 For the three months ended
 For the nine months ended
-July 31
-2023
+##### July 31
+##### 2023
 April 30
 2023
 July 31
 2022
-July 31
-2023
+##### July 31
+##### 2023
 July 31
 2022
 Net interest income
 Non-interest income
 Total revenue
 Provision for (recovery of) credit losses - impaired
--
+##### -
 -
 -
 Provision for (recovery of) credit losses - performing
+##### -
 -
 -
--
--
+##### -
 Total provision for (recovery of) credit losses
--
+##### -
 -
 Insurance claims and related expenses
 Non-interest expenses
 Provision for (recovery of) income taxes
-Net income
-Selected volumes and ratios
+##### Net income
+##### Selected volumes and ratios
 Return on common equity
 Efficiency ratio
 Assets under administration (billions of Canadian dollars)
@@ -1043,14 +1027,14 @@ TABLE 10: WHOLESALE BANKING
 (millions of Canadian dollars, except as noted)
 For the three months ended
 For the nine months ended
-July 31
-2023
+##### July 31
+##### 2023
 April 30
 2023
 July 31
 2022
-July 31
-2023
+##### July 31
+##### 2023
 July 31
 2022
 Net interest income (TEB)
@@ -1065,9 +1049,9 @@ Non-interest expenses - adjusted
 ,  
 Provision for (recovery of) income taxes (TEB) - reported
 Provision for (recovery of) income taxes (TEB) - adjusted
-Net income - reported
-Net income - adjusted
-Selected volumes and ratios
+##### Net income - reported
+##### Net income - adjusted
+##### Selected volumes and ratios
 Trading-related revenue (TEB)
 Average gross lending portfolio (billions of Canadian dollars)
 Return on common equity - reported
@@ -1124,18 +1108,18 @@ TABLE 11: CORPORATE
 (millions of Canadian dollars)
 For the three months ended
 For the nine months ended
-July 31
-2023
+##### July 31
+##### 2023
 April 30
 2023
 July 31
 2022
-July 31
-2023
+##### July 31
+##### 2023
 July 31
 2022
 Net income (loss) - reported
-Adjustments for items of note
+##### Adjustments for items of note
 Amortization of acquired intangibles
 Acquisition and integration charges related to the Schwab transaction
 Payment related to the termination of the First Horizon transaction
@@ -1153,12 +1137,12 @@ Impact of retroactive tax legislation on payment card clearing services
 -
 -
 Litigation settlement
--
+##### -
 -
 -
 Less: impact of income taxes
 CRD and federal tax rate increase for fiscal 2022
--
+##### -
 -
 -
 -
@@ -1168,7 +1152,7 @@ Decomposition of items included in net income (loss) - adjusted
 Net corporate expenses
 Other
 Net income (loss) - adjusted
-Selected volumes
+##### Selected volumes
 Average number of full-time equivalent staff
 For additional information about the Bank's use of non-GAAP financial measures, refer to "Non-GAAP and Other Financial Measures" in the "How We Performed" section of this
 document.
@@ -1190,10 +1174,8 @@ Canada Recovery Dividend and increase in the Canadian federal tax rate for fisca
 closing capital on the First Horizon transaction in the current period and the payment related to the termination of the First Horizon transaction. The adjusted net
 loss for the nine months ended July 31, 2023 was $499 million compared with an adjusted net loss of $381 million in the same period last year.
 Page 17
-
 ### SHAREHOLDER AND INVESTOR INFORMATION
-
-Shareholder Services
+##### Shareholder Services
 If you:
 And your inquiry relates to:
 Please contact:
@@ -1266,10 +1248,10 @@ www.td.com/investor
 .
 Replay of the teleconference will be available from 5:00 p.m. ET on
 August 24, 2023, until 11:59 p.m. ET on September 8, 2023 by calling 905-694-9451 or 1-800-408-3053 (toll free). The passcode is 7300743#.
-Annual Meeting
+##### Annual Meeting
 Thursday, April 18, 2024
 Toronto, Ontario
-About TD Bank Group
+##### About TD Bank Group
 The Toronto-Dominion Bank and its subsidiaries are collectively known as TD Bank Group ("TD" or the "Bank"). TD is the sixth largest bank in North America by
 assets and serves over 27.5 million customers in four key businesses operating in a number of locations in financial centres around the globe: Canadian Personal
 and Commercial Banking, including TD Canada Trust and TD Auto Finance Canada; U.S. Retail, including TD Bank, America's Most Convenient Bank(r), TD Auto

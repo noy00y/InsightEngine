@@ -16,8 +16,8 @@ TAG_TO_HEADER = {
     'h2': "## ",
     'h3': "### ",
     'h4': "#### ",
-    'h5': '##### ',
-    'h6': '###### '
+    'h5': "##### ",
+    'h6': "###### "
 }
 
 class Converter:
@@ -87,44 +87,14 @@ class Converter:
     def generate_format(self):
         """
         - Generate font frequencies for formatting text
+        - Collect font frequencies
         """
         formatLog = open("formatLog.txt", "w", encoding="utf-8")
-        span_scores = [] # collect font sizes as scores
-        special = '[(_:/,#-%\=@)]'
-        for _, row in self.text.iterrows():
-            score = round(row.font_size) # round font size
-            text = row.text
-            if not re.search(special, text): # if text is not special chars
-                if row.is_bold: score += 1  # if bold or uppercase --> increase score
-                if row.is_upper: score += 1
-            # print(f"Score: {score}")
-            span_scores.append(score)
 
-        # Gather scores (font) and score freq (counts) --> store in score dict
-        values, counts = np.unique(span_scores, return_counts = True)
-        style_dict = {} # holds frequency for each font size
-
-        for value, count in zip(values, counts):
-            style_dict[value] = count
-        sorted(style_dict.items(), key=lambda x: x[1])
-
-        # Create Markdown font tags:
-        p_size = max(style_dict, key=style_dict.get) # get font_size with most occurance --> this will be general paragraph font
-        idx = 0 # used for creating specific header or paragraph font format
-        tag = {} 
-
-        for size in sorted(values, reverse=True):
-            idx += 1 # 
-            if size == p_size:
-                idx = 0
-                tag[size] = "p" # regular font
-            if size > p_size: tag[size] = 'h{0}'.format(idx) # font size larger then avg --> header font
-            if size < p_size: tag[size] = 's{0}'.format(idx) # font size smaller then avg --> small font
-
+        
 
         # Assign Tags to original text dataframe:
-        span_tags = [tag[score] for score in span_scores]
-        self.text["tag"] = span_tags
+        # self.text["tag"] = header_tag
 
         # Create Header and Text 
         for index, row in self.text.iterrows():
@@ -132,7 +102,7 @@ class Converter:
             tag = row.tag
             if 'h' in tag:
                 header = TAG_TO_HEADER.get(tag)
-                header_output = f"{header}{text}"
+                header_output = f"\n{header}{text}\n"
                 self.output.append(header_output)
             else: self.output.append(text)
 
