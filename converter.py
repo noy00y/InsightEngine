@@ -11,7 +11,7 @@ from unidecode import unidecode
 # NOTE: Regex Patterns described in readme:
 NUMBERS = r'^\s*(\([-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?\)|[-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?)$'
 SYMBOLS = r'^\s*[$%]'
-TAG_TO_HEADER = {
+TAG_TO_MARKDOWN = {
     'h1': '# ',
     'h2': "## ",
     'h3': "### ",
@@ -25,7 +25,12 @@ class Converter:
         self.pdf = filePath
         self.tables = None
         self.text = None # Dataframe
-        self.output = []
+        self.markdown_text = []
+
+    def extract_tables(self):
+
+
+        return
 
     # Extract Text and Gather Stats
     def extract_text(self):
@@ -84,46 +89,86 @@ class Converter:
         pdf.close()
         return
     
-    def generate_format(self):
+    def generate_headers(self):
         """
         - Generate font frequencies for formatting text
         - Collect font frequencies
         """
         formatLog = open("formatLog.txt", "w", encoding="utf-8")
 
+        # Create (Rounded) font freqs and reassign to column:
+        rounded_font = []
+
+        for _, row in self.text.iterrows():
+            font_size = round(row.font_size)
+            rounded_font.append(font_size)
+
+        self.text["font_size"] = rounded_font
+        font_freq = self.text["font_size"].value_counts().sort_index(ascending=False)
+        # print(f"Type: {type(font_freq)}:\n{font_freq}")
         
+        # print("------------------------")
 
-        # Assign Tags to original text dataframe:
-        # self.text["tag"] = header_tag
+        # Assign headers according to font freq:
+        header = {}
+        idx = 0 # NOTE: Collecting sub fonts for additional formatting (s1, s2, etc...)
+        p_size = font_freq.idxmax() # font size with most occurances --> this will be general paragraph font
 
-        # Create Header and Text 
+        for font in font_freq.index:
+            idx += 1
+            if font == p_size:
+                idx = 0 # reset the index --> switching to sub fonts
+                header[font] = "p"
+            if font > p_size: header[font]= "h{0}".format(idx)
+            if font < p_size: header[font]= "s{0}".format(idx)
+
+        # print(header)
+        # print("------------------------")
+
+        # Assign tags to text dataframe --> NOTE: append each tag column to df (headers, bullets, lists, etc...):
+        headers = [] # header tags (h1, h2, etc...)
+        for index, row in self.text.iterrows():
+
+            # Headers:
+            font_size = row.font_size
+            tag = header.get(font_size)
+            headers.append(tag)
+
+        # print(headers)
+        self.text["headers"] = headers 
+
+        # Create markdown text
         for index, row in self.text.iterrows():
             text = row.text
-            tag = row.tag
-            if 'h' in tag:
-                header = TAG_TO_HEADER.get(tag)
-                header_output = f"\n{header}{text}\n"
-                self.output.append(header_output)
-            else: self.output.append(text)
+            header = row.headers
+
+            if "h" in header:
+                m_header = TAG_TO_MARKDOWN.get(header)
+                m_text = f"\n{m_header}{text}\n" 
+                self.markdown_text.append(m_text)
+            else: self.markdown_text.append(text)
+            self.markdown_text.append("\n")
+                
 
         formatLog.close()
         return
 
-    def extract_tables(self):
-
-        
-
-        return
-    
     def generate_markdown(self):
     
         file = open("output.md", "w", encoding="utf-8")
-
-        for line in self.output:
-            file.write(f"{line}\n")
+        formatLog = open("formatLog.txt", "w", encoding="utf-8")
+        for line in self.markdown_text:
+            # print(line)
+            formatLog.write(f"{line}")
+            # file.write(f"{line}\n")
         
         file.close()
+        formatLog.close()
         return
+    
+    def test(self):
+        for index, row in self.text.iterrows():
+            print(f"testing: span font: {row.span_font}")
     
 
 
