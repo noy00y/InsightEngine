@@ -9,7 +9,8 @@ from unidecode import unidecode
 
 # Constants:
 # NOTE: Regex Patterns described in readme:
-NUMBERS = r'^\s*(\([-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?\)|[-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?)$'
+# NUMBERS = r'^\s*(\([-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?\)|[-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?)$'
+NUMBERS = r'^\s*(\([-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?\)|[-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?)\s*$'
 SYMBOLS = r'^\s*[$%]'
 TAG_TO_MARKDOWN = {
     'h1': '# ',
@@ -27,8 +28,15 @@ class Converter:
         self.text = None # Dataframe
         self.markdown_text = []
 
-    def extract_tables(self):
-
+    def extract_tables(self, t_folder: str):
+        self.tables = tabula.read_pdf(self.pdf, pages = "all")
+        
+        # Output Tables
+        if not os.path.isdir(t_folder):
+            os.mkdir(t_folder)
+        
+        for i, table in enumerate(self.tables, start = 1):
+            table.to_markdown(os.path.join(t_folder, f"table_{i}.md"), index=False)
 
         return
 
@@ -83,6 +91,8 @@ class Converter:
                                     textLog.write(log_output + "\n")
                                     rows.append((xmin, ymin, xmax, ymax, text, is_upper, is_bold, span_font, font_size))
 
+                                else: textLog.write(f"Accounting Found: {text}\n")
+
         # Create text dataframe and close files:
         self.text = pd.DataFrame(rows, columns=['xmin','ymin','xmax','ymax', 'text', 'is_upper','is_bold','span_font', 'font_size'])
         textLog.close()
@@ -127,18 +137,22 @@ class Converter:
 
         # Assign tags to text dataframe --> NOTE: append each tag column to df (headers, bullets, lists, etc...):
         headers = [] # header tags (h1, h2, etc...)
-        for index, row in self.text.iterrows():
+        for _, row in self.text.iterrows():
 
             # Headers:
             font_size = row.font_size
             tag = header.get(font_size)
             headers.append(tag)
 
-        # print(headers)
         self.text["headers"] = headers 
 
+        formatLog.close()
+        return
+
+    def generate_markdown(self):
+
         # Create markdown text
-        for index, row in self.text.iterrows():
+        for _, row in self.text.iterrows():
             text = row.text
             header = row.headers
 
@@ -148,27 +162,20 @@ class Converter:
                 self.markdown_text.append(m_text)
             else: self.markdown_text.append(text)
             self.markdown_text.append("\n")
-                
-
-        formatLog.close()
-        return
-
-    def generate_markdown(self):
     
+        # Output to markdown file
         file = open("output.md", "w", encoding="utf-8")
-        formatLog = open("formatLog.txt", "w", encoding="utf-8")
         for line in self.markdown_text:
             # print(line)
-            formatLog.write(f"{line}")
+            file.write(f"{line}")
             # file.write(f"{line}\n")
-        
+
         file.close()
-        formatLog.close()
         return
     
     def test(self):
-        for index, row in self.text.iterrows():
-            print(f"testing: span font: {row.span_font}")
+
+        return
     
 
 

@@ -1,0 +1,8 @@
+| Average                  | Unnamed: 0     | Unnamed: 1        | Unnamed: 2   |   Unnamed: 3 | Unnamed: 4   |   Unnamed: 5 | Unnamed: 6   |   Unnamed: 7 | Unnamed: 8   |   Unnamed: 9 | Unnamed: 10   |
+|:-------------------------|:---------------|:------------------|:-------------|-------------:|:-------------|-------------:|:-------------|-------------:|:-------------|-------------:|:--------------|
+| nan                      | nan            | $382,039$ 368,078 | nan          |          nan | nan          |          nan | nan          |          nan | nan          |          nan | nan           |
+| Total earning assets (2) | 525,181551,894 | nan               | 527,959      |          nan | 522,374      |          nan | 531,206      |          nan | 521,555      |          nan | 537,660       |
+| Total earning assets     | (2             | nan               | nan          |          nan | nan          |          nan | nan          |          nan | nan          |          nan | nan           |
+| nan                      | 592,254616,156 | nan               | nan          |          nan | nan          |          nan | nan          |          nan | nan          |          nan | nan           |
+| Total deposits           | 495,069524,502 | nan               | 497,533      |          nan | 492,577      |          nan | 503,472      |          nan | 495,154      |          nan | 509,261       |
+| 49,25044,500             | nan            | nan               | nan          |          nan | nan          |          nan | nan          |          nan | nan          |          nan | nan           |
