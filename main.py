@@ -5,3 +5,4 @@ td_report = Converter("Reports\Bank Of America\The Supplemental Information_2Q23
 td_report.extract_text()
 td_report.generate_headers()
 td_report.generate_markdown()
+td_report.test("test_boc")

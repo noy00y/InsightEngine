@@ -1,0 +1,13 @@
+| 0                                         | 1                          |   2 | 3                   | 4      |   5 | 6      |   7 | 8       |   9 | 10      |   11 | 12   |
+|:------------------------------------------|:---------------------------|----:|:--------------------|:-------|----:|:-------|----:|:--------|----:|:--------|-----:|:-----|
+| Residential mortgage$229,275              | $117,747$103,700$1$—$7,827 | nan | nan                 | nan    | nan | nan    | nan | nan     | nan | nan     |  nan | nan  |
+| Home equity26,513                         | 21,5712,444—2002,298       | nan | nan                 | nan    | nan | nan    | nan | nan     | nan | nan     |  nan | nan  |
+| Credit card91,775                         | 88,7313,045——(1)           | nan | nan                 | nan    | nan | nan    | nan | nan     | nan | nan     |  nan | nan  |
+| Direct/Indirect and other consumer105,657 | 52,72852,927——2            | nan | nan                 | nan    | nan | nan    | nan | nan     | nan | nan     |  nan | nan  |
+| Total consumer453,220                     | 280,777162,116120010,126   | nan | nan                 | nan    | nan | nan    | nan | nan     | nan | nan     |  nan | nan  |
+| nan                                       | nan                        | nan | nan                 | nan    | nan | nan    | nan | nan     | nan | nan     |  nan | nan  |
+| U.S. commercial                           | 376,852                    | nan | nan                 | 22,985 | nan | 52,067 | nan | 229,558 | nan | 72,074  |  nan | 168  |
+| nan                                       | nan                        | nan | —99982,41243,478114 | nan    | nan | nan    | nan | nan     | nan | nan     |  nan | nan  |
+| Commercial real estate                    | 70,591                     | nan | nan                 | 10     | nan | 6,266  | nan | 55,019  | nan | 9,294   |  nan | 2    |
+| nan                                       | nan                        | nan | ——14,019—(333)      | nan    | nan | nan    | nan | nan     | nan | nan     |  nan | nan  |
+| Total commercial                          | 588,132                    | nan | nan                 | 22,995 | nan | 59,332 | nan | 381,008 | nan | 124,846 |  nan | (49) |

@@ -36,4 +36,10 @@ Examples of matching numbers:
 - %
 
 ## Testing Tools
+
 `cat output.md | wo` get # of tokens
+
+
+
+- go thru docs to solve bugs --> github issues
+- how other ppl solved it (table headers used for placement) --> docs, github issues ,stackoverflow
