@@ -29,7 +29,7 @@ class Converter:
         self.markdown_text = []
 
     def extract_tables(self, t_folder: str):
-        self.tables = tabula.read_pdf(self.pdf, pages = "all")
+        self.tables = tabula.read_pdf(self.pdf, pages = "all", lattice=True)
         
         # Output Tables
         if not os.path.isdir(t_folder):
@@ -174,14 +174,7 @@ class Converter:
         return
     
     def test(self, t_folder: str):
-        self.tables = tabula.read_pdf(self.pdf, pages = "all", stream=True)
         
-        # Output Tables
-        if not os.path.isdir(t_folder):
-            os.mkdir(t_folder)
-        
-        for i, table in enumerate(self.tables, start = 1):
-            table.to_markdown(os.path.join(t_folder, f"table_{i}.md"), index=False)
 
         return
     

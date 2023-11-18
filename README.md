@@ -40,6 +40,13 @@ Examples of matching numbers:
 `cat output.md | wo` get # of tokens
 
 
-
+## Notes
 - go thru docs to solve bugs --> github issues
 - how other ppl solved it (table headers used for placement) --> docs, github issues ,stackoverflow
+- free cashflow / statement of cashflow
+- income statement / financial statement
+- Balance sheet
+
+## Next Steps:
+- Add tables to parsed text
+- Add page labels to pdfs
