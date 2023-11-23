@@ -1,10 +1,19 @@
-| Net income$15,569$13,314                                     | $7,408$8,161$7,132$7,082$6,247   |
-|:-------------------------------------------------------------|:---------------------------------|
-| Other comprehensive income (loss), net-of-tax:               | nan                              |
-| Net change in debt securities723(5,269)                      | 168555353(1,112)(1,822)          |
-| Net change in debit valuation adjustments(394)836            | (404)10(543)462575               |
-| Net change in derivatives49(7,187)                           | (1,993)2,042835(3,703)(2,008)    |
-| Employee benefit plan adjustments1960                        | 910(764)3736                     |
-| Net change in foreign currency translation adjustments17(10) | 512(10)(37)(38)                  |
-| Other comprehensive income (loss)414(11,570)                 | (2,215)2,629(129)(4,353)(3,257)  |
-| Comprehensive income (loss)$15,983$1,744                     | $5,193$10,790$7,003$2,729$2,990  |
+| Average common shares issued and outstanding 8,053.5         | 8,129.3   |   Unnamed: 0 | 8,040.9   | Unnamed: 1   | 8,065.9   | Unnamed: 2   | 8,088.3   | Unnamed: 3   | 8,107.7   | Unnamed: 4   | 8,121.6   |
+|:-------------------------------------------------------------|:----------|-------------:|:----------|:-------------|:----------|:-------------|:----------|:-------------|:----------|:-------------|:----------|
+| Average diluted common shares issued and outstanding 8,162.6 | 8,182.2   |          nan | 8,080.7   | nan          | 8,182.3   | nan          | 8,155.7   | nan          | 8,160.8   | nan          | 8,163.1   |
+| Consolidated Statement of Comprehensive Income               | nan       |          nan | nan       | nan          | nan       | nan          | nan       | nan          | nan       | nan          | nan       |
+| (Dollars in millions)                                        | nan       |          nan | nan       | nan          | nan       | nan          | nan       | nan          | nan       | nan          | nan       |
+| Six Months Ended                                             | nan       |          nan | nan       | nan          | nan       | nan          | nan       | nan          | nan       | nan          | nan       |
+| nan                                                          | nan       |          nan | Second    | nan          | First     | nan          | Fourth    | nan          | Third     | nan          | Second    |
+| June 30                                                      | nan       |          nan | nan       | nan          | nan       | nan          | nan       | nan          | nan       | nan          | nan       |
+| nan                                                          | nan       |          nan | Quarter   | nan          | Quarter   | nan          | Quarter   | nan          | Quarter   | nan          | Quarter   |
+| 2023                                                         | 2022      |          nan | 2023      | nan          | 2023      | nan          | 2022      | nan          | 2022      | nan          | 2022      |
+| Net income $ 15,569                                          | $ 13,314  |          nan | $ 7,408   | $            | 8,161     | $            | 7,132     | $            | 7,082     | $            | 6,247     |
+| Other comprehensive income (loss), net-of-tax:               | nan       |          nan | nan       | nan          | nan       | nan          | nan       | nan          | nan       | nan          | nan       |
+| Net change in debt securities 723                            | (5,269)   |          nan | 168       | nan          | 555       | nan          | 353       | nan          | (1,112)   | nan          | (1,822)   |
+| Net change in debit valuation adjustments (394)              | 836       |          nan | (404)     | nan          | 10        | nan          | (543)     | nan          | 462       | nan          | 575       |
+| Net change in derivatives 49                                 | (7,187)   |          nan | (1,993)   | nan          | 2,042     | nan          | 835       | nan          | (3,703)   | nan          | (2,008)   |
+| Employee benefit plan adjustments 19                         | 60        |          nan | 9         | nan          | 10        | nan          | (764)     | nan          | 37        | nan          | 36        |
+| Net change in foreign currency translation adjustments 17    | (10)      |          nan | 5         | nan          | 12        | nan          | (10)      | nan          | (37)      | nan          | (38)      |
+| Other comprehensive income (loss) 414                        | (11,570)  |          nan | (2,215)   | nan          | 2,629     | nan          | (129)     | nan          | (4,353)   | nan          | (3,257)   |
+| Comprehensive income (loss) $ 15,983                         | $ 1,744   |          nan | $ 5,193   | $            | 10,790    | $            | 7,003     | $            | 2,729     | $            | 2,990     |

@@ -6,6 +6,7 @@ import fitz
 import re
 import numpy as np
 from unidecode import unidecode
+from PyPDF2 import PdfReader
 
 # Constants:
 # NOTE: Regex Patterns described in readme:
@@ -24,13 +25,30 @@ TAG_TO_MARKDOWN = {
 class Converter:
     def __init__(self, filePath: str):
         self.pdf = filePath
-        self.tables = None
+        self.tables = []
         self.text = None # Dataframe
         self.markdown_text = []
 
+    def e_tables(self, t_folder: str):
+
+        # Get PDF Length:
+        formatLog = open("formatLog.txt", "w", encoding="utf-8")
+        reader = PdfReader(self.pdf)
+        n = len(reader.pages)
+        print(f"PDF Length: {n}")
+
+        for i in range(1, n + 1):
+            table = tabula.read_pdf(self.pdf, pages = i, stream = True)
+            self.tables.append(table)
+            # output = f"Page: {i}\n---------\n{table}\n"
+            # formatLog.write(output)
+
+        return
+
     def extract_tables(self, t_folder: str):
-        self.tables = tabula.read_pdf(self.pdf, pages = "all", lattice=True)
-        
+
+        self.tables = tabula.read_pdf(self.pdf, pages = "all", stream=True)
+
         # Output Tables
         if not os.path.isdir(t_folder):
             os.mkdir(t_folder)

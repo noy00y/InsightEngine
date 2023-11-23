@@ -1,34 +1,62 @@
-| (Dollars in millions)                   | Unnamed: 0           | Unnamed: 1   | Unnamed: 2   | Unnamed: 3   | Unnamed: 4   | Unnamed: 5   |
-|:----------------------------------------|:---------------------|:-------------|:-------------|:-------------|:-------------|:-------------|
-| nan                                     | Six Months Ended     | nan          | nan          | nan          | nan          | nan          |
-| nan                                     | nan                  | Second       | First        | Fourth       | Third        | Second       |
-| nan                                     | June 30              | nan          | nan          | nan          | nan          | nan          |
-| nan                                     | nan                  | Quarter      | Quarter      | Quarter      | Quarter      | Quarter      |
-| nan                                     | 2023 2022            | 2023         | 2023         | 2022         | 2022         | 2022         |
-| Net interest income                     | $ 17,030 $ 13,767    | $ 8,437      | $ 8,593      | $ 8,494      | $ 7,784      | $ 7,087      |
-| Noninterest income:                     | nan                  | nan          | nan          | nan          | nan          | nan          |
-| Card income                             | 2,615 2,505          | 1,341        | 1,274        | 1,333        | 1,331        | 1,320        |
-| Service charges                         | 1,124 1,523          | 525          | 599          | 586          | 597          | 679          |
-| All other income                        | 461 154              | 221          | 240          | 369          | 192          | 50           |
-| Total noninterest income                | 4,200 4,182          | 2,087        | 2,113        | 2,288        | 2,120        | 2,049        |
-| Total revenue, net of interest expense  | 21,230 17,949        | 10,524       | 10,706       | 10,782       | 9,904        | 9,136        |
-| Provision for credit losses             | 2,356 298            | 1,267        | 1,089        | 944          | 738          | 350          |
-| Noninterest expense                     | 10,926 9,880         | 5,453        | 5,473        | 5,100        | 5,097        | 4,959        |
-| Income before income taxes              | 7,948 7,771          | 3,804        | 4,144        | 4,738        | 4,069        | 3,827        |
-| Income tax expense                      | 1,987 1,904          | 951          | 1,036        | 1,161        | 997          | 938          |
-| Net income                              | $ 5,961 $ 5,867      | $ 2,853      | $ 3,108      | $ 3,577      | $ 3,072      | $ 2,889      |
-| Net interest yield                      | 3.25 % 2.52 %        | 3.24 %       | 3.27 %       | 3.11 %       | 2.79 %       | 2.55 %       |
-| Return on average allocated capital (1) | 29 30                | 27           | 30           | 35           | 30           | 29           |
-| Efficiency ratio                        | 51.46  55.04         | 51.81        | 51.12        | 47.29        | 51.47        | 54.28        |
-| Balance Sheet                           | nan                  | nan          | nan          | nan          | nan          | nan          |
-| Average                                 | nan                  | nan          | nan          | nan          | nan          | nan          |
-| Total loans and leases                  | $305,225 $ 286,846   | $ 306,662    | $ 303,772    | $ 300,360    | $295,231     | $289,595     |
-| Total earning assets (2)                | 1,055,419  1,103,707 | 1,045,743    | 1,065,202    | 1,083,850    | 1,106,513    | 1,114,552    |
-| Total assets (2)                        | 1,095,302  1,143,947 | 1,085,469    | 1,105,245    | 1,123,813    | 1,145,846    | 1,154,773    |
-| Total deposits                          | 1,016,234  1,067,120 | 1,006,337    | 1,026,242    | 1,047,058    | 1,069,093    | 1,078,020    |
-| Allocated capital (1)                   | 42,000 40,000        | 42,000       | 42,000       | 40,000       | 40,000       | 40,000       |
-| Period end                              | nan                  | nan          | nan          | nan          | nan          | nan          |
-| Total loans and leases                  | $309,735 $ 294,570   | $ 309,735    | $ 304,480    | $304,761     | $297,825     | $ 294,570    |
-| Total earning assets (2)                | 1,043,228 1,114,524  | 1,043,228    | 1,081,780    | 1,085,079    | 1,110,524    | 1,114,524    |
-| Total assets (2)                        | 1,084,512  1,154,366 | 1,084,512    | 1,124,438    | 1,126,453    | 1,149,918    | 1,154,366    |
-| Total deposits                          | 1,004,482  1,077,215 | 1,004,482    | 1,044,768    | 1,048,799    | 1,072,580    | 1,077,215    |
+| (Dollars in millions)                   | Unnamed: 0     | Unnamed: 1          | Unnamed: 2   | Unnamed: 3   | Unnamed: 4     | Unnamed: 5          | Unnamed: 6   | Unnamed: 7   |
+|:----------------------------------------|:---------------|:--------------------|:-------------|:-------------|:---------------|:--------------------|:-------------|:-------------|
+| nan                                     | nan            | Second Quarter 2023 | nan          | nan          | nan            | First Quarter 2023  | nan          | nan          |
+| nan                                     | Total Consumer | nan                 | nan          | Consumer     | Total Consumer | nan                 | nan          | Consumer     |
+| nan                                     | Banking        | Deposits            | nan          | Lending      | Banking        | Deposits            | nan          | Lending      |
+| Net interest income                     | $ 8,437        | $ 5,733             | $            | 2,704        | $ 8,593        | $ 5,816             | $            | 2,777        |
+| Noninterest income:                     | nan            | nan                 | nan          | nan          | nan            | nan                 | nan          | nan          |
+| Card income                             | 1,341          | (10)                | nan          | 1,351        | 1,274          | (10)                | nan          | 1,284        |
+| Service charges                         | 525            | 524                 | nan          | 1            | 599            | 598                 | nan          | 1            |
+| All other income                        | 221            | 177                 | nan          | 44           | 240            | 197                 | nan          | 43           |
+| Total noninterest income                | 2,087          | 691                 | nan          | 1,396        | 2,113          | 785                 | nan          | 1,328        |
+| Total revenue, net of interest expense  | 10,524         | 6,424               | nan          | 4,100        | 10,706         | 6,601               | nan          | 4,105        |
+| Provision for credit losses             | 1,267          | 103                 | nan          | 1,164        | 1,089          | 183                 | nan          | 906          |
+| Noninterest expense                     | 5,453          | 3,428               | nan          | 2,025        | 5,473          | 3,415               | nan          | 2,058        |
+| Income before income taxes              | 3,804          | 2,893               | nan          | 911          | 4,144          | 3,003               | nan          | 1,141        |
+| Income tax expense                      | 951            | 723                 | nan          | 228          | 1,036          | 751                 | nan          | 285          |
+| Net income                              | $ 2,853        | $ 2,170             | $            | 683          | $ 3,108        | $ 2,252             | $            | 856          |
+| Net interest yield                      | 3.24 %         | 2.29 %              | nan          | 3.58 %       | 3.27 %         | 2.31 %              | nan          | 3.76 %       |
+| Return on average allocated capital (1) | 27             | 64                  | nan          | 10           | 30             | 67                  | nan          | 12           |
+| Efficiency ratio                        | 51.81          | 53.33               | nan          | 49.43        | 51.12          | 51.76               | nan          | 50.10        |
+| Balance Sheet                           | nan            | nan                 | nan          | nan          | nan            | nan                 | nan          | nan          |
+| Average                                 | nan            | nan                 | nan          | nan          | nan            | nan                 | nan          | nan          |
+| Total loans and leases                  | $ 306,662      | $ 4,078             | $            | 302,584      | $ 303,772      | $ 4,119             | $            | 299,653      |
+| Total earning assets (2)                | 1,045,743      | 1,002,528           | nan          | 302,944      | 1,065,202      | 1,022,445           | nan          | 299,794      |
+| Total assets (2)                        | 1,085,469      | 1,035,969           | nan          | 309,228      | 1,105,245      | 1,056,007           | nan          | 306,275      |
+| Total deposits                          | 1,006,337      | 1,001,307           | nan          | 5,030        | 1,026,242      | 1,021,374           | nan          | 4,868        |
+| Allocated capital (1)                   | 42,000         | 13,700              | nan          | 28,300       | 42,000         | 13,700              | nan          | 28,300       |
+| Period end                              | nan            | nan                 | nan          | nan          | nan            | nan                 | nan          | nan          |
+| Total loans and leases                  | $ 309,735      | $ 4,122             | $            | 305,613      | $ 304,480      | $ 4,065             | $            | 300,415      |
+| Total earning assets (2)                | 1,043,228      | 999,281             | nan          | 306,121      | 1,081,780      | 1,038,545           | nan          | 300,595      |
+| Total assets (2)                        | 1,084,512      | 1,034,405           | nan          | 312,281      | 1,124,438      | 1,074,571           | nan          | 307,227      |
+| Total deposits                          | 1,004,482      | 999,262             | nan          | 5,220        | 1,044,768      | 1,039,744           | nan          | 5,024        |
+| nan                                     | nan            | nan                 | nan          | nan          | nan            | Second Quarter 2022 | nan          | nan          |
+| nan                                     | nan            | nan                 | nan          | nan          | Total Consumer | nan                 | nan          | Consumer     |
+| nan                                     | nan            | nan                 | nan          | nan          | Banking        | Deposits            | nan          | Lending      |
+| Net interest income                     | nan            | nan                 | nan          | nan          | $ 7,087        | $ 4,477             | $            | 2,610        |
+| Noninterest income:                     | nan            | nan                 | nan          | nan          | nan            | nan                 | nan          | nan          |
+| Card income                             | nan            | nan                 | nan          | nan          | 1,320          | (9)                 | nan          | 1,329        |
+| Service charges                         | nan            | nan                 | nan          | nan          | 679            | 678                 | nan          | 1            |
+| All other income                        | nan            | nan                 | nan          | nan          | 50             | 55                  | nan          | (5)          |
+| Total noninterest income                | nan            | nan                 | nan          | nan          | 2,049          | 724                 | nan          | 1,325        |
+| Total revenue, net of interest expense  | nan            | nan                 | nan          | nan          | 9,136          | 5,201               | nan          | 3,935        |
+| Provision for credit losses             | nan            | nan                 | nan          | nan          | 350            | 142                 | nan          | 208          |
+| Noninterest expense                     | nan            | nan                 | nan          | nan          | 4,959          | 3,055               | nan          | 1,904        |
+| Income before income taxes              | nan            | nan                 | nan          | nan          | 3,827          | 2,004               | nan          | 1,823        |
+| Income tax expense                      | nan            | nan                 | nan          | nan          | 938            | 491                 | nan          | 447          |
+| Net income                              | nan            | nan                 | nan          | nan          | $ 2,889        | $ 1,513             | $            | 1,376        |
+| Net interest yield                      | nan            | nan                 | nan          | nan          | 2.55 %         | 1.67 %              | nan          | 3.64 %       |
+| Return on average allocated capital (1) | nan            | nan                 | nan          | nan          | 29             | 47                  | nan          | 20           |
+| Efficiency ratio                        | nan            | nan                 | nan          | nan          | 54.28          | 58.74               | nan          | 48.38        |
+| Balance Sheet                           | nan            | nan                 | nan          | nan          | nan            | nan                 | nan          | nan          |
+| Average                                 | nan            | nan                 | nan          | nan          | nan            | nan                 | nan          | nan          |
+| Total loans and leases                  | nan            | nan                 | nan          | nan          | $ 289,595      | $ 4,147             | $            | 285,448      |
+| Total earning assets (2)                | nan            | nan                 | nan          | nan          | 1,114,552      | 1,072,773           | nan          | 287,512      |
+| Total assets (2)                        | nan            | nan                 | nan          | nan          | 1,154,773      | 1,106,098           | nan          | 294,407      |
+| Total deposits                          | nan            | nan                 | nan          | nan          | 1,078,020      | 1,072,166           | nan          | 5,854        |
+| Allocated capital (1)                   | nan            | nan                 | nan          | nan          | 40,000         | 13,000              | nan          | 27,000       |
+| Period end                              | nan            | nan                 | nan          | nan          | nan            | nan                 | nan          | nan          |
+| Total loans and leases                  | nan            | nan                 | nan          | nan          | $ 294,570      | $ 4,123             | $            | 290,447      |
+| Total earning assets (2)                | nan            | nan                 | nan          | nan          | 1,114,524      | 1,072,291           | nan          | 292,657      |
+| Total assets (2)                        | nan            | nan                 | nan          | nan          | 1,154,366      | 1,104,991           | nan          | 299,799      |
+| Total deposits                          | nan            | nan                 | nan          | nan          | 1,077,215      | 1,071,089           | nan          | 6,126        |

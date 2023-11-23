@@ -1,29 +1,24 @@
-| (Dollars in millions)                             | Unnamed: 0   | Unnamed: 1        | Unnamed: 2   | Unnamed: 3   | Unnamed: 4   | Unnamed: 5   | Unnamed: 6   |
-|:--------------------------------------------------|:-------------|:------------------|:-------------|:-------------|:-------------|:-------------|:-------------|
-| nan                                               | nan          | Six Months Ended  | nan          | nan          | nan          | nan          | nan          |
-| nan                                               | nan          | nan               | Second       | First        | Fourth       | Third        | Second       |
-| nan                                               | nan          | June 30           | nan          | nan          | nan          | nan          | nan          |
-| nan                                               | nan          | nan               | Quarter      | Quarter      | Quarter      | Quarter      | Quarter      |
-| nan                                               | nan          | 2023 2022         | 2023         | 2023         | 2022         | 2022         | 2022         |
-| Revenue by Business                               | nan          | nan               | nan          | nan          | nan          | nan          | nan          |
-| Merrill Wealth Management                         | $            | 8,737 $ 9,125     | $ 4,340      | $ 4,397      | $ 4,486      | $ 4,524      | $ 4,536      |
-| Bank of America Private Bank                      | nan          | 1,820 1,784       | 902          | 918          | 924          | 905          | 897          |
-| Total revenue, net of interest expense            | $            | 10,557 $ 10,909   | $ 5,242      | $ 5,315      | $ 5,410      | $ 5,429      | $ 5,433      |
-| Client Balances by Business, at period end        | nan          | nan               | nan          | nan          | nan          | nan          | nan          |
-| Merrill Wealth Management                         | $ 3,057,680  | $ 2,819,998       | $3,057,680   | $2,952,681   | $2,822,910   | $ 2,710,985  | $ 2,819,998  |
-| Bank of America Private Bank                      | nan          | 577,514 547,116   | 577,514      | 568,925      | 563,931      | 537,771      | 547,116      |
-| Total client balances                             | $3,635,194   | $3,367,114        | $ 3,635,194  | $3,521,606   | $3,386,841   | $ 3,248,756  | $ 3,367,114  |
-| Client Balances by Type, at period end            | nan          | nan               | nan          | nan          | nan          | nan          | nan          |
-| Assets under management (1)                       | $1,531,042   | $1,411,344        | $1,531,042   | $1,467,242   | $ 1,401,474  | $1,329,557   | $ 1,411,344  |
-| Brokerage and other assets                        | 1,628,294    | 1,437,562         | 1,628,294    | 1,571,409    | 1,482,025    | 1,413,946    | 1,437,562    |
-| Deposits                                          | nan          | 292,526 347,991   | 292,526      | 301,471      | 323,899      | 324,859      | 347,991      |
-| Loans and leases (2)                              | nan          | 222,280 224,847   | 222,280      | 220,633      | 226,973      | 228,129      | 224,847      |
-| Less: Managed deposits in assets under management | nan          | (38,948) (54,630) | (38,948)     | (39,149)     | (47,530)     | (47,735)     | (54,630)     |
-| Total client balances                             | $3,635,194   | $ 3,367,114       | $3,635,194   | $ 3,521,606  | $ 3,386,841  | $3,248,756   | $3,367,114   |
-| Assets Under Management Rollforward               | nan          | nan               | nan          | nan          | nan          | nan          | nan          |
-| Assets under management, beginning balance        | $ 1,401,474  | $1,638,782        | $1,467,242   | $ 1,401,474  | $1,329,557   | $1,411,344   | $ 1,571,605  |
-| Net client flows                                  | nan          | 29,558 16,570     | 14,296       | 15,262       | 105          | 4,110        | 1,033        |
-| Market valuation/other                            | nan          | 100,010 (244,008) | 49,504       | 50,506       | 71,812       | (85,897)     | (161,294)    |
-| Total assets under management, ending balance     | $ 1,531,042  | $ 1,411,344       | $1,531,042   | $ 1,467,242  | $ 1,401,474  | $ 1,329,557  | $ 1,411,344  |
-| Advisors, at period end                           | nan          | nan               | nan          | nan          | nan          | nan          | nan          |
-| Total wealth advisors (3)                         | nan          | 19,099 18,449     | 19,099       | 19,243       | 19,273       | 18,841       | 18,449       |
+| (Dollars in millions)                                                            | Unnamed: 0   | Unnamed: 1   | Unnamed: 2   | Unnamed: 3   | Unnamed: 4   | Unnamed: 5   |
+|:---------------------------------------------------------------------------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|
+| nan                                                                              | nan          | June 30      | nan          | March 31     | nan          | June 30      |
+| nan                                                                              | nan          | 2023         | nan          | 2023         | nan          | 2022         |
+| Consumer                                                                         | nan          | nan          | nan          | nan          | nan          | nan          |
+| Residential mortgage                                                             | $            | 228,915      | $            | 228,827      | $            | 227,970      |
+| Home equity                                                                      | nan          | 25,536       | nan          | 25,868       | nan          | 27,120       |
+| Credit card                                                                      | nan          | 97,009       | nan          | 92,469       | nan          | 84,010       |
+| Direct/Indirect consumer (1)                                                     | nan          | 104,412      | nan          | 104,540      | nan          | 108,826      |
+| Other consumer (2)                                                               | nan          | 132          | nan          | 120          | nan          | 195          |
+| Total consumer loans excluding loans accounted for under the fair value option   | nan          | 456,004      | nan          | 451,824      | nan          | 448,121      |
+| Consumer loans accounted for under the fair value option (3)                     | nan          | 266          | nan          | 334          | nan          | 377          |
+| Total consumer                                                                   | nan          | 456,270      | nan          | 452,158      | nan          | 448,498      |
+| Commercial                                                                       | nan          | nan          | nan          | nan          | nan          | nan          |
+| U.S. commercial                                                                  | nan          | 360,796      | nan          | 360,655      | nan          | 355,731      |
+| Non-U.S. commercial                                                              | nan          | 123,518      | nan          | 124,827      | nan          | 125,796      |
+| Commercial real estate (4)                                                       | nan          | 74,290       | nan          | 73,051       | nan          | 64,253       |
+| Commercial lease financing                                                       | nan          | 13,493       | nan          | 13,448       | nan          | 13,612       |
+| nan                                                                              | nan          | 572,097      | nan          | 571,981      | nan          | 559,392      |
+| U.S. small business commercial (5)                                               | nan          | 18,796       | nan          | 18,204       | nan          | 17,757       |
+| Total commercial loans excluding loans accounted for under the fair value option | nan          | 590,893      | nan          | 590,185      | nan          | 577,149      |
+| Commercial loans accounted for under the fair value option (3)                   | nan          | 4,061        | nan          | 4,063        | nan          | 5,119        |
+| Total commercial                                                                 | nan          | 594,954      | nan          | 594,248      | nan          | 582,268      |
+| Total loans and leases                                                           | $            | 1,051,224    | $            | 1,046,406    | $            | 1,030,766    |

@@ -1,41 +1,35 @@
-| (Dollars in millions)                      | Unnamed: 0   | Unnamed: 1       | Unnamed: 2   | Unnamed: 3   | Unnamed: 4   | Unnamed: 5   | Unnamed: 6   |
-|:-------------------------------------------|:-------------|:-----------------|:-------------|:-------------|:-------------|:-------------|:-------------|
-| nan                                        | nan          | Six Months Ended | Second       | First        | Fourth       | Third        | Second       |
-| nan                                        | nan          | June 30          | nan          | nan          | nan          | nan          | nan          |
-| nan                                        | nan          | nan              | Quarter      | Quarter      | Quarter      | Quarter      | Quarter      |
-| nan                                        | nan          | 2023 2022        | 2023         | 2023         | 2022         | 2022         | 2022         |
-| Net interest income                        | $            | 406 $ 1,974      | $ 297        | $ 109        | $ 371        | $ 743        | $ 981        |
-| Noninterest income:                        | nan          | nan              | nan          | nan          | nan          | nan          | nan          |
-| Investment and brokerage services          | nan          | 1,032 1,063      | 499          | 533          | 482          | 457          | 518          |
-| Investment banking fees                    | nan          | 972 1,043        | 503          | 469          | 347          | 430          | 461          |
-| Market making and similar activities       | nan          | 7,807 5,847      | 3,409        | 4,398        | 2,685        | 2,874        | 2,657        |
-| All other income                           | nan          | 280 (133)        | 163          | 117          | (24)         | (21)         | (115)        |
-| Total noninterest income                   | 10,091       | 7,820            | 4,574        | 5,517        | 3,490        | 3,740        | 3,521        |
-| Total revenue, net of interest expense (1) | 10,497       | 9,794            | 4,871        | 5,626        | 3,861        | 4,483        | 4,502        |
-| Provision for credit losses                | nan          | (57) 13          | (4)          | (53)         | 4            | 11           | 8            |
-| Noninterest expense                        | nan          | 6,700 6,226      | 3,349        | 3,351        | 3,171        | 3,023        | 3,109        |
-| Income before income taxes                 | nan          | 3,854 3,555      | 1,526        | 2,328        | 686          | 1,449        | 1,385        |
-| Income tax expense                         | nan          | 1,060 942        | 420          | 640          | 182          | 384          | 367          |
-| Net income                                 | $            | 2,794 $ 2,613    | $ 1,106      | $ 1,688      | $ 504        | $ 1,065      | $ 1,018      |
-| Return on average allocated capital (2)    | nan          | 12 %  12 %       | 10 %         | 15 %         | 5 %          | 10 %         | 10 %         |
-| Efficiency ratio                           | nan          | 63.82 63.57      | 68.74        | 59.56        | 82.14        | 67.42        | 69.07        |
-| Balance Sheet                              | nan          | nan              | nan          | nan          | nan          | nan          | nan          |
-| Average                                    | nan          | nan              | nan          | nan          | nan          | nan          | nan          |
-| Total trading-related assets               | $ 623,566    | $ 601,172        | $ 621,125    | $ 626,035    | $608,493     | $592,391     | $ 606,135    |
-| Total loans and leases                     | 126,802      | 111,492          | 128,539      | 125,046      | 123,022      | 120,435      | 114,375      |
-| Total earning assets                       | 643,024      | 604,846          | 657,947      | 627,935      | 610,045      | 591,883      | 598,832      |
-| Total assets                               | 873,727      | 862,753          | 877,471      | 870,038      | 857,319      | 847,899      | 866,742      |
-| Total deposits                             | 34,658       | 42,784           | 33,222       | 36,109       | 37,219       | 38,820       | 41,192       |
-| Allocated capital (2)                      | 45,500       | 42,500           | 45,500       | 45,500       | 42,500       | 42,500       | 42,500       |
-| Period end                                 | nan          | nan              | nan          | nan          | nan          | nan          | nan          |
-| Total trading-related assets               | $599,787     | $577,309         | $599,787     | $ 599,841    | $ 564,769    | $592,938     | $ 577,309    |
-| Total loans and leases                     | 131,128      | 118,290          | 131,128      | 130,804      | 127,735      | 121,721      | 118,290      |
-| Total earning assets                       | 641,016      | 571,921          | 641,016      | 632,873      | 587,772      | 595,988      | 571,921      |
-| Total assets                               | 851,206      | 835,129          | 851,206      | 861,477      | 812,489      | 848,752      | 835,129      |
-| Total deposits                             | 33,049       | 40,055           | 33,049       | 33,624       | 39,077       | 37,318       | 40,055       |
-| Trading-related assets (average)           | nan          | nan              | nan          | nan          | nan          | nan          | nan          |
-| Trading account securities                 | $328,529     | $ 298,220        | $ 317,928    | $ 339,248    | $ 309,217    | $308,514     | $295,190     |
-| Reverse repurchases                        | 133,155      | 134,999          | 139,480      | 126,760      | 122,753      | 112,828      | 131,456      |
-| Securities borrowed                        | 118,392      | 116,847          | 120,481      | 116,280      | 119,334      | 114,032      | 119,200      |
-| Derivative assets                          | 43,490       | 51,106           | 43,236       | 43,747       | 57,189       | 57,017       | 60,289       |
-| Total trading-related assets               | $623,566     | $ 601,172        | $621,125     | $626,035     | $608,493     | $ 592,391    | $ 606,135    |
+| (Dollars in millions)                                                                                                                                                                      | Unnamed: 0                | Unnamed: 1                |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------|:--------------------------|
+| June 30, 2023                                                                                                                                                                              | March 31, 2023            | June 30, 2022             |
+| Percent of                                                                                                                                                                                 | Percent of                | Percent of                |
+| Loans and                                                                                                                                                                                  | Loans and                 | Loans and                 |
+| Leases                                                                                                                                                                                     | Leases                    | Leases                    |
+| Amount Outstanding (1, 2)                                                                                                                                                                  | Amount Outstanding (1, 2) | Amount Outstanding (1, 2) |
+| Allowance for loan and lease losses                                                                                                                                                        | nan                       | nan                       |
+| Residential mortgage $ 366 0.16%                                                                                                                                                           | $ 305 0.13%               | $ 280 0.12%               |
+| Home equity 61 0.24                                                                                                                                                                        | 98 0.38                   | 116 0.43                  |
+| Credit card 6,564 6.77                                                                                                                                                                     | 6,220 6.73                | 5,684 6.77                |
+| Direct/Indirect consumer 659 0.63                                                                                                                                                          | 628 0.60                  | 475 0.44                  |
+| Other consumer 100 n/m                                                                                                                                                                     | 110 n/m                   | 57 n/m                    |
+| Total consumer 7,750 1.70                                                                                                                                                                  | 7,361 1.63                | 6,612 1.48                |
+| U.S. commercial (3) 2,846 0.75                                                                                                                                                             | 2,835 0.75                | 3,012 0.81                |
+| Non-U.S. commercial 968 0.78                                                                                                                                                               | 1,019 0.82                | 1,168 0.93                |
+| Commercial real estate 1,338 1.80                                                                                                                                                          | 1,253 1.72                | 1,128 1.76                |
+| Commercial lease financing 48 0.35                                                                                                                                                         | 46 0.34                   | 53 0.39                   |
+| Total commercial 5,200 0.88                                                                                                                                                                | 5,153 0.87                | 5,361 0.93                |
+| Allowance for loan and lease losses 12,950 1.24                                                                                                                                            | 12,514 1.20               | 11,973 1.17               |
+| Reserve for unfunded lending commitments 1,388                                                                                                                                             | 1,437                     | 1,461                     |
+| Allowance for credit losses $ 14,338                                                                                                                                                       | $ 13,951                  | $ 13,434                  |
+| Asset Quality Indicators                                                                                                                                                                   | nan                       | nan                       |
+| Allowance for loan and lease losses/Total loans and leases (2) 1.24%                                                                                                                       | 1.20%                     | 1.17%                     |
+| Allowance for loan and lease losses/Total nonperforming loans and leases (4) 314                                                                                                           | 319                       | 288                       |
+| Ratio of the allowance for loan and lease losses/Annualized net charge-offs 3.71                                                                                                           | 3.83                      | 5.22                      |
+| (1) Ratios are calculated as allowance for loan and lease losses as a percentage of loans and leases outstanding excluding loans accounted for under the fair value option. Consumer       | nan                       | nan                       |
+| loans accounted for under the fair value option include residential mortgage loans of $69 million, $72 million and $79 million, and home equity loans of $197 million, $262 million        | nan                       | nan                       |
+| and $298 million at June 30, 2023, March 31, 2023 and June 30, 2022, respectively. Commercial loans accounted for under the fair value option include U.S. commercial loans of             | nan                       | nan                       |
+| $2.3 billion, $2.2 billion and $2.9 billion and non-U.S. commercial loans of $1.8 billion, $1.9 billion and $2.2 billion at June 30, 2023, March 31, 2023 and June 30, 2022, respectively. | nan                       | nan                       |
+| (2) Total loans and leases do not include loans accounted for under the fair value option of $4.3 billion, $4.4 billion and $5.5 billion at June 30, 2023, March 31, 2023 and June 30,     | nan                       | nan                       |
+| 2022, respectively.                                                                                                                                                                        | nan                       | nan                       |
+| (3) Includes allowance for loan and lease losses for U.S. small business commercial loans of $927 million, $864 million and $921 million at June 30, 2023, March 31, 2023 and June 30,     | nan                       | nan                       |
+| 2022, respectively.                                                                                                                                                                        | nan                       | nan                       |
+| (4) Allowance for loan and lease losses includes $5.5 billion, $7.1 billion and $6.6 billion allocated to products (primarily the Consumer Lending portfolios within Consumer Banking)     | nan                       | nan                       |
