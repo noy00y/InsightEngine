@@ -13,6 +13,7 @@ from PyPDF2 import PdfReader
 # NUMBERS = r'^\s*(\([-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?\)|[-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?)$'
 NUMBERS = r'^\s*(\([-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?\)|[-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?)\s*$'
 SYMBOLS = r'^\s*[$%]'
+PERCENTAGES = r'^\s*\d+(\.\d+)?\s*%'
 TAG_TO_MARKDOWN = {
     'h1': '# ',
     'h2': "## ",
@@ -25,44 +26,56 @@ TAG_TO_MARKDOWN = {
 class Converter:
     def __init__(self, filePath: str):
         self.pdf = filePath
-        self.tables = []
+        self.tables = {} # dict stores tables with page as keys
         self.text = None # Dataframe
         self.markdown_text = []
 
-    def e_tables(self, t_folder: str):
+    def extract_tables(self):
 
         # Get PDF Length:
         formatLog = open("formatLog.txt", "w", encoding="utf-8")
         reader = PdfReader(self.pdf)
         n = len(reader.pages)
-        print(f"PDF Length: {n}")
 
+        # Parse each page for tables --> store tables with page index
         for i in range(1, n + 1):
-            table = tabula.read_pdf(self.pdf, pages = i, stream = True)
-            self.tables.append(table)
-            # output = f"Page: {i}\n---------\n{table}\n"
-            # formatLog.write(output)
+            tables = tabula.read_pdf(self.pdf, pages = i, stream = True)
+            # print(f"Page: {i} --> {len(tables)}")
+            
+            for table in tables:
+                if i in self.tables: 
+                    self.tables[i].append(table) # if existing table, add more to list
+                else: 
+                    self.tables[i] = table
 
-        return
+        print(len(self.tables))    
 
-    def extract_tables(self, t_folder: str):
+        # for k, v in self.tables.items():
+        #     print(f"Page: {k} w/ {len(v)} tables")
 
-        self.tables = tabula.read_pdf(self.pdf, pages = "all", stream=True)
+        # print(self.tables[28])
 
-        # Output Tables
-        if not os.path.isdir(t_folder):
-            os.mkdir(t_folder)
-        
-        for i, table in enumerate(self.tables, start = 1):
-            table.to_markdown(os.path.join(t_folder, f"table_{i}.md"), index=False)
+        #     # Output Tables
+        #     if not os.path.isdir(t_folder):
+        #         os.mkdir(t_folder)
+            
+        #     for i, table in enumerate(self.tables, start = 1):
+        #         table.to_markdown(os.path.join(t_folder, f"table_{i}.md"), index=False)
 
         return
 
     # Extract Text and Gather Stats
-    def extract_text(self):
+    def extract_text(self, min_cols: int, min_txt: int):
         """
         - Extracts Text
-        - Generates Log
+        - Generates Log of Text
+        - Uses regex expressions to match for strings that would normally exist within a table
+
+        - NOTE: Params for inserting table
+            - min_cols # of columns required (table occurances) to add table meta data
+            - min_txt # of regular text values required to reset table detection and allow for new detection
+
+        - Table occurance is detected and meta data is added at page location to insert table during markdown generation
         """
         # Open PDF for reading and log for tracking stats
         pdf = fitz.open(self.pdf)
@@ -81,19 +94,27 @@ class Converter:
         # Iterate through each block --> span --> line 
         # Create stats from text (font size, uppercase, bolding, etc...)
         rows = []
+
+        # Declarations for tracking consecutive accounting or text occurances
+        account_i = 0 # compared with min_cols
+        text_i = 0 # compared with min_txt
+        detection = True
+
         for page, blocks in block_dict.items():
             for block in blocks:
                 block_no = block["number"] # text block
                 if block["type"] == 0: # only wish to retrieve text
                     for line in block["lines"]:
                         for span in line["spans"]:
-                            # Gather statistics --> append to dataframe for analysis:
+
+                            # Gather statistics --> append to dataframe for analysis and markdown generation:
                             font_size = span['size']
                             xmin, ymin, xmax, ymax = list(span["bbox"])
                             text = unidecode(span['text'])
                             span_font = span["font"]
                             is_upper = False
                             is_bold = False
+
                             if "bold" in span_font.lower():
                                 is_bold = True
                             if re.sub("[\(\[].*?[\)\]]", "", text).isupper():
@@ -102,17 +123,34 @@ class Converter:
                             # If Non Empty Text and Text is not within table --> add text
                             if text.replace(" ","") !=  "":
 
-                                # Table Filteration Logic:
-                                # NOTE: All regex stuff goes here
-                                if re.search(NUMBERS, text) == None and re.search(SYMBOLS, text) == None:
+                                # Table Filteration Logic --> NOTE All regex stuff goes here
+                                if re.search(NUMBERS, text) == None and re.search(SYMBOLS, text) == None and re.search(PERCENTAGES, text) == None:
                                     log_output = f"Page: {page}, Font Size: {font_size}, Upper: {is_upper}, Bold: {is_bold}, block number: {block_no}, Text: {text}"
                                     textLog.write(log_output + "\n")
-                                    rows.append((xmin, ymin, xmax, ymax, text, is_upper, is_bold, span_font, font_size))
+                                    rows.append((page, xmin, ymin, xmax, ymax, text, is_upper, is_bold, span_font, font_size))
+                                    text_i += 1
+                                    account_i = 0
 
-                                else: textLog.write(f"Accounting Found: {text}\n")
+                                # Accounting Detected
+                                else: 
+                                    textLog.write(f"Accounting Found: {text}\n")
+                                    account_i += 1
+                                    text_i = 0
+
+                            # Add Table:
+                            if account_i == min_cols and detection:
+                                detection = False
+                                textLog.write(f"Add Table here\n")
+                                rows.append((page, xmin, ymin, xmax, ymax, "<table>", is_upper, is_bold, span_font, font_size))
+                        
+                            # Reset Table detection:
+                            if text_i == min_txt and not detection:
+                                detection = True
+                                # textLog.write(f"Look for table again\n")
+
 
         # Create text dataframe and close files:
-        self.text = pd.DataFrame(rows, columns=['xmin','ymin','xmax','ymax', 'text', 'is_upper','is_bold','span_font', 'font_size'])
+        self.text = pd.DataFrame(rows, columns=['page', 'xmin','ymin','xmax','ymax', 'text', 'is_upper','is_bold','span_font', 'font_size'])
         textLog.close()
         pdf.close()
         return
@@ -169,16 +207,40 @@ class Converter:
 
     def generate_markdown(self):
 
+        formatLog = open("tables.txt", "w", encoding="utf-8")
+
+        #     # Output Tables
+        #     if not os.path.isdir(t_folder):
+        #         os.mkdir(t_folder)
+            
+        #     for i, table in enumerate(self.tables, start = 1):
+        #         table.to_markdown(os.path.join(t_folder, f"table_{i}.md"), index=False)
+
+
         # Create markdown text
         for _, row in self.text.iterrows():
             text = row.text
+            page = row.page
             header = row.headers
 
-            if "h" in header:
+            # Insert table --> pop 
+            if text == "<table>":
+                # print(text)
+                table = self.tables.popitem()
+                formatLog.write(f"\nPage: {page}, Type: {type(table)}\n--------------------\n{table}\n")
+                # if table is not None:
+                #     m_table = table.to_markdown()
+                #     # print(m_table)
+                #     formatLog.write(f"\nPage: {page}, Type: {type(table)}\n--------------------\n{table}\n")
+                #     self.markdown_text.append(m_table)
+
+            elif "h" in header:
                 m_header = TAG_TO_MARKDOWN.get(header)
                 m_text = f"\n{m_header}{text}\n" 
                 self.markdown_text.append(m_text)
+
             else: self.markdown_text.append(text)
+
             self.markdown_text.append("\n")
     
         # Output to markdown file
@@ -188,6 +250,7 @@ class Converter:
             file.write(f"{line}")
             # file.write(f"{line}\n")
 
+        formatLog.close()
         file.close()
         return
     
