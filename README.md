@@ -8,11 +8,15 @@
 - Parsed Text and Tables are later joined together in the same markdown
 
 ## Regex Explanation
+
 1. Expression for matching number patterns commonly found in the tables of financial reports (accounting values, etc...)
+
 ```python
 NUMBERS = r'^\s*(\([-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?\)|[-+]?\d{1,3}(?:,\d{3})*(?:\.\d+)?)$'
 ```
+
 Examples of matching numbers:
+
 - 123
 - 1,234
 - 12,345.67
@@ -20,10 +24,31 @@ Examples of matching numbers:
 - (-789)
 - (-1,234.56)
 
-2. Expression for matching symbols found alongside accounting numbers 
+2. Expression for matching symbols found alongside accounting numbers
+
 ```python
 SYMBOLS = r'^\s*[$%]'
 ```
+
 Examples of matching numbers:
+
 - $
 - %
+
+## Testing Tools
+
+`cat output.md | wo` get # of tokens
+
+## Notes
+
+- go thru docs to solve bugs --> github issues
+- how other ppl solved it (table headers used for placement) --> docs, github issues ,stackoverflow
+- free cashflow / statement of cashflow
+- income statement / financial statement
+- Balance sheet
+
+## Next Steps:
+
+- Add tables to parsed text
+- Add page labels to pdfs
+- chunking strats w/ langchain
