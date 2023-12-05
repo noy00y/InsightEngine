@@ -244,14 +244,7 @@ Average diluted common shares issued and outstanding
 Dividends paid per common share
 Performance ratios
 Return on average assets
-|    | At period end                                     | Unnamed: 0   |   Unnamed: 1 | Unnamed: 2   | Unnamed: 3   | Unnamed: 4   |   Unnamed: 5 | Unnamed: 6   | Unnamed: 7   | Unnamed: 8   | Unnamed: 9   | Unnamed: 10   | Unnamed: 11   | Unnamed: 12   | Unnamed: 13   |
-|---:|:--------------------------------------------------|:-------------|-------------:|:-------------|:-------------|:-------------|-------------:|:-------------|:-------------|:-------------|:-------------|:--------------|:--------------|:--------------|:--------------|
-|  0 | Book value per share of common stock              | $ 32.05      |          nan | $            | 29.87        | $ 32.05      |          nan | $            | 31.58        | $            | 30.61        | $             | 29.96         | $             | 29.87         |
-|  1 | Tangible book value per share of common stock (2) | 23.23        |          nan | nan          | 21.13        | 23.23        |          nan | nan          | 22.78        | nan          | 21.83        | nan           | 21.21         | nan           | 21.13         |
-|  2 | Market capitalization                             | 228,188      |          nan | nan          | 250,136      | 228,188      |          nan | nan          | 228,012      | nan          | 264,853      | nan           | 242,338       | nan           | 250,136       |
-|  3 | Number of financial centers - U.S.                | 3,887        |          nan | nan          | 3,984        | 3,887        |          nan | nan          | 3,892        | nan          | 3,913        | nan           | 3,932         | nan           | 3,984         |
-|  4 | Number of branded ATMs - U.S.                     | 15,335       |          nan | nan          | 15,730       | 15,335       |          nan | nan          | 15,407       | nan          | 15,528       | nan           | 15,572        | nan           | 15,730        |
-|  5 | Headcount                                         | 215,546      |          nan | nan          | 209,824      | 215,546      |          nan | nan          | 217,059      | nan          | 216,823      | nan           | 213,270       | nan           | 209,824       |
+
 Return on average common shareholders' equity
 Return on average shareholders' equity
 Return on average tangible common shareholders' equity 
@@ -341,25 +334,7 @@ Interest expense
 Net interest income
 Noninterest income
 Fees and commissions
-|    | Average common shares issued and outstanding 8,053.5         | 8,129.3   |   Unnamed: 0 | 8,040.9   | Unnamed: 1   | 8,065.9   | Unnamed: 2   | 8,088.3   | Unnamed: 3   | 8,107.7   | Unnamed: 4   | 8,121.6   |
-|---:|:-------------------------------------------------------------|:----------|-------------:|:----------|:-------------|:----------|:-------------|:----------|:-------------|:----------|:-------------|:----------|
-|  0 | Average diluted common shares issued and outstanding 8,162.6 | 8,182.2   |          nan | 8,080.7   | nan          | 8,182.3   | nan          | 8,155.7   | nan          | 8,160.8   | nan          | 8,163.1   |
-|  1 | Consolidated Statement of Comprehensive Income               | nan       |          nan | nan       | nan          | nan       | nan          | nan       | nan          | nan       | nan          | nan       |
-|  2 | (Dollars in millions)                                        | nan       |          nan | nan       | nan          | nan       | nan          | nan       | nan          | nan       | nan          | nan       |
-|  3 | Six Months Ended                                             | nan       |          nan | nan       | nan          | nan       | nan          | nan       | nan          | nan       | nan          | nan       |
-|  4 | nan                                                          | nan       |          nan | Second    | nan          | First     | nan          | Fourth    | nan          | Third     | nan          | Second    |
-|  5 | June 30                                                      | nan       |          nan | nan       | nan          | nan       | nan          | nan       | nan          | nan       | nan          | nan       |
-|  6 | nan                                                          | nan       |          nan | Quarter   | nan          | Quarter   | nan          | Quarter   | nan          | Quarter   | nan          | Quarter   |
-|  7 | 2023                                                         | 2022      |          nan | 2023      | nan          | 2023      | nan          | 2022      | nan          | 2022      | nan          | 2022      |
-|  8 | Net income $ 15,569                                          | $ 13,314  |          nan | $ 7,408   | $            | 8,161     | $            | 7,132     | $            | 7,082     | $            | 6,247     |
-|  9 | Other comprehensive income (loss), net-of-tax:               | nan       |          nan | nan       | nan          | nan       | nan          | nan       | nan          | nan       | nan          | nan       |
-| 10 | Net change in debt securities 723                            | (5,269)   |          nan | 168       | nan          | 555       | nan          | 353       | nan          | (1,112)   | nan          | (1,822)   |
-| 11 | Net change in debit valuation adjustments (394)              | 836       |          nan | (404)     | nan          | 10        | nan          | (543)     | nan          | 462       | nan          | 575       |
-| 12 | Net change in derivatives 49                                 | (7,187)   |          nan | (1,993)   | nan          | 2,042     | nan          | 835       | nan          | (3,703)   | nan          | (2,008)   |
-| 13 | Employee benefit plan adjustments 19                         | 60        |          nan | 9         | nan          | 10        | nan          | (764)     | nan          | 37        | nan          | 36        |
-| 14 | Net change in foreign currency translation adjustments 17    | (10)      |          nan | 5         | nan          | 12        | nan          | (10)      | nan          | (37)      | nan          | (38)      |
-| 15 | Other comprehensive income (loss) 414                        | (11,570)  |          nan | (2,215)   | nan          | 2,629     | nan          | (129)     | nan          | (4,353)   | nan          | (3,257)   |
-| 16 | Comprehensive income (loss) $ 15,983                         | $ 1,744   |          nan | $ 5,193   | $            | 10,790    | $            | 7,003     | $            | 2,729     | $            | 2,990     |
+
 Market making and similar activities
 Other income (loss)
 Total noninterest income

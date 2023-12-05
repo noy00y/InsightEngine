@@ -31,37 +31,29 @@ class Converter:
         self.markdown_text = []
 
     def extract_tables(self):
-
+        """
+        - Gets length of PDF and extracts tables from each page
+        - Saves tables and page # as dictionary
+        """
         # Get PDF Length:
-        formatLog = open("formatLog.txt", "w", encoding="utf-8")
+        # formatLog = open("formatLog.txt", "w", encoding="utf-8")
         reader = PdfReader(self.pdf)
         n = len(reader.pages)
 
         # Parse each page for tables --> store tables with page index
         for i in range(1, n + 1):
             tables = tabula.read_pdf(self.pdf, pages = i, stream = True)
-            # print(f"Page: {i} --> {len(tables)}")
             
             for table in tables:
-                if i in self.tables: 
-                    self.tables[i].append(table) # if existing table, add more to list
-                else: 
-                    self.tables[i] = table
+                if i in self.tables: self.tables[i].append(table) # if existing page, append table to list
+                else: self.tables[i] = [table]
 
-        print(len(self.tables))    
-
+        # # Testing:
         # for k, v in self.tables.items():
-        #     print(f"Page: {k} w/ {len(v)} tables")
+        #     logText = f"Page: {k} --> \n{v}\n----------------------------------------------------\n"
+        #     formatLog.write(logText)
 
-        # print(self.tables[28])
-
-        #     # Output Tables
-        #     if not os.path.isdir(t_folder):
-        #         os.mkdir(t_folder)
-            
-        #     for i, table in enumerate(self.tables, start = 1):
-        #         table.to_markdown(os.path.join(t_folder, f"table_{i}.md"), index=False)
-
+        # formatLog.close() 
         return
 
     # Extract Text and Gather Stats
@@ -70,11 +62,9 @@ class Converter:
         - Extracts Text
         - Generates Log of Text
         - Uses regex expressions to match for strings that would normally exist within a table
-
         - NOTE: Params for inserting table
             - min_cols # of columns required (table occurances) to add table meta data
             - min_txt # of regular text values required to reset table detection and allow for new detection
-
         - Table occurance is detected and meta data is added at page location to insert table during markdown generation
         """
         # Open PDF for reading and log for tracking stats
@@ -160,7 +150,7 @@ class Converter:
         - Generate font frequencies for formatting text
         - Collect font frequencies
         """
-        formatLog = open("formatLog.txt", "w", encoding="utf-8")
+        # formatLog = open("formatLog.txt", "w", encoding="utf-8")
 
         # Create (Rounded) font freqs and reassign to column:
         rounded_font = []
@@ -202,20 +192,12 @@ class Converter:
 
         self.text["headers"] = headers 
 
-        formatLog.close()
+        # formatLog.close()
         return
 
     def generate_markdown(self):
 
-        formatLog = open("tables.txt", "w", encoding="utf-8")
-
-        #     # Output Tables
-        #     if not os.path.isdir(t_folder):
-        #         os.mkdir(t_folder)
-            
-        #     for i, table in enumerate(self.tables, start = 1):
-        #         table.to_markdown(os.path.join(t_folder, f"table_{i}.md"), index=False)
-
+        formatLog = open("formatLog.txt", "w", encoding="utf-8")
 
         # Create markdown text
         for _, row in self.text.iterrows():
@@ -225,14 +207,13 @@ class Converter:
 
             # Insert table --> pop 
             if text == "<table>":
-                # print(text)
-                table = self.tables.popitem()
-                formatLog.write(f"\nPage: {page}, Type: {type(table)}\n--------------------\n{table}\n")
-                # if table is not None:
-                #     m_table = table.to_markdown()
-                #     # print(m_table)
-                #     formatLog.write(f"\nPage: {page}, Type: {type(table)}\n--------------------\n{table}\n")
-                #     self.markdown_text.append(m_table)
+                # If page and table exists in tables dict --> pop it
+                if page in self.tables and self.tables[page]: 
+                    table = self.tables[page].pop(0)
+                    if table is not None:
+                        formatLog.write(f"\nPage: {page}, type of table: {type(table)} --> \n{table}\n-----------------------------------\n")
+                        m_table = table.to_markdown()
+                        self.markdown_text.append(m_table)
 
             elif "h" in header:
                 m_header = TAG_TO_MARKDOWN.get(header)
@@ -246,9 +227,7 @@ class Converter:
         # Output to markdown file
         file = open("output.md", "w", encoding="utf-8")
         for line in self.markdown_text:
-            # print(line)
             file.write(f"{line}")
-            # file.write(f"{line}\n")
 
         formatLog.close()
         file.close()
