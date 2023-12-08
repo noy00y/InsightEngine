@@ -1,0 +1,97 @@
+Page: 21, table type: <class 'list'> --> 
+[                            What's new                                            Details                    Resources
+0            Digital Document Exchange  You can now request client documents directly ...              Compass Digital
+1            Digital Document Exchange                the Request client documents screen            Document Exchange
+2            Digital Document Exchange  You can also scan eligible documents directly ...                    spotlight
+3            Digital Document Exchange           sales case if you collected paper copies     Request Client Documents
+4            Digital Document Exchange  This digital document exchange feature is avai...              through Compass
+5            Digital Document Exchange             products / programs and document types          Scanning Procedures
+6            Digital Document Exchange             products / programs and document types              Scan to Compass
+7            Digital Document Exchange             products / programs and document types                  walkthrough
+8            Digital Document Exchange             products / programs and document types     Request Client Documents
+9            Digital Document Exchange             products / programs and document types                  walkthrough
+10  Personal Liability Business Credit                             Walkthrough on how to:  PLBCC Frontline walkthrough
+11                        Card (PLBCC)                         Apply for PLBCC on Compass  PLBCC Frontline walkthrough
+12                        Card (PLBCC)           Handle a rejection for PLBCC application  PLBCC Frontline walkthrough
+13     Switch a credit card type (with  When switching a client's credit card type, Co...    Switch a Credit Card Type
+14   or without credit limit increase)         the option to increase their credit limit.          on Compass (with or
+15   or without credit limit increase)         the option to increase their credit limit.               without a CLI)
+16   or without credit limit increase)         the option to increase their credit limit.        Walkthrough: Switch a
+17   or without credit limit increase)         the option to increase their credit limit.     credit card type with or
+18   or without credit limit increase)         the option to increase their credit limit.       without a credit limit
+19   or without credit limit increase)         the option to increase their credit limit.                     increase
+20                                ECRM  You can now launch Compass and also review exi...           Open Compass Using
+21                                ECRM                      details directly within ECRM.      BranchNet, ECIF or ECRM]
+----------------------------------------------------
+Page: 60, table type: <class 'list'> --> 
+[           Unnamed: 0          Unnamed: 1         Everyday Purchases (earn cashback or
+0                 nan                 nan            travel rewards with a credit card
+1                 nan                 nan               Pre-approved Credit Card offer
+2                 nan                 nan                   Apply New (new credit card
+3                 nan                 nan                                applications)
+4                 nan                 nan           Manage Existing (complete a credit
+..                ...                 ...                                          ...
+56  3. Recommendation              Review                                      Compass
+57  3. Recommendation           Insurance  Complete the Insurance Questionnaire Screen
+58  3. Recommendation       Questionnaire  Complete the Insurance Questionnaire Screen
+59  3. Recommendation  Messages and Notes    Review Adjudication Messages and Notes on
+60  3. Recommendation  Messages and Notes                                      Compass
+
+[61 rows x 3 columns]]
+----------------------------------------------------
+Page: 47, table type: <class 'list'> --> 
+[                                  Unnamed: 0     Identification and      Manage a Client's Personal Details on Compass
+0                                        nan             Occupation                                                nan
+1                                        nan          Offer Summary        Review the Product Offer Summary on Compass
+2                                        nan          Offer Summary         Follow Up with Clients on the Real Estate–
+3                                        nan          Offer Summary           Secured Lending Pre-approval Certificate
+4                                        nan          Offer Summary         Credit Card Manual Adjudication on Compass
+5                           4.  Adjudication              Navigator   Review the Adjudication Results for Real Estate–
+6                           4.  Adjudication              Navigator            Secured Lending Pre-approval on Compass
+7                           4.  Adjudication              Navigator       Product details: Real Estate–Secured Lending
+8                           4.  Adjudication              Navigator                              Pre-approval Overview
+9                           4.  Adjudication              Navigator            Prepare a Compass Sales Case for Manual
+10                          4.  Adjudication              Navigator                                       Adjudication
+11                          4.  Adjudication              Navigator      Appeal a Manually Not Approved Decision for a
+12                          4.  Adjudication              Navigator                        CIBC Credit Card on Compass
+13              5. Set up products — product              Navigator        View Pending Tasks for a Compass Sales Case
+14              5. Set up products — product              Navigator                                        Fulfilment
+15                               origination              Navigator                                        Fulfilment
+16                               origination        Convert Deposit               Convert a Deposit Account on Compass
+17                               origination  Perform Product Setup                             Finish product set up
+18              6. Prepare product forms and  Print Forms — Signing      If the client prefers to sign on paper, Print
+19              6. Prepare product forms and             Preference       Product Forms from Compass for paper signing
+20                      get client signature             Preference      If the client prefers to sign electronically:
+21                      get client signature             Preference                   See Compass Disclosure Reference
+22                      get client signature             Preference               Charts for all paper and eSign forms
+23    Note: For unsecured personal loans and             Preference               Charts for all paper and eSign forms
+24    Note: For unsecured personal loans and             Preference                 Prepare and Start eSigning Compass
+25  lines of credit (non-RESL) products: you             Preference                 Prepare and Start eSigning Compass
+26  lines of credit (non-RESL) products: you             Preference                       Forms (in person and remote)
+27   must scan the required documents before             Preference                       Forms (in person and remote)
+28   must scan the required documents before             Preference              Complete Compass eSigning Session (in
+29      funding. And as a temporary measure,             Preference              Complete Compass eSigning Session (in
+30      funding. And as a temporary measure,             Preference                                 person and remote)
+31       once the product has been activated             Preference                                 person and remote)
+32       once the product has been activated             Preference               Finalize eSignature Forms on Compass
+33      or disbursed, you must also send the             Preference               Finalize eSignature Forms on Compass
+34      or disbursed, you must also send the             Preference                Talking to clients about eSignature
+35    documents to RCS using the appropriate             Preference                Talking to clients about eSignature
+36    documents to RCS using the appropriate             Preference                         Signing Device Maintenance
+37                                   sleeve.             Preference                         Signing Device Maintenance
+38                                   sleeve.             Preference                     Help Clients with My Documents
+39                                   sleeve.     Edit Product Setup                    Edit Product Details on Compass
+40                           7. Close a case      Cancel Sales Case                        Cancel a Compass Sales Case
+41                           7. Close a case       Wrap up and Exit                 Close or Exit a Compass Sales Case
+42           8. Rejected documents and forms       Wrap up and Exit  If you get an automated email from Compass adv...
+43           8. Rejected documents and forms       Wrap up and Exit  you that the client's business documents or forms
+44           8. Rejected documents and forms       Wrap up and Exit  have been rejected, see Rejected documents or ...
+45           9. Task and status descriptions       Wrap up and Exit  To understand the task and status of your appl...
+46           9. Task and status descriptions       Wrap up and Exit  see Personal Liability Business credit card Co...
+47           9. Task and status descriptions       Wrap up and Exit                     tasks and status descriptions.]
+----------------------------------------------------
+Page: 1, table type: <class 'list'> --> 
+[   Calculators & Tools Client Services & Best Practices                        Sales Materials  Codes & Messages
+0            Borrowing          Client Engagement Model                          Offer Screens    Client Systems
+1  Convenience Banking       Client Experience Measures  Product Brochure / Marketing Material  Internal Systems]
+----------------------------------------------------
