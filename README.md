@@ -52,3 +52,17 @@ Examples of matching numbers:
 - Add tables to parsed text
 - Add page labels to pdfs
 - chunking strats w/ langchain
+
+https://www.youtube.com/watch?v=n0uPzvGTFI0
+https://www.youtube.com/watch?v=eqOfr4AGLk8
+https://www.pinecone.io/learn/chunking-strategies/
+https://python.langchain.com/docs/modules/data_connection/document_loaders/markdown
+
+https://www.techieclues.com/blogs/converting-a-string-to-markdown-in-python
+
+need horizontal filing as well
+
+pd.readhtml (for compass to markdown)
+
+
+vertifical and horizontal spans for kc
