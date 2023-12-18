@@ -60,7 +60,9 @@ https://python.langchain.com/docs/modules/data_connection/document_loaders/markd
 
 https://www.techieclues.com/blogs/converting-a-string-to-markdown-in-python
 
-
-need horizontal filing as well 
+need horizontal filing as well
 
 pd.readhtml (for compass to markdown)
+
+
+vertifical and horizontal spans for kc

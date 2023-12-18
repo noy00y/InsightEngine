@@ -8,6 +8,8 @@ import numpy as np
 from unidecode import unidecode
 from PyPDF2 import PdfReader
 import math
+import requests
+from bs4 import BeautifulSoup
 
 # Constants:
 # NOTE: Regex Patterns described in readme:
@@ -278,3 +280,77 @@ class Converter:
     
     def get_markdown(self):
         return self.markdown_text
+    
+class HTML_Converter:
+    def __init__(self, path: str):
+        self.page = path
+        self.tables = []
+    
+    def parse(self):
+        formatLog = open("tables.txt", "w", encoding="utf-8")
+        table_index = 1
+
+        with open(self.page) as fp:
+            soup = BeautifulSoup(fp, 'html.parser')
+            tables = soup.find_all("table")
+            for table in tables:
+                t_headers = [] # table header
+                t_data = [] # table data
+                for tbody in table.find_all('tbody'):
+                    rows = tbody.find_all("tr") # Table Rows
+    
+                    # Append first row as table headers
+                    for headers in rows[0]:
+                        text = HTML_Converter.clean_text(headers.get_text())
+                        t_headers.append(text)
+
+                    # Loop through each table row and append as row data
+                    for i in range(1, len(rows)):
+                        row_data = []
+                        cols = rows[i].find_all("td") # cols is a list of the cells for the row
+                        if (cols != []): # if cols not empty
+                            for cell in cols: # iterates through each cell in that row
+                                cell_text = "" # to be appended to row_data
+
+                                # If cell exists as bullet list --> parse as so
+                                cell_vals = cell.find_all("li")
+                                if cell_vals: 
+                                    for val in cell_vals:
+                                        text = HTML_Converter.clean_text(val.get_text()) # reg text
+                                        link = val.find("a", href=True) 
+                                        if link: 
+                                            url = link.get('href')
+                                            cell_text += f"[{text}]({url})\n" # keep links if exist
+                                        else: cell_text += f"{text}\n" # else keep just text
+
+                                # Else --> append as reg text
+                                else: 
+                                    text = HTML_Converter.clean_text(cell.get_text())
+                                    link = cell.find("a", href=True)
+                                    if link:
+                                        url = link.get("href")
+                                        cell_text = f"[{text}]({url})\n" # keep links if exist
+                                    else: cell_text = f"{text}\n" # else keep just text
+
+                                # append to rows
+                                row_data.append(cell_text)
+                        t_data.append(row_data)
+
+                # Create DF:
+                if len(t_headers) > 0: 
+                    df = pd.DataFrame(t_data, columns=t_headers)
+                    df.to_markdown(os.path.join("friday_test", f"table_{table_index}.md"), index = False)
+
+                    logText = f"Table: {df}\n"
+                    formatLog.write(logText)
+                table_index += 1
+        formatLog.close()
+        return
+    
+    @staticmethod
+    def clean_text(text: str):
+        return text.encode('ascii', 'ignore').decode("utf-8").lstrip("\n ")
+
+if __name__ == "__main__":
+    KC = HTML_Converter("Compass Central.html")
+    KC.parse()
