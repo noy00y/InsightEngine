@@ -288,12 +288,14 @@ class HTML_Converter:
     
     def parse(self):
         formatLog = open("tables.txt", "w", encoding="utf-8")
+        tableLog = open("logging_p2.txt", "w", encoding="utf-8")
         table_index = 1
 
         with open(self.page) as fp:
             soup = BeautifulSoup(fp, 'html.parser')
             tables = soup.find_all("table")
             for table in tables:
+                # print(f"Current Table: {table_index}")
                 t_headers = [] # table header
                 t_data = [] # table data
                 for tbody in table.find_all('tbody'):
@@ -332,24 +334,34 @@ class HTML_Converter:
                                         cell_text = f"[{text}]({url})\n" # keep links if exist
                                     else: cell_text = f"{text}\n" # else keep just text
 
-                                # append to rows
                                 row_data.append(cell_text)
+
+                        # Process Row Data and append to table:
+                        row_data = HTML_Converter.prepend_col(row_data, len(t_headers)) # prepend cols if incorretly formatted
                         t_data.append(row_data)
 
-                # Create DF:
+                # Extend table spans
+                dup_str = ""
+                for i in range(len(t_data)):
+                    t_data[i], dup_str = HTML_Converter.extend_spans(t_data[i], dup_str)
+
+                # Create DF, Generate Markdown and increment index for naming table:
                 if len(t_headers) > 0: 
                     df = pd.DataFrame(t_data, columns=t_headers)
-                    df.to_markdown(os.path.join("friday_test", f"table_{table_index}.md"), index = False)
-
-                    logText = f"Table: {df}\n"
-                    formatLog.write(logText)
+                    df.to_markdown(os.path.join("today_test", f"table_{table_index}.md"), index = False)
                 table_index += 1
+
         formatLog.close()
         return
     
     @staticmethod
     def clean_text(text: str):
-        return text.encode('ascii', 'ignore').decode("utf-8").lstrip("\n ")
+        return text.encode('ascii', 'ignore').decode("utf-8").lstrip("\n ").replace("\n", "")
+    
+    @staticmethod
+    def prepend_col(row: list, col_length: int):
+        if len(row) < col_length: row = [""] + row
+        return row
 
 if __name__ == "__main__":
     KC = HTML_Converter("Compass Central.html")
