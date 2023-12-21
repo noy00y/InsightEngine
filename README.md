@@ -1,11 +1,23 @@
 # InsightEngine
 
-## High Level Design
+## Introduction to PDF Parsing:
+- PDF documents encode data from documents as pixel data on a 2D plane (computer graphics) or using a non standard encoding scheme. As a result there is no standard format for parsing PDFs (ie. no differentation in how to process text, images, tables, etc...)
+- PDF parsing is usually most efficent and accurate when parser is highly customized to a specific pdf format or set of similar documents
 
+## High Level Design
+- In the context of InsightEngine, the domain of financial reports to parse range from various canadian and american banks meaning the engine should be generalized enough to ensure a smooth automation process of PDF's to markdown
+- (New Feature): HTML Parser
+    - Parse tables with embedded links
+
+## Specific Approach 
 - Table parsing done entirely with Tabula-py (requires Java Installation)
 - Pure text is parsed with PyMuPDF (not including tables)
 - Regex expressions are used to identity parts of text which exist within tables and thus ignored while parsing for text
-- Parsed Text and Tables are later joined together in the same markdown
+- Parsed Text and Tables are later joined together in the same markdown using the following logic
+    - `extract_text()` function takes in two params including min_cols and min_txt
+    - min_cols represents the min # of accounting values to detect before a table can be placed in text
+    - min_txt represents the min # of regular text values to detect before we can reset table detection and look to add more tables
+    - using both params we can accurately determine where to insert tables in the text
 
 ## Regex Explanation
 
@@ -30,39 +42,20 @@ Examples of matching numbers:
 SYMBOLS = r'^\s*[$%]'
 ```
 
-Examples of matching numbers:
-
+Example of matching text:
 - $
-- %
+
+3. Expression for matching percentages found alongside accounting numbers
+```python
+PERCENTAGES = r'^\s*\d+(\.\d+)?\s*%'
+```
+
+Examples of matching numbers:
+- 0.94 %
+- 0.79 %
+- 1.00 %
 
 ## Testing Tools
 
 `cat output.md | wo` get # of tokens
 
-## Notes
-
-- go thru docs to solve bugs --> github issues
-- how other ppl solved it (table headers used for placement) --> docs, github issues ,stackoverflow
-- free cashflow / statement of cashflow
-- income statement / financial statement
-- Balance sheet
-
-## Next Steps:
-
-- Add tables to parsed text
-- Add page labels to pdfs
-- chunking strats w/ langchain
-
-https://www.youtube.com/watch?v=n0uPzvGTFI0
-https://www.youtube.com/watch?v=eqOfr4AGLk8
-https://www.pinecone.io/learn/chunking-strategies/
-https://python.langchain.com/docs/modules/data_connection/document_loaders/markdown
-
-https://www.techieclues.com/blogs/converting-a-string-to-markdown-in-python
-
-need horizontal filing as well
-
-pd.readhtml (for compass to markdown)
-
-
-vertifical and horizontal spans for kc
