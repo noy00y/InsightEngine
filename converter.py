@@ -363,6 +363,33 @@ class HTML_Converter:
         if len(row) < col_length: row = [""] + row
         return row
 
+    @staticmethod
+    def extend_spans(row: list, dup_str):
+        # NOTE: max new line chars found --> use this for vert spans
+        max_line_c = 0 # NOTE: max new line chars found --> use this for vert spans
+        for i in range(1, len(row)): 
+            local_line_c = 0
+            for c in row[i]:
+                if c == "\n": local_line_c += 1
+            if local_line_c > max_line_c: max_line_c = local_line_c # update max new line if new max found
+        max_line_c -= 1
+        
+        # Update row spans:
+        if row[0] == "":
+            new_val = dup_str
+            for i in range(max_line_c):
+                new_val += dup_str
+            row[0] = new_val
+
+        else: 
+            new_val = row[0] # get old val and update it with itself (max_line_c times)
+            dup_str = f"{new_val}"
+            for i in range(max_line_c):
+                new_val += dup_str
+            row[0] = new_val
+
+        return row, dup_str
+
 if __name__ == "__main__":
     KC = HTML_Converter("Compass Central.html")
     KC.parse()
